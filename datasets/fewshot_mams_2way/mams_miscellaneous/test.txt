@@ -1,0 +1,527 @@
+0	3	1	I like the smaller portion size for dinner.
+1	3	1	) other food is served in too-small portions, but at least it leaves room for dessert.
+2	3	0	After ordering drinks, we both decided on the Paella Vallenciana, brought out on hot plates.
+3	3	0	Portions are fairly generous and the staff brings out multiple little bites and treats throughout dinner.
+4	3	0	Specialty drinks--alcoholic and non--arrive in skull mugs or mini-canteens, nifty take-home souvenirs.
+5	3	1	On ouor visit, our reservation was ignored and then we were asked to move from our seats at the bar, where we were told to wait, because we were not drinking enough.
+6	3	0	The Scene The entrance leads into a dim, narrow bar decorated with sake bottles, exposed brick and a beautiful arched wooden ceiling.
+7	3	1	However, the drinks are very good and this place is alright for brunch, if you don't mind sitting in a very cramped spot and/or waiting on line.
+8	3	1	THE DECOR HAS BEEN UPDATED TO A FULL BLOWN RESTAURANT BUT THE QUALITY AND THE QUANTITY HASN'T CHANGED.
+9	3	1	The food at Parish was tasy and well-prepared, but the portions were absurdly miniscule, especially in proportion to the prices.
+10	3	0	considering the prices on the menu, i'd rather go somewhere else where they know how to refill water and real chairs for everyone, something you can even get at mcdonald's.
+11	3	1	Recently I purchased a dish to go, and found that all of my meal contained just one large piece of ginger root.
+12	3	1	The numbness in your lower legs from sitting on old wood chairs is more than compensated by the wonderful food.
+13	3	0	This is not haute cuisine, but that' part of what I love about it - it has an honest, intimate feel with no pretensions, just like eating in an Italian family's home.
+14	3	1	The food was so-so and you would think it was a french resturant, the portions were so tiny.
+15	3	0	The Scene Flanked by a diner-style bar on one side and glass cases of sweets on the other, General Store resembles a cozy mom-and-pop rest stop on the way through Pennsylvania Dutch country--minus the cheesy gift shop.
+16	3	0	The prices are incredibly reasonable, especially considering the HUGE portions - by noodle soup could have fed both my husband and myself.
+17	3	1	There is a huge line, usually a 45 minute wait; they take no reservations and no tables of more than five people.
+18	3	0	Once we were seated our water order was taken promptly but they never came back with a menu.
+19	3	1	The portions were overly generous for both the apps and entrees without sacrificing the quality.
+20	3	0	As for the main attraction, the pies are known for their crisp outer edge and gooey middle, and feature the unorthodox layering of sauce over mozzarella.
+21	3	0	Although the prices is a bit on the high, you do get big portions for it.
+22	3	1	The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.
+23	3	0	The pieces were small but the fish was good quality and there wasn't a lot of rice to mess with.
+24	3	1	Miyagi is my sushi restaurant of choice in the Village; it's never insanely crowded, the service is very sweet (I've never experienced any of the nastiness described in prior reviews), and the tabs are small.
+25	3	1	We hung out by the bar mostly to ourselves, not an overwelming social crowd, but there were some georgous groups of hipsters looking like it was their meeting up before going out to the clubs (a few of the girls looked like top models), but the vibe was real chill.
+26	3	0	The food is right out of heaven, arrive hungry because the portions are huge but not the prices.
+27	3	1	I would recommend going at off-times (before 7 perhaps) to avoid the crowds as it gets packed and there isn't much room by the bar.
+28	3	1	there's always people waiting to be seated and the chairs are not comfortable.
+29	3	1	It appeared that they used a cheese pizza cooked earlier that day or the day before and just added the raw topping to it, then delivered it.
+30	3	0	The Romano family is very hands on with the father supervising the kitchen and Santo, the son, running the room with a high degree of personal attention.
+31	3	0	The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.
+32	3	1	True, the menu doesn't offer a wide range of choices and portions are not la all-you-can-eat, buffet style (but is that a negative thing after all?
+33	3	0	We decided to get out of there and go to a safe place with bigger portions and normal food.
+34	3	0	The small single room--wood panelling, large mirrors, white tablecloths, dim lighting--has few frills.
+35	3	0	The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.
+36	3	1	This pizza shop is one o fhte best places ever and is a hiden gem in a small community.
+37	3	1	Although the portions seemed a little diminutive at first, they turned out to be the perfect size once the dinner was over.
+38	3	1	The food will eventually make you outweigh Anna Nicole Smith.
+39	3	1	The food is decent but small portions so expect to order a lot.
+40	3	1	The scene is a bit much some time, but the food is worth it.
+41	3	0	My dinner partner ordered the angel hair with seafood - the portion was easily big enough for two.
+42	3	0	All dishes are an incredible dining experience.
+43	3	0	The menu is limited: chicken, rice beans, frozen fish (shrimp, whiting, crab sticks), and french fries, but one receives EXCELLENT value for the money and it is SO WORTH walking down the block for.
+44	3	1	Then the food came- TINY portions and plates came out in 15 min intervals.
+45	3	0	There is almost always an hour wait at dinner time, but this may be the best Japanese Sushi restaurant in NYC.
+46	3	1	The service was okay, fast seating (for two), looked like a group nearby had been there a long time.
+47	3	0	For the most part I enjoyed my dining experience at Revival (not to be confused with the bar on 15th).
+48	3	0	The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.
+49	3	0	I usually run the other way when I hear of an Italian restaurant with huge portions, because it's usually a lot of mediocre food.
+50	3	0	The table next to us had hummus which looked delicious, so we really should have stuck to appetizers and wine.
+51	3	1	When my (pregnant) friend asked about a non-alcoholic version of a drink, the answer was simply no, with no further suggestions.
+52	3	1	The $5 menu does have smaller portions, and I found the ravioli dish to be not too much better than a can of Chef Boyardee.
+53	3	1	Food - mostly steak and fish - is decent, but the portions are obscene - filet mignon and salmon were HUGE, but they don't come with any side dishes - you have to order and pay extra for them which is inconvenient and expensive.
+54	3	1	My entree was just some noodles in a butter sauce with no texture or color, except for a little bit of spinach which was more like a garnish.
+55	3	0	Decor is simple yet functional and although the staff are not the most attentive in the world, you don't feel rushed and the food is good, hot with decent portion sizes and a good selection to suit most tastes.
+56	3	0	The menu is divided up into several sections, and most of the dishes are smallish plates, like tapas.
+57	3	0	Decent value for decent chinese food for the area - obviously you can get cheaper down in chinatown.
+58	3	0	They have Boylan's root beer, coffee that's freshly ground that day, and a relaxed casual atmosphere with friendly waitresses.
+59	3	1	The portions are now very small, the sauces are overly-ambitious usually inedible while the service is still good, the restaurant, due to its popularity, seems frantic.
+60	3	0	A collection of stormy sea paintings and two mermaid figureheads hoisting lights above the bar set a lulled maritime mood.
+61	3	1	Great food, but tiny portions and inexcusable service - disorganized, amateurish and definitely overpriced by a long shot.
+62	3	0	while I think the menu could use better appetizers all of the main courses are DELICIOUS- also the service is so much better than the ratings.
+63	3	1	After I inquired why the food was taking so long, the waitress told us that the 2 dishes we ordered take a long time.
+64	3	0	The Food The French-Belgian menu is small, but everything on it is satisfyingly savory, from a simple pot of mussels in a choice of sauces (beer and bacon, creamy mushroom, or white wine and garlic broth), to beef stewed with beer and prunes; from a juicy croque monsieur and beyond.
+65	3	0	I'll second the recommedation for the Purity--which has much faster, better service at half the price and a whole lot more selection.
+66	3	0	The jukebox is always playing good tunes, and the patrons are never shy about getting up and dancing in the aisles, or even on the bar.
+67	3	0	The place was jumping on a Mon nite, as was the bar, but with a nice mixed crowd.
+68	3	0	Mango ice cream or coffee-flavored gelatin finishes the flavorful journey.
+69	3	1	Walked in on Chinese New Year Sunday late in the afternoon, around 5 or 6 -- seating was not a problem the dim sum was deliciously fresh -- very likely a by-product of their not using carts.
+70	3	0	The line moves quickly, perhaps because there are no alcoholic drinks, which cuts lingering at the tables to a minimum.
+71	3	1	The choices for vegetarians are extremely limited, unless one is content with side dishes.
+72	3	0	Reserve a cozy window seat for more privacy, or hop onto a stool at the bar to dine solo.
+73	3	0	Nostalgic lodgey bric-a-brac adorns the livelier front dining room and bar, while the dim, non-smoking back room is decorated with stained glass and modern, Mission-style chairs.
+74	3	1	though the portions were smaller than average, the flavor and sauces that accompany them (truffle honey, cherries and peaches in mustard sauce) were all really good.
+75	3	1	The portions are not HUGE, but you are very full by the end of your meal.
+76	3	0	But, quickly all would realize that most items on the menu are grease-laden, and the portions are so big that you'd get tired of the flavors before you finish half a plate.
+77	3	0	The view is the reason to go to this restaurant, not the food nor the service.
+78	3	1	My only gripe was that the food was all in big bins, but that's expected for a lunch rush hour type crowd.
+79	3	1	Great wine list with an extra expensive selection for all you big spenders.
+80	3	0	On top of that, the portions were hearty enough that we barely had any appetite left for dessert.
+81	3	0	On each table there's a variety of sauces and spices, which you're encouraged to add to your dish; by the end of the meal you mind up with something completely different in your bowl from you started, but it will still be so satisfying.
+82	3	0	The chef/owner is always walking around making sure everyone is having a good time.
+83	3	0	After a couple of drinks upstairs before our meal, we slipped downstairs to a nice corner table that offered plenty of privacy in this 'loud' place.
+84	3	0	the filet came out and was absolutely delicious, on a bed of julienned vegetables in a balsamic vinagarette sauce.
+85	3	0	Went for restaurant week and surprisingly on the menu were entree options of Mahi, Mahi, Kobe Beef ribs, Salmon and some other things in very reasonable portions.
+86	3	1	Portions were certainly substantial for lunch.
+87	3	0	The Setting The exposed brick and tangerine walls, flickering candles and tiny bar cast a formal mood across this cozy Park Slope trattoria, but the high ceiling fans and two glass walls (left open in warm weather) add a casual breeziness.
+88	3	0	If you are expecting big portions, go find a Cheesecake Factory.
+89	3	1	Pastas include shellfish-stocked linguine with tomato sauce, and an excellent homemade cheese ravioli--all are available in half portions.
+90	3	1	Menu had several fish selections (snapper, salmon, cod) but all were around $30 despite the fact that the portions would hardly fill a child's belly and the sides were 3 pieces of lettuce (literally).
+91	3	1	Particularly good is the chicken verde burrito with a refreshingly spicy salsa that avoids the heat overkill.
+92	3	1	The food was pretty good but the portions were smaller than what I would expect for brunch.
+93	3	1	Everything that could go wrong did starting with the set menu that I was not informed of at the time of the reservation, to trying to seat us 45 minutes late at a table that was not made up.
+94	3	1	There is a bar right by the door, which is convenient while waiting in the long lines for a seat and be prepared to wait on the weekends.
+95	3	0	Those waiting inside to get a free table and waitresses carlessly walking by only served to make matters worse.
+96	3	1	So maybe I'm naive to the latest trends in dining, but I really didn't like it.
+97	3	1	When the pizza arrived it was definitely hot, however the topping was rather soggy from the moisture from the fresh tomatoes.
+98	3	1	The green hair table and seating at the front window was tacky and gimmicky, but figured it's the food that counts.
+99	3	1	The Food The pan-Italian menu forgoes the appetizer-entree format in favor of fairly priced small plates, which quickly add up.
+100	3	1	The food makes up for it, though the quality has fallen victim to it's success.
+101	3	0	The Japanese folk music blaring on the quaint speakers are a trip and they have some interesting things on the menu like bull pen|s and turkey testicles.
+102	3	1	The waitress recommended four courses, not three, given their tiny size.
+103	3	0	One person's dinner was cold, another was charged for a larger portion than ordered, and my shrimp pasta was inedible.
+104	3	1	Babbo and Lupa are significantly better, and this place should redo the menu, or empty seats could become the norm.
+105	3	0	Pad thai and a variety of noodle soups, such as pho bac and Bangkok Curry, round out the menu and arrive in heaping portions.
+106	3	1	The portions are not huge, but they do include an alcoholic beverage or fresh juice, so that made up for it.
+107	3	0	Besides ordering single dishes you can also order family style.
+108	3	0	Soy abounds, in all forms: as firm patties, pure squares of glistening tofu, and something called a hijiki patty--mixed tastily with shreds of seaweed, then fried.
+109	3	0	This restaurant was a great value, even though I know nothing about the prix fixe menu.
+110	3	0	Down right comfortable, pleasant, enormous portions, have lunch and bring home a doggie bag wth your dinner.
+111	3	0	Their Korean menu was also equally impressive, A must try is the Kimchee cabbage pancakes as an appetiser ( the portions were as big as an entree!)
+112	3	1	Count on fresh, fairly priced cuts of fish that represent a good value, even if portions are a bit on the small side.
+113	3	1	The food was cold and did not match the description on the menu, the waiter could not be bothered with me (and I am nice to deal with since I work in the industry), and it was way over priced.
+114	3	1	00 bottle of wine, we had to endure the waiter's attitude, like he was doing us a solid, if you're into huge Euro crowds and don't care about what you eat and how it is served to you, Baraonda is your kind of place.
+115	3	0	Went to dinner with some girlfriends on Wednesday at Calico Jacks and had a fun time.
+116	3	0	You'd expect one to have more dessert options, other than rice pudding.
+117	3	1	The waiter's knowledge of the menu and ability to make recommendations were ridiculously bad, requests weren't observed effectively, and our water and wine glasses were not kept full.
+118	3	0	This Prospect Heights institution, with its old-fashioned soda-fountain type counter, complete with cakes of the day on pedastals w glass covers, attracts a diverse and loyal crowd.
+119	3	1	The host was playing god with his headset and reservation list, the bar was packed with horney drunken investment bankers, reservations are a joke and after haplessly sliding the plates at us when serving the food, they couldn't wait to collect the plates until we were done.
+120	3	0	It was absolutely delicious to the point where i went back and asked for a variety plate They were so nice to accomodate me and gave me almost everything on the menu to taste from.
+121	3	1	the sushi was good and the service was not as bad as some would have you think but the crowd was more business than hip, more wall st.
+122	3	1	The salad looked as though they have a premixed trash bag full of it, and they just dump a heap of it on a plate.
+123	3	1	The crowd is not young, but hey, go somewhere else to get a drink afterward.
+124	3	0	Appetizers took their sweet time in coming, and literally about an hour later we had our main dishes which were very small considering the price.
+125	3	1	From the enormous menu, we opted for the 3-course dinner specials - chicken soup or clam chowder, although small portions, came with loads of rolls, crackers etc.
+126	3	1	Tension filled the air as the chief yelled at a waiter in the middle of the bar while in uniform and drinking.
+127	3	0	I organized a dinner for 20 and was extremely satisfied with the results.
+128	3	0	The other two entrees that were ordered were very large portions.
+129	3	1	I am not one to waste dessert but we threw away the box after taking a few bites of it.
+130	3	0	The food wasn't impressive either- I was expecting huge portions, but my lobster ravioli was only 4 medium sized pieces, and I've tasted better at other restaurants.
+131	3	0	Good value for breakfast.
+132	3	1	Although the food was in small portions, it was good.
+133	3	1	Though the celery root soup was super yummy - everything else was an overpriced letdown- the plates come out looking like it's the depression era.
+134	3	1	Everyone says that their round slice is no good, but the Sicilian is so good that I have never tried the round.
+135	3	0	I recently went to this restaurant with some co-workers for lunch and had an amazing time.
+136	3	1	Even though the place was more than half empty he refused to do so because we had already given our order to the waiter and a change of tables would cause too much confusion.
+137	3	0	The Scene With three outposts around town, Sarabeth's Kitchen has become a well-known and reliable spot for casual dining at breakfast, lunch or dinner.
+138	3	1	Whatever happen to FAMILY STYLE Thai cooking, the portion are too small and tradtional thai cooking uses MSG which I prefer not to have in my body.
+139	3	1	Plus, everything comes in small to average portions, so the next time you get a sushi craving, I don't recommend that you go here.
+140	3	1	If only they'd get a better wine list - the reds are all so mediocre - this would be the perfect meal.
+141	3	0	Special touch -- my dessert plate had Happy Birthday drizzled in chocolate.
+142	3	0	This is the perfect spot to meet up with friends and have a drink at the bar or stay a while and enjoy the scene and savor the food.
+143	3	0	Knock off 15-20% of the prices and you have a decent night out.
+144	3	0	I liked the hummos platter, the brie sandwich, and about 20 other things on the menu (if they still have the chocolate cake you need to get it).
+145	3	1	It's in a less travelled spot on 3rd, but the intimate setting is great and romantic.
+146	3	1	It's a good place to meet up with a friend while shopping, grab lunch (although the lines do get long), dining solo, or to take home after work.
+147	3	0	It came with a (small) salad, large bowl of udon, and 6 pieces of sushi plus wrapped rice (not sure what that was called.
+148	3	0	Increedible value, 3 courses $20 price fixe(menu changes everyday), organic seldom seen wines all around $20.
+149	3	0	Perhaps it was because the 20% tip was already added to the bill, but the waiter brought us plain gazpacho without any of the other ingredients described on the menu; later, when we complained, he brought us saucers of garnish instead of new bowls of the soup properly prepared.
+150	3	0	Music is a nice mix of everything from Aerosmith to James Brown to Metallica to disco to whatever else there is.
+151	3	0	Worth the trip over the bridge, worth the search for parking, worth the wait for a table at dinner time and worthy of a ten rating.
+152	3	1	The kitchen is fast, but you sometime may have trouble getting a seat, since this place is very small.
+153	3	0	The outdoor tables overlooking bucolic Irving Place, or the wooden ones inside, are prime spots for brunch featuring all the usual suspects--omelets, pancakes, French toast--served on cast iron skillets and griddles.
+154	3	0	With the large crowds here and the larger menu, be prepared to wait for your dinner to arrive at your table.
+155	3	0	junk food place that could do well with a good cleaning.
+156	3	1	And while a narrow wood counter and three stools provide desperation seating, most folks choose to take lunch and dinner to go.
+157	3	0	it's a very chill spot to hang with a group, I went there with a bunch of my friends to have drinks for my birthday and we all had a great time.
+158	3	1	The upside of the smallish portions is that a good sake can do a better job working over one's date, and you don't leave the table w/ a food coma.
+159	3	1	Amarin's food is always fresh, although the quality does vary--avoid ordering on Friday Saturday nights, prime dining hours, when they seem to throw things togehter a little too haphazardly.
+160	3	1	not fancy I think they keep their christmas decorations up all year long, but good mexican food!!
+161	3	0	On each of my several visits, the crowd is local, professional, family and those who are not familiar with the cuisines of India are deftly walked through the menu by management.
+162	3	0	The huge terrace is just so beautiful--and rumor has it they'll be tenting the space this fall, so we midtowners can continue to dine outside through the end of the year.
+163	3	1	When I saw it on the menu I didn't beleive it and was not expecting the real thing.
+164	3	0	even when they informed us they were out of the port we chose to accompany our dessert, the manager made sure that we were offered an even better bottle that wasn't even featured on the menu.
+165	3	0	If it was outstanding I could see it as a nice change for lunch, but the peanut butter wasn't any better than one you could buy at any grocery store and the chocolate peanut butter brownie was horrible.
+166	3	0	It's served cold with carmelized onions atop, with mashed potatoes on the side and it's the best darn thing this side of the Hudson.
+167	3	1	You may as well just extend the bar into the restaurant since it has already penetrated it with loud music, loud voices, and a remarkable amount of cigarette smoke.
+168	3	1	It says it on the menu and the servers explain it to you as soon as you sit down so I'm surprised by how many people on this site complain about the portion sizes.
+169	3	0	The Food The key element to a proper British chip is fat, and the flabby, pale yellow specimens here come close to the ideal.
+170	3	0	The menu is a bit different and all of the selections are pretty tasty.
+171	3	0	Basically traditional menu could have been boring and old-fashioned, but is instead updated enough to please modern palate: steaks, seafood, fish, poultry - ample portions (we took half home), seasoned with care and imagination.
+172	3	1	Really great thin crust pizza - hot and fresh and fast, though you'll probably have to wait for a table.
+173	3	1	Granted, it's loud and sometimes obnoxious and it's such a pain to get seats for, but the the food is great.
+174	3	1	Love the pizza here (although the slices aren't as fresh at 3am, but who's that picky when you're drunk), and there's plenty of other good stuff.
+175	3	1	We went ot Al di La a bit earlier than we usually go to dinner, mainly due to the fact that reservations are not accepted.
+176	3	0	With a chef from Liguria, Italy, authentic Neapolitan brick oven pizza and one of the most impressive Italian wine lists I've ever seen, this was the real deal!
+177	3	0	Bouley has done an excellent job creating this dining establishment with almost a museum sense, the artworks on the wall have a very Klimty feeling and the gold ceiling completes the rest of the experience.
+178	3	0	Coffee, treats, and the best of eerything.
+179	3	0	The scene was sassy and cool, but i would never eat dinner here again.
+180	3	1	They do have a large menu of things along the diner lines, and they go a little gourmet on the brunch omelette fixins/combos.
+181	3	0	Fresh fish, tender milk fed veal and outrageous Veal Chops adorn their menu and special list.
+182	3	1	Besides, they used to be much more accommodating when I used to request a jalebi paratha instad of a plain naan as part of the brunch price.
+183	3	0	The Scene Petite Abeille is ideal for a lazy lunch, a restorative brunch or light dinner.
+184	3	1	We were directed to a table by a member of staff, which we were then informed was reserved, and lost our seats at the bar, all this after spending upwards of $30 each on very expensive drinks over a two-hour period.
+185	3	0	Good Italian spot, but should raise the bar on the food before some newcomers challenge its standings.
+186	3	0	went here late night after a a few drinks at my favorite watering spot and was amazed that a place which serves food till 4 can be so damned good.
+187	3	0	the heroes are enough for lunch and dinner.
+188	3	1	While the appetizers, entrees, and desserts arrived in a timely manner, our water glasses maintained consistently empty (at one point one of us had to ask for water twice!)
+189	3	1	Corner Bistro, despite the hoopla and critical praise, is nothing more than a burger joint with long lines.
+190	3	0	The Food Mi Nidito's menu offers a considerable array of Mexican standards, with a separate page for seafood, such as King crab enchiladas, and another for vegetarian dishes such as almond-sauteed vegetables.
+191	3	0	After finally choosing banana-macadamia nut pancakes (a Hawaiian favorite of mine) after being unable to decide between 4 or 5 dishes that all sounded spectacular, I sat back and enjoyed the (complementary) tall shot glass of the smoothie of the day.
+192	3	1	Although Sweet Melissa's food and pastries are very tasty, the unfriendly folks who work there sour the experience.
+193	3	0	from drinks at the bar, to our perfect round table!
+194	3	0	Unlike some of the other reviews here, the reservation was upheld, the waiter took the time to explain each dish and frequently asked if we wanted more of anything (which we did, several times).
+195	3	1	Anyway the food was really good, the portions are not big however very filling and exceptionally good.
+196	3	1	I found my dinner to be a bit on the heavy side and blamed the large portions.
+197	3	0	Once in the oven (electric, mind you), he shifts pies every few seconds to attain nicely-charred, chewy crust perfection.
+198	3	1	cause, I was bored by the club scene and too overdressed for the local bar.
+199	3	0	When we followed the waiter to get back the card, the Manager explained that their machine did work, but someone else's bill was charged on our card (total charge=$140).
+200	3	0	My experience at the The Pearl Room was like no other place in Bay Ridge, you walk into a dimly lit atomsphere and a well dressed crowd.
+201	3	1	The atmosphere was a+, until a friend and I were rudely interrrupted and rushed out by the attendant at the door when the check was only returned to us just 5 mins.
+202	3	1	Go have a drink there the space is beautiful and buy an appetizer maybe, but pass on dinner, not well cooked and small portions.
+203	3	1	When you feel like eating again an hour later (portions are small) at least you won't feel as regretful about ordering take-out.
+204	3	1	We had to wait 20 minutes before getting a beer, and we never got our burger order.
+205	3	0	Dim, candlelit dining room is accented by a funky star pointed bar and multi-colored ceiling lamps, with trendy upbeat music in the background.
+206	3	1	I went for dinner at Lucy the other night with five friends and it was the best experience I've had in a long time.
+207	3	1	The portions are like a buffett for breakfast.
+208	3	1	Dinner is okay - not many vegetarian options, and the portions are small.
+209	3	1	I'm not going to trash the place simply because I had a bad experience there, but here's the facts: the food is very good, the portions are small-to-medium, and the prices are large.
+210	3	0	I went for lunch yesterday and had a lovely time.
+211	3	0	Don't expect trendy atmosphere: room looks like it could have been designed in 1940s, but who cares - it's actually comfortable and inviting; with great food and unbeatable value, you can't go wrong.
+212	3	1	The food was very good but the portions are pretty small, so while the prices are low, the place is not quite a bargain it seems to be.
+213	3	0	For the price you pay, you get good quality and deliciously thin sliced beef.
+214	3	1	The food was pretty good, but a little flavorless and the portions very small, including dessert.
+215	3	0	I had the lentils and cous cous for lunch the next day because my friend and I had appetizers before our entrees-- portions are pretty decent for the price, and tasty to boot.
+216	3	0	At least you have the ambiance and lovely live piano musice being played for you while you wait.
+217	3	0	The music was a bit loud but the song selection was great, so we blew off desert and had another round of drinks at the bar.
+218	3	1	The service was nice, although our food took longer than usual to arrive because it had been brought to the wrong table and accidently eaten.
+219	3	1	The food was very good but portions were small.
+220	3	0	The food was delicious, and the menu provided ample choices which suited all of the eaters in our party from the most daring to the most conservative.
+221	3	0	warm orangey glow, nice old mexican prints, wee bar that my bf and i vowed to go back and linger at.
+222	3	1	Our meals were a moderate portion and they weren't too spicy.
+223	3	1	The place was a bit noisy, but sitting on the edge of the restaurant helped, and although the portions were small, w/ an appetizer it was the perfect amount of food.
+224	3	1	Although the sushi was fresh, I was disappointed with the size of the portions for the price.
+225	3	0	The atmosphere was so fun that we decided to have another cocktail at the bar and enjoy the scene.
+226	3	0	This is definitely a special occasion spot, unless you don't mind a hefty bill, but rest assured that either way, it's well worth it.
+227	3	0	I used to live in Japan, and have had some pretty good raw fish, but I was blown away by the Chef's tasting plate, which includes 6 appetizers including a stunning octopus portion and some incredible sashimi.
+228	3	0	I liked the place and the people, but we really went to have dinner no appetizers as the whole dinner.
+229	3	1	When the food arrived, the portions were really small, and didn't really reflect the awesome descriptions on the menu.
+230	3	1	Only problem was - an older gentleman (well-dressed but a little enebriated) chose to sit down right next to me - despite the fact that all 15 other seats were free - order himself a martini, and then describe how dry and dissapointing the burger was when he ordered it a few days ago.
+231	3	0	The bar has a large selection of beers on tap,bottles or cans.
+232	3	1	Waited 30 min for a brick they call bread and water, another hour for food (tiiiiiiiny portions).
+233	3	0	Granted we were just the girls, but this would also be a great date spot b/c the ambiance is chic and bustling yet you can also hear the conversation at your own table rather than a loud din or worse, someone else's conversation.
+234	3	0	The portions are big so you can split an appetizer.
+235	3	0	I've never been able to find a lunch place in the midtown with the same quality and service, until now.
+236	3	0	Order the porterhouse and they put it between you and you kind of eat family style at a wooden table.
+237	3	0	The bar gets out of control busy due to it's proximity to Fordham University--but the Fordham kids are cool, so it's alright!
+238	3	1	I write that in quotes becuase iceberg lettuce, stale Pepperidge Farm croutons and bottled dressing does not a salad make.
+239	3	1	This was followed by various wacky hijinks: overly sweet foie de gras, lack of extra ginger/soy sauce, minute portions even for sushi, appetizers arriving at different times.
+240	3	0	And the room is VERY noisy, but I suppose that's because everyone is having a good time.
+241	3	0	The table next to us recommended that share because the portions are big(we split two entrees)The food was so good I wish that there was some left over to take home for the next day.
+242	3	0	Al Di La serves up an impressive selection of options ranging from meditarranean fish to rabbit to to duck to pasta.
+243	3	1	The food is decent, but WAY TOO SMALL of portions for what you pay for.
+244	3	1	It took forever to seat us even though the restaurant was almost completely empty, then we had to ask to be waited on, it took another 15 minutes to get our drinks, and then another 30 minutes to get our salad and then even more time to get our pizza and then our bill.
+245	3	0	As expected, the beer selection is perfectly in synch with the menu.
+246	3	1	You must think that the quality is poor for them to sell it for such a low price.
+247	3	0	The Food Consulting Chef Douglas Rodriguez's forte is blending the diversity of traditional Latin cuisine with modern culinary chic: A celery sorbet cools the spicy-citrus bite of lobster; shrimp seviche and crunchy green plantains coat thick, juicy halibut resting on sweet plantain hash; and tart tomato escabeche moistens a chewy skirt steak.
+248	3	0	The Food A good way to judge a Thai spot is by its green curry: The all-Thai staff here fashions it spicy and smooth, filled to bursting with meat and thin-sliced bamboo shoots.
+249	3	0	The kitchen turns out a long list of American bar food staples, like burgers and fries.
+250	3	1	The portions are small but being that the food was so good makes up for that.
+251	3	0	The restaurant was recently taken over by new managment and, having eaten there under the prior management, I can say that the quality of the dishes has improved.
+252	3	0	Theme and actors are kinda cool but you are charged some entertainment fee on top of the expensive food and drinks.
+253	3	0	The Food This isn't for those on a budget, but portions are generous.
+254	3	1	The food is on the good side but not so terrific to compensate the bad service, crammed tiny-tables, dirty glasses, overly loud music, which is good for the bar part of the establishment but not when you want to seat down, eat and have a normal conversation at normal volume.
+255	3	0	I just had dinner there with my girlfriend and we had the best time.
+256	3	0	Amazing views of NYC regaled us at lunch earlier in the week and then at dinner this evening.
+257	3	0	Multiple televisions on both sides of the cozy room ensure unobstructed sight lines for fans, whether they're sipping pints at the oak bar or snacking on pub munchies--like baked clams, nachos, and buffalo wings--at tall tables in front.
+258	3	0	The bright point of dinner was dessrt.
+259	3	1	Their appetizer portions are not huge, just right since the entrees are much larger.
+260	3	1	Just don't take the seat between the bar and the back half of the restaurant, i saw a woman get nudged 40times sitting there.
+261	3	0	It has the most authentic Mexican found I have found in the Metro area and the margaritas are outstanding.
+262	3	0	The characters were very entertaining, and while the prices are a little steep, it is well worth the cost.
+263	3	0	We ordered a platter that was an asssortment of appetizers which was great recomendation.
+264	3	1	Beautiful rooms filled with beautiful people, but expensive for what it is ($68 prix fixe), limited menu, tiny portions, reeeeeeeally slow service, undercooked potatoes with the cod, less than fascinating desserts.
+265	3	0	The owners Pat and John are very friendly and can often sit and have a beer with you.
+266	3	0	It's not going to win any awards for its decor, but the food is good, the portions are big, and the prices are low.
+267	3	1	Portions are small, they try to pass themselves off as family style by encouraging sharing and putting dishes in the center of the table, but it is glorified a la carte.
+268	3	1	1) they gave us the wrong table had to wait 10 minutes until they gave us the one we wanted 2) had to wait 15 minutes for a waiter 3) ordered chicken and brocolli.
+269	3	0	I was tempted to try the dessert because I've heard rave reviews about it, but we were stuffed, as the portions are fairly large.
+270	3	0	The Scene Uncomplicated, tasteful touches--a soothing abstract painting, an exposed brick wall, a tiny bar--grace the restaurant's neutral-toned interior.
+271	3	1	There is a long bar area wide enough to accommodate large crowds, large screen tv's on the walls to view games, but not that do not dominate the atmosphere, and up front there is a large lounge are with several booths and a working fireplace.
+272	3	1	I absolutely hate communal seating and closely spaced tables and this place had both, but the atmosphere and the food were such that I was able to get beyond the grumpy mood that put me in to have a really good experience.
+273	3	1	Last, but not least, when we walked in, most of the clientelle was Vietnamese and next to us was a food critic whose review was on the back of the menu.
+274	3	1	The pooris were miniscule, about 2 bites each; they serve 4 of those as a dinner for $25!
+275	3	1	The waitress told us the portions were not big, so we each got an entree and shared a side.
+276	3	1	Food was good but portions were quite tiny.
+277	3	1	If you're looking for barbeque like Dallas BBQ (soaked in sauce from a bottle, generic, homogeneous food) then you won't like Blue Smoke.
+278	3	1	Lost reservations, out of liquor, jam-packed, waiting room, out of wine, sent steak out raw, no choices for dessert, no room to breathe, terrible service, etc.
+279	3	0	Instead of being smart business people and treating us as paying customers, we were told they do not serve drinks, only food (only food?
+280	3	1	A narrow corridor leads to a tiny space where there are three tiny white tiled counters, a great deal of mess (stacks of bottles, cans) and a small counter holding 12-14 entrees.
+281	3	0	The Scene The bright mix of colors painted on the cafe's walls matches the vivid margaritas that sit on nearly every table and litter the sceney bar.
+282	3	0	While the appetizers I sampled (gnocchi; shrimp wrapped in coconut or somesuch) were not so impressive (the gnocchi portion is meager and overpriced), my table was 100% satisfied with their entrees too.
+283	3	0	Or better yet, if on a budget and want to do something romantic, stop at the bar for a drink and enjoy the sunset.
+284	3	1	Finally got our food after waiting a long time for oysters, doesn't take that long to shuck 'em, the place isn't that big, and it was OK.
+285	3	1	After a crazy day @ work, with no reservation, we were so lucky to score a seat at the bar on an incredibly busy evening.
+286	3	1	Dining experience begins with cracked, filthy vinyl tile flooring tables so small close together that you couldn't move.
+287	3	1	When the manager came to our table at the end of the meal and asked how our experience was, I complained to him about the cold.
+288	3	0	The meal arrived just as we were finishing the appetizers, each good portions.
+289	3	1	both appetizer and main were poorly made by some random cooks the picked up from who knows where.
+290	3	1	The choices on the menu were very limited-discounting raw items, there were practically no appetizers The foie gras de canard was mediocre with a syrupy sauce.
+291	3	1	They did a great job on the decor but it seems that the food has gotten a bit less in the quality department, as well as in the portion size!
+292	3	0	The irony of it all is that I tried the fish and chips at a sports bar across the street the following week, 1/2 the price (w/ fries included), and the portion was bigger and much tastier.
+293	3	1	Since it changed owners/chefs, the portions are smaller (I always used to ask for a doggie bag for my chic-parm), now I can finish and still be hungry even after appetizers (which aren't as good anymore).
+294	3	1	The only reason they seem to taste so good is because the food is well decorated with its super small portion.
+295	3	0	large portions so unless you are of large stature you should not get 2 appetizers.
+296	3	0	The Food This Cajun-Italian menu is lengthier than its Manhattan counterparts--here, adventuresome diners can still design their own pies, but they can also feast on oversized plates of peel-and-eat old bay shrimp and cajun spaghetti with meatballs enlivened with andouille sausage.
+297	3	0	In Short It's a bakery, takeout place and cafe all in one, and thanks to dishes prepared using the same ingredients stocked at famed gourmet food emporium, Zabar's, prices and quality are upscale.
+298	3	1	The portions were pretty small for the price, I thought, and I never got the coffee I ordered.
+299	3	0	I went to Joy hoping to find some great Indian, but unfotunately found curry that was no better than average.
+300	3	1	I don't remember the dessert item but when it was brought out flashing lights overhead threw colored beams on the walls and a young waiter came over to our table and did a little dance that was Bollywood MTV for the East Village set.
+301	3	1	Drinks took a while, and after a few rounds pf the we're sorry, we don't have this bottle sir routine.
+302	3	0	Moules were excellent, lobster ravioli was VERY salty!
+303	3	1	however the dessert porportions somehow ballooned to regular conventional sizes.
+304	3	0	Otoro tuna, gorgeously marbled with fat, is captivating; hamachi sashimi, topped by the chef with a whisper of sea salt and a barely-there squeeze of lemon, creates eye-rolling pleasure.
+305	3	1	Beer selection is a bit slim, but seats are plentiful and there are several sports monitors placed about the bar.
+306	3	0	The drinkers beside us had fresh glasses of water brought on trays to replace the empties and a smiling waitress to cater to their every whim.
+307	3	0	The ingredients used are of a good quality and the taste is superb.
+308	3	1	In Short Many Murray Hill locals gladly overlook the dull green walls and fluorescent lighting for Jaiya's quick and affordable Thai cooking--if not, they take meals to go or get them delivered.
+309	3	0	Wide range of dim sum and food.
+310	3	1	Mojitos were good and prices werent bad but sides should be included in price as portions are tiny.
+311	3	0	Whether it is a weekend brunch, dinner, or just hanging at the bar for cocktails, we always have THE BEST TIME.
+312	3	1	On the other hand, the food was good but not awesome as had been described, furthermore I found the portions fairly small for this type of restaurant.
+313	3	1	Although I didn't pay for the meal (and it's about $22 bucks a plate, way over my normal eating range), I have to say that it was better than any food I've ever had in little Italy, and there weren't any touristy elements to be found.
+314	3	0	I have been back for several dinners and lunchs and especially like the terrace when weather permits.
+315	3	0	Best value is the sushi/sashimi lunch combo - get the large for double pieces on sushi!
+316	3	0	The Scene Superfine is an easygoing, instantly appreciable neighborhood hangout that boasts a kitchen staff armed with serious cooking chops.
+317	3	1	When we arrived, our table wasn't ready and we waited 30 minutes in the bar.
+318	3	1	For the price and quality of the food we got, I would not dine here again.
+319	3	0	Mostly, this small restaurant offers eggs, hot sandwiches and traditional American platters.
+320	3	0	In the winter they have the fireplaces working which immediately creates a cozy romantic feel.
+321	3	0	We a menu that rearely changes,e xcept for one or two specials, the quality and care they put in thier food in evident.
+322	3	1	When we first walked in, we saw other diners wiping their plates with bread- so we though that the food was good -but we very soon realized that the portions really were so small that you really have to lick your plate clean - afterall, their dinners costs a fortune.
+323	3	0	The bar had a hip DJ and the crowd was ultra chic.
+324	3	0	Althought the menu is more expensive than your average Mexican restaurant, it is not more expensive than any other hip, increadibly well designed, bar scene and dining room in Manhattan -could be less in fact.
+325	3	0	It is expensice, but the portions are big and include a side, salad, nan and rice along with your main meal!
+326	3	1	We explained that we had left a standard 15% on food, and a slightly smaller percentage on alcohol (At least 10%).
+327	3	0	Ive personally tried almost everything on the menu and been amazed at the quality and presentation.
+328	3	1	17 for a small cup of tea.
+329	3	0	Their main chef Louie, makes the oddest specials you will ever see and the portions are quite large.
+330	3	0	For appetizers, wine, dinner, desert, great convesation, expect to spend a couple of hours.
+331	3	0	That was totally acceptable and we found some great seats at the bar.
+332	3	1	In retrospect, that was kind of foolish, as the portions for dinner were obscene.
+333	3	0	The scene is reasonably cool but unworth more than a drink.
+334	3	1	A bright spot: the server was immeadiately apologetic and whisked problem plates away, and replacements were prompt.
+335	3	0	Everything on the menu is satisfyingly savory, from a simple pot of mussels in a choice of sauces (beer-and-bacon, creamy mushroom, or white-wine-and-garlic broth), to beef stewed with beer and prunes, to a juicy croque-monsieur, and beyond.
+336	3	1	Tiny slices of pie with a dribble of cream topped off the evening.
+337	3	1	Desserts were pleasent enough, if not trying way to hard on presentation, lacking portions and interest.
+338	3	1	If you want to avoid the long lines, arrive at 5:00 PM and have an early dinner.
+339	3	1	Nonetheless, it's an excellent pie -- and don't let the long lines scare you off -- they keep them moving.
+340	3	0	In the dim lighting, I thought the portions were impressive and dug in.
+341	3	0	The whole table must participate and you have to be willing to let the chef cook for you with no menu.
+342	3	0	waiters were very nice, they dont take reservations during the week end, we waited at the bar with some sangria, Very good experience, loud music but we were able to communicate easily, overall i recommand this place to groups and dates,   Will be back more often!
+343	3	0	After having the table cleared and recieving fresh warm plates, we shared the Chicken Tikka Masala and the Chicken and Lentils.
+344	3	1	It was more than enough food even though the portions are tiny.
+345	3	1	The hummus was not flavorful and when we ran out of bread and asked for more, it never came.
+346	3	0	Then another pleasant surprise - the menu said we had to share the entree for each couple.
+347	3	0	I can't imagine how small the fish portion on the $10 lunch menu must be if I got the large one.
+348	3	0	The menu had some slight twists to conventional upscale Mexican.
+349	3	1	For dessert we split the combination platter, which had rather small portions but they were good.
+350	3	0	Not the most adventurous nor exquisite food, but generous portions (at least, on the 3-course prix fixe) that were faultlessly executed, complemented by a varied wine list ranging from that special bottle for a celebratory splurge to excellent choices under $50.
+351	3	1	Not the ideal spot when you're really hungry -- the plates are tiny and the prices not (like every other upscale tapas place).
+352	3	1	The Scene Tucked away on the second floor of a small, nondescript Madison Avenue building, Caviar Russe feels more like a private club than a restaurant.
+353	3	0	Also, if you order a dinner, plan to have leftovers for the next day because the portions are HUGE, the salad that comes with a meal is large enough to be a meal itself.
+354	3	1	Food is decent but portions are so tiny and the whole meal is served on huge plate which makes it look even more ridiculous.
+355	3	0	Aside from the service being slow, the place was packed w/ a good crowd and music was amazing.
+356	3	0	Delivery portions are bigger and 2 can easily share 1 entree.
+357	3	1	Xunta's tapas dishes were great though a little pricey for small plates.
+358	3	1	Portion was just a bit small compare with other restaurant but the price was lower than usualy as well (7.
+359	3	1	Other than its impossible reservation (no matter how many months you call in advance, the only available time slots for dinner on a Saturday are always 4:45 or 9:45), Peter Luger is worth the drive over to Brooklyn.
+360	3	1	They were out of cherry, so we got a few slices of apple and one key lime.
+361	3	0	Maybe go there for the view, but don't bother eating there, go to the bar.
+362	3	0	I am vegetarian - so this review applies only to the veg portion of their menu.
+363	3	1	Seconds after we permitted our half-eaten fattened goose livers to be whisked away, our waitress materialized, bearing two cold drinks and the chef's profound apologies for the dish - a completely unneccessary but vastly appreciated gesture.
+364	3	1	After ordering our food was brought to our table very quickly despite the huge crowd.
+365	3	1	But, as I said, it's a dive bar, so it's not someplace you'd take a high-maintenance individual.
+366	3	0	sometimes i've just ordered arepas and empanadas for my meal; other times, i've split a dinner entree and an appetizer with a friend and been satisfied, since the portions are so huge.
+367	3	1	my table of four was not totaly neglected, but there was a lag in how promptly we were being served.
+368	3	0	The Food The versatile Austrian menu, fused with French and American, rewards both high and low-end appetites: rich, cheese-laden onion soup, grilled Gruyere and country ham sandwiches and big-bunned burgers are as satisfying as velvety liver terrine with kumquat-cranberry compote, speck and sausage charcuterie and inexpensive cheese plates.
+369	3	1	I definitely liked the vibe in the restaurant - the food is good with enough variety to please everyone - i'd say the portions were quite skimpy where it counts - meat whether fish or steak- and for those prices this is very irksome.
+370	3	0	The food had a somewhat elevated price tag but but fair considering the Nobu origin - The cocktails highly recommended including the spide and lobster roll - we were well plated and did not encounter any arragance from the staff - maybe the other student reviewers are used to cafeteria service.
+371	3	0	The only bad thing was that the third alien was so friendly and took a lot of time at the other tables, so she didn't come see us.
+372	3	0	huuge portions, which made it much easier paying the $350 bill.
+373	3	0	I adore Zen Palate - and both the formal upstairs dining room and the crowded, counter-style cafe downstair, have their pros and cons.
+374	3	0	This seems to be a big hit and draws a large crowd, so be prepared for a wait.
+375	3	0	Low-fat and low-carb options (such as flatbread) lure in health-conscious diners, while everyone else can sink their teeth into warm, crispy baguettes piled with mesquite chicken or smoked turkey, Philly cheese steaks and more.
+376	3	0	Called to complain and the response was well, we didn't charge you for the falafel sandwich we shorted you.
+377	3	0	Needing a sugar fix, my husband and I walked in here to find a wall to wall adornment of delightful confections.
+378	3	0	The presentation was clever, and the food tasty however the service that accompanied it was so slow it made us feel neglected.
+379	3	0	great trendy spot for a night out but to be honest the food was not worth the cost.
+380	3	1	Expect a crowd while waiting, but they seat quickly.
+381	3	0	The Scene North Square's discreet, sedate decor appeals to the largley older crowd occupying the dining room whilst a younger set parties in the back bar.
+382	3	0	We went out on the town with the idea that we were going to mingle with the in crowd, you know, go to a place where you pay an outrageous cover charge, have to wear all black to fit in, and pay $12 for a watered-down martini, and if you're lucky, have a good time.
+383	3	1	When we got there, they refused to seat us because our 4th wasn't there yet-even thought there were only two other people there and we assured them we would order some starters and drinks.
+384	3	0	People waiting for tables stand at a drink rail next to large windows which open out over a leafy garden in the summertime.
+385	3	0	My friends and I went to dinner last weekend and had a great time.
+386	3	1	The texture of their flat noodles is something that has to be experienced to understand.
+387	3	1	Yes, the prices SEEM afordable, but the portions are so small that you end up spending $100+ just to fill 2 people and get a couple drinks.
+388	3	0	The Scene With its long zinc bar, plush couches and patterned suede walls, the lounge is a swank spot for midtown's cocktail crowd.
+389	3	0	The menu consists of a tasting selection, Austrian, traditional American, and the chef's recommended menu.
+390	3	0	The sandwiches, platters, and pitzas are top notch too, but I could make a meal just out of their pita bread and babaganoush.
+391	3	0	The waiters, all wearing black suits, are serious, courteous, and knowledgeable; the dining rooms are ornate and convivial, with large parties celebrating various things interspersed with dressed-up couples on dates.
+392	3	0	When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.
+393	3	0	The best aspect of Dylan Prime is that it's a perfect spot for a first date, a business dinner, a casual night-on-the-town or even just a quite bite at lunch.
+394	3	0	I liked the beer selection!
+395	3	0	I don't expect an enormous, heaping plate of food, but c'mon.
+396	3	1	Generous portions of rice porridge and noodles really hit the spot after fighting the crowds on a busy weekend in Chinatown.
+397	3	0	Relaxed neighborhooders treat the spot like a second home, calling the staff by name and lingering despite the smallish bar and hurried courses.
+398	3	0	Got a seat quick, and had some weird fill-out order form for a hard to understand menu.
+399	3	1	The guacamole at $7 is a small portion served with a stack of Si!Ortega flat taco shells.
+400	3	1	At one point I noticed the grime on the mustard bottle and asked the waitress for a clean one.
+401	3	0	The crowd doesn't disappoint: A well-heeled, fashionable clientele packs the polished-wood-and-glass-partitioned space, settling into one of two dining rooms, or the bar, which is located at the farthest corner from the entrance.
+402	3	1	The food is average, however the service is way below average (our waiter was a stuttering fool when it came to the specials and left our drinks empty for the majority of the night) The atmostphere is cheesy as well as the crowd.
+403	3	1	$25 prix fixe sounds like a good deal, but dinner was still $100 for two, the portions were small, and the ($35) wine, clearly where the money is made, mediocre.
+404	3	1	Mysteriously, the reserved tables all stayed empty throughout our meal and were still empty when we left an hour later.
+405	3	1	I don't have much to say about the cafe itself; you can order out from the family-run cafe in the front, or take a seat in the back, which opens up to the outdoors and can offer a less seedy and more homey atmosphere.
+406	3	0	Large portions of food to share.
+407	3	1	After our waitress brought us menus took our drink orders, a diff hostess came over asked us to give up our table.
+408	3	1	(food was delivered by a busboy, not waiter) We got no cheese offered for the pasta, our water and wine glasses remained EMPTY our entire meal, when we would have easily spent another $20 on wine.
+409	3	0	The portions were so big that after a cocktail drink we had no room left for desert.
+410	3	1	It is nearly impossible to get a table, so if you ever have the chance to go here for dinner, DO NOT pass it up.
+411	3	1	(Though the filet won't be enough if both have hearty apitites.
+412	3	1	Generally, the food was fine, but the table is too small to eat comfortably.
+413	3	1	Food is decent but portions so small that after 5 appetizers, 2 sides and three entrees, the three of us left still hungry!
+414	3	1	Sushi pieces are smaller if u r a 'buffet' customer and choices are rather limited and there's really nothing special on the menu.
+415	3	0	The Scene This storefront eatery is decked with colorful Mexican art and party kitsch, but it gets dim and moody enough in the evenings to suit a date.
+416	3	1	For lunch, walk in slightly after 1pm to avoid long lines.
+417	3	0	We happen to walk by, read the menu posted outside they offered a nice selection ranging from citrus salmon, pan seared trout, chicken pot pie, sirlion steak, the fried calamari is out of this world they use a secret ingredient to their dipping sauce.
+418	3	0	I have gotten warmer and much friendlier welcome and outstanding service at the other Thai restaurants in the Greenpoint area.
+419	3	0	If you like an ecclectic crowd and an overall good time where you and your friends can get together whether it be to eat, drink or just play some good old pictionary (they provide crayons and a blank white sheet at every table), go to the Cargo!
+420	3	0	Generous portions on the entrees.
+421	3	0	Not a destination restaurant, but if you're hungry for breakfast or lunch, big portions and good quality for the money.
+422	3	0	Second, the value was great; after ordering a ton of food and several drinks, the bill still came to less than $40 a person (though I suspect that the nice manager might have given us a few freebees!
+423	3	1	Fantastic flavor, but certainly not worth the high price of the small glass.
+424	3	1	The food is above average, though the portions a tad small, even for tapas; but they more than make up for it with their wonderfull mojitos.
+425	3	1	After being given a bad table at Becco and leaving there, we walked around and decided on Da Rosina because the price was right and the menu looked good.
+426	3	0	We waited in the bar area and had an excellent time waiting for dinner with the bartender and staff.
+427	3	1	When she wasn't being sarcastic or downright rude, she spent her time studiously ignoring our table or pointing us out to the other waitstaff.
+428	3	1	I used to love the Dog but now its become a metling pot of really undesirable people.
+429	3	1	Despite the servers' best intentions, it's easy to feel rushed while perusing the menu -- an awkwardly large blackboard.
+430	3	0	I had a nice time, place was crowded but the food was very good.
+431	3	1	Although it was quite good, the small portions at this table of 4, including appetizers, did not constitute adequate sustenance.
+432	3	0	The Scene At this sleek spot on a relatively sparse stretch of Spring Street, regulars belly up to a small bar and greet owner Giorgio DeLuca, of Dean and DeLuca fame, with warm hugs.
+433	3	0	The kitchen also offers just a few sushi-free entree options, such as a masterful tempura dinner and chicken or salmon teriyaki.
+434	3	1	Here's how it works: you walk in, sit down, and have a vegetarian thali (group of little portions of curries) that invariably includes lentiles, a small salad, some rice, some kind of samosa-like pastry, yogurt, rice, and a couple of sauces.
+435	3	0	We sat in the tables in front of the bar and it was a good people watching spot.
+436	3	1	Though if the restaurant got bigger, the service and quality of the food would probably suffer.
+437	3	0	from the white sheets that hang when you come into the restaurant, to the gorgeous marble communal table in the center of the bottom floor, to the great atmosphere upstairs at the bar.
+438	3	0	And after we ordered our food, their wine guy suggested the wine that he thought would go best with our selections, and it was surprisingly not a high-priced bottle.
+439	3	1	I would not return for a $30 entree of inadequate portions.
+440	3	1	This restaurant has taken the trend of serving tiny portions on oversized plates to a new level.
+441	3	0	And like all McNally hot spots, it crackles with energy, particularly from the groups who gather to share a bite in the bar.
+442	3	1	When I tried getting a lunch order delivered, I was told I was out of the delivery range (strange since I am also located in the East Village).
+443	3	0	Clever decor with lower false ceiling to distinguish the bar area.
+444	3	0	Portions enough for 2 meals.
+445	3	1	Fun atmosphere, good beer selection, but meals were skimpy portions on big plates and the service was weak - never had the same server/waitperson come back twice.
+446	3	1	not large portions - my boyfriend's entree looked more like an appetizer, and all we got out of the dinner was a $100 tab and hunger for more food.
+447	3	0	The point of dining here is to get several Tasting plates (two of us shared 5 @ $12/each and were quite full), and try as many of the dishes on the menu as possible.
+448	3	1	No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.
+449	3	0	Could have gone to Pastis for a salad three times the size for the same price.
+450	3	0	If you've got the money and don't mind being packed in like sardines - then cozy on up to the Sushi Bar (much better than a table) and let Gari work his Omikase magic.
+451	3	0	So we said we would have a drink at the bar (the only redeaming quality or value in the whole place was the bartender and the big vodka sour she made me).
+452	3	0	The Scene An outing to this ski lodge-sized hot spot, with one of the city's most expansive and popular outdoor patios, feels more like a night spent at a fashion show than dinner at a restaurant--and not just because of the celebrity sightings.
+453	3	0	Few styles of cooking place such an importance on texture--baby eels in a sizzling slick of oil, for example, is nudged just a shade away from pasta by the crackle of tiny bones under your teeth.
+454	3	0	The Scene Shun Lee Palace is popular with midtown locals, possibly because the upscale room means you can impress a client and have Chinese for lunch at the same time.
+455	3	0	I read about this place in the Post, but never stepped foot in it I ordered a red velvet cake to be delivered to lOwer Manhattan; It got there, and the broads at the office raved about it!
+456	3	0	2 weeks ago, I decided to set up a birthday dinner in this establishment and was wary with the reviews I've read in City Search but it seems to be a perfect scene.
+457	3	0	When he mentioned that a pinot noir would be a decent match with two disparate plates of a first course (and the even further disparate second course- yes we informed him of our total meal choices PRIOR to our wine selection).
+458	3	0	Our group of 8 had about five small plates that we thought were the best on the menu.
+459	3	0	In Short Take a quick trip to Maine at this classic lobster pound where the outdoor picnic tables are the prime seats in summertime.
+460	3	1	If she was a bit more sophisticated, she wouldn't have been impressed with the list, but rather with the clientele and atmosphere.
+461	3	1	The Scene There's nothing fancy about this joint, where the line for takeout often dwarfs those huddled at the three patio-style tables.
+462	3	0	I came to have dinner with two of my girlfriends on saturday and had an awsome time.
+463	3	0	The prices were outrageous, but we assumed the quality would be commensurate, so we ordered.
+464	3	0	The coffee by the name of the place is delicious and although the space is a bit tight, it's a great place to chat, chill or simply enjoy a great cup of joe.
+465	3	1	I do not understand how this place can stay in business with its prices and quality of food.
+466	3	0	In the most beautiful ground floor brownstone setting.
+467	3	1	When I go out for dinner which is quite often, I have never encountered such rudeness from a waiter or owner as I did at this smoke filled, tight spaced, cash only restaurant.
+468	3	0	The food was simple but exploded with flavor and the presentation was as if it was out of a cook book.
+469	3	0	Though weekend nights and Sunday brunch draw the largest crowds, neighborhood residents master this vegan menu of quinoa-lentil cakes, seitan piccata, and sweet-potato pumpkin pie by popping in daily.
+470	3	1	In my opinion, the bar is not very well laid out, its narrow design makes it hard to meet a group for drinks.
+471	3	1	you might have made a reservation, but you will end up waiting for about an hour anyway, so hopefully you'll get a seat at the bar and won't have to stand around.
+472	3	0	The drinks are very pricey and small, and the food is ok - but the portion size for the price is outrageous.
+473	3	0	Our server paid little attention to refilling our drinks, the runners brought the entrees out less than 1 minute after the appetizer, the server delivered another table's bill to us before we had even had entrees, and my partner's entree has a very noticable hair on his plate.
+474	3	0	The mint love letters and spaghettini primi we ordered as entrees were perfection.
+475	3	0	the food sounded good enough on paper, with lots of clever names and interesting choices, but once we bit in, the dishes were all pretty bland.
+476	3	1	The portions were kid sized and we spent about $100 a person in cluding wine (4 of us).
+477	3	1	The portions were so small that we still wanted to eat after dinner.
+478	3	0	The pot pie, pork chop and chicken were cleaned off the plates so well they didn't need washing.
+479	3	0	It is so difficult to choose a favorite on the menu, because the bolognese, the salmon, the chicken with mushroom, and the telephono are all too good to rank.
+480	3	0	Id say a little better than most Thai Ive eaten, and the menu had an astounding selection, which isnt bad for such a reasonable price.
+481	3	1	i got a steak special that was way overpriced ($12 more then the steak on the menu and no warning from the waitress) and it was cooked to the wrong temperature.
+482	3	0	Based on the menu prices, the value of the buffet is made up before you even hit the buffet with the appetizers that are served to the table.
+483	3	1	I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.
+484	3	1	From the outside this place looks cute, however, once inside loud as a disco!
+485	3	0	The portions were very big for appetizers (calimari and fried zucchini) but average for the entrees (chicken marsala, spaghetti w/ meatballs) and very expensive of course.
+486	3	1	Our food took so long to be served that we nearly missed our curtain.
+487	3	0	They brought fresh naan to the table as well as a kind of crepe filled with potatoes that was cooked on a griddle set up by the window.
+488	3	0	There is always a fun and friendly crowd at the bar, mostly locals, if you just want to come by for happy hour.
+489	3	0	From the space shuttle trip entrance to mars, to the molecular regenerator exit to earth, it was all an exquisite dining experience.
+490	3	0	AND you can still smoke at the outermost area of the patio - the wait staff can't technically serve you there because of the smoking, but if you don't mind walking to the bar to place an order (I don't), it's a great solution for smokers.
+491	3	0	Got the scoop on this new hot spot and decided to give it shot for a client dinner.
+492	3	0	I live about a 1/2 block from Westway and when I want consistantly good food, big portions, great fast service and a step above your average diner food I go there!
+493	3	0	The Food The French-Belgian menu is small, and everything on it is satisfyingly savory, such as a simple pot of mussels in a choice of sauces (beer and bacon, creamy mushroom, or white wine-and-garlic broth); beef stewed with beer and prunes; and a juicy croque monsieur.
+494	3	1	Self-important people, please stay at home and cook and dump as much parmesan on as you like.
+495	3	1	There are decent selections if you are a seafood person, but not a lot if you aren't!
+496	3	0	I was at Son Cubano a few months ago, and although i was only at the bar (without prior reservations which are a must), i had an awesome time.
+497	3	1	He, however, gave great service even though he just brought our food since they didn't have a runner.
+498	3	1	No matter what you order, you're almost certain to get so much food you'll be leaving with a doggie bag.
+499	3	0	The happy hour crowd at the bar was mostly just out of worker blowing off steam.
+500	3	0	The decor has not quite made the transition--some really nice artifacts are still there, but there are several layers of different remodeling efforts visible.
+501	3	0	big chunk of meat(beef short rib).
+502	3	0	Besides, vegetarian or not, there are always ways to liven up food without compromising the healthy aspect.
+503	3	1	You wanna wait a hour for a cramped table to eat mom's macaroni and cheese?
+504	3	0	I met five of my friends for dinner at Blockheads last Friday night and had a good time.
+505	3	1	The ambience is stunning and the food is really good, but the portions are RIDICULOUSLY small.
+506	3	1	fish was fresh enough, but the quality was only so-so (the salmon was especially sinewy).
+507	3	0	They bring over your favorite beverage before you sit down and while dining you listen to a killer jukebox.
+508	3	1	The restaurant is small so ask for seating in the front upstairs (the back, where we were sitting was incredibly hot) or on the first floor.
+509	3	0	The smell was heavenly, and the appearance was great, but the cheese was a little too salty and heavy.
+510	3	0	The portions for the entrees did make up for it.
+511	3	1	The line is long, but the staff keeps it moving and usually everyone is friendly.
+512	3	1	Yuckity Yuck Yuck  The Burritos were horrible but the Sangria was decent.
+513	3	1	Other reviews complain about portions, it's a TASTING menu not a Time's Square buffet.
+514	3	1	When we arrived there was no free table so we waited at the bar for quite a long time.
+515	3	1	The Scene This cosmopolitan cousin of the legendary Harry's Bar in Venice is frequented by a wealthy and insouciant crowd, the types who don't bother looking at menu prices when they order.
+516	3	0	The kids really enjoyed their food and the value on the kids menu is good.
+517	3	0	Though the menu includes some unorthodox offerings (a peanut butter roll, for instance), the classics are pure and great--we've never had better sushi anywhere, including Japan.
+518	3	1	During the weekend nights, the crowd is full of 20 somethings (in which a few look much younger) and is almost Coyote Ugly style where ladies are dancing all over the bar.
+519	3	0	Choices are standard and plentiful: omelettes and egg dishes, pancakes, bagels, muffins, croissants, mini-doughnuts, cookies, etc.
+520	3	0	After being seated by a very kind, but quite stressed, young lady, we took in the room and menu.
+521	3	1	If I had a car, I'd go there more often, but I live 35 blocks away and don't trust carrying pastries home on the bumpy crowded B41 busline.
+522	3	1	The Scene Rows of glass-topped, red-tableclothed tables stretch back to the rear of the brightly lit space, whose white walls hold a few seafaring decorations--a boat painting here, a captain's wheel there.
+523	3	1	Service was a tad spotty, but the food was VERY good and the noise never detracted from the dining experience.
+524	3	0	Downstairs, with the lighter menu, and uncomfortable seating, is only worthwhile if people watching and the energy of the bar scene is more important to you than the food.
+525	3	0	After the bar, they sat us on the side with the wine room with a nice view of everything.
+526	3	1	The portions are miniscule and the size of an entree could be half-and appetizer if even that large.

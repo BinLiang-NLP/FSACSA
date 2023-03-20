@@ -1,0 +1,788 @@
+0	1	0	This computer is absolutely AMAZING!!!
+1	1	0	the laptop was really good and it goes really fast just the way i thought it would of run.
+2	1	0	i would really recommend to any person out there to get this laptop cause its really worth it.
+3	1	0	and its really cheap and you wont regret buying it.
+4	1	1	Oh my goodness-I am not a happy camper.
+5	1	1	So, you can imagine how unhappy I am with this item.
+6	1	1	I would  say if you want to buy one of these machines be careful.
+7	1	0	Since I purchased my Toshiba netbook, I have been very pleased with it, I have a laptob and a desktop.
+8	1	0	I have not have any problems.
+9	1	0	The Notebook PC,Toshiba Qosmio is the best gift my father could have ever gotten me.
+10	1	0	This is something i would deffinately reccomend to someone.
+11	1	0	You will not regret buying such a great thing like this!
+12	1	0	It can't get any better.
+13	1	0	Waited on getting this computer, but it has been a great change.
+14	1	0	This laptop meets every expectation and Windows 7 is great!
+15	1	0	Most everything is fine with this machine: speed, capacity, build.
+16	1	0	I bought it for really cheap also and it's AMAZING.
+17	1	0	I'm excited to learn more about what this powerful machine has to offer and encourage others to do the same.
+18	1	0	It's more expensive but well worth it in the long run.
+19	1	0	Great product, very easy to use and great graphics.
+20	1	0	I'm glad I bought this laptop, it was worth the few ($100) extra dollars.
+21	1	0	I'm very happy with this machine!
+22	1	0	I don't really have a complaint.
+23	1	0	Perfect trifecta!
+24	1	0	I would recommend this product.
+25	1	1	The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.
+26	1	1	I can guarantee this will be the last Dell I will ever purchase!
+27	1	0	So far, a great product.
+28	1	1	it is the worst computer dell ever made.
+29	1	1	it is hard to fix and makes it a hassle to own one.
+30	1	0	There are so many wonderful features and benefits to the new MacBook!
+31	1	0	I am very Happy!
+32	1	0	This MacBook is an outstanding product with great value.
+33	1	1	I have had nothing but problems since the day I took it out of the box!
+34	1	1	Buyer Beware.
+35	1	1	*IF YOU ARE LOOKING FOR A GOOD LAPTOP, THIS IS NOT IT!
+36	1	0	But, for the cost this is a winner.
+37	1	0	I absolutely love my mac!
+38	1	0	I can't imagine my life without it anymore!
+39	1	0	I've haven't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off.
+40	1	1	I bought this laptop Was the worst Laptop I've ever bought.
+41	1	1	I spent alot of money on this product and its been a nightmare.
+42	1	0	I saved for this laptop for 3 months and I can tell you personally it was worth the wait.
+43	1	0	A little pricey but it is well, well worth it.
+44	1	0	It is amazing.
+45	1	1	A tip for people looking into this computer: DO NOT BUY IT save up a bit more money and buy a computer that will last.
+46	1	0	Was very much worth the price i paid.
+47	1	0	Took the netbook on a vacation trip and I was able to do whatever I wanted to do without lugging a much heavier laptop.
+48	1	1	The So called laptop Runs to Slow and I hate it!
+49	1	1	Do not  buy it!
+50	1	1	It is the worst laptop ever
+51	1	0	i love ths notebook.
+52	1	0	I have loved this since i took it out of the box.
+53	1	0	I like it!
+54	1	0	Meets my needs perfectly and is light enough for this senior to carry without affecting my arthritis.
+55	1	1	Needless to say, not to happy with the product.
+56	1	0	This is a great machine!
+57	1	0	It is by far one of the greatest investments I have ever made.
+58	1	0	Am very glad I bought it, great netbook, low price.
+59	1	0	The only problem is a lack of screen resolutions!
+60	1	2	Overall, it's ok.
+61	1	0	If you're not wanting to be mobile, this is a good laptop to sit on a desk.
+62	1	0	I just got this laptop for college, and so far I am very happy with it.
+63	1	0	I love this little one.
+64	1	0	Great Laptop for the price, works well with action pack games.
+65	1	0	but other then that I would give this product a 4 in hafe stars.
+66	1	0	Very happy.
+67	1	0	He loves it and it is easy to use and well the schools start teaching the kids early about computers so it was easy for him to get started.
+68	1	0	HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.
+69	1	0	Love it.
+70	1	0	I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.
+71	1	1	I am not happy at all with the product I purchased.
+72	1	1	It was over rated!
+73	1	0	The Toshiba laptop was a great purchase.
+74	1	0	The delivery was fast, and I would not hesitate to purchase this laptop again.
+75	1	0	I am enjoying it and the quality it provides is great!
+76	1	0	Toshiba is a great brand, even though I haven't had it for a long time, I am very happy with it!
+77	1	0	I've already recommended this laptop to a friend who eye'd the computer when I took it out of my bag.
+78	1	0	I like the laptop overall.
+79	1	0	This is a great little computer for the price.
+80	1	0	I'm very impressed.
+81	1	0	It is everything that I would want in a computer.
+82	1	0	Besides the great look, it is a great machine.
+83	1	0	I enjoy very much my new Toshiba, purchased specifially for attending online schooling.
+84	1	0	I am very pleased with my purchase!
+85	1	0	This laptop serves all my needs.
+86	1	0	Great product.
+87	1	0	It works fine with our wireless and they've had not problems.
+88	1	0	It's a great product for a great price!
+89	1	0	Just what the doctor ordered.
+90	1	0	I cannot be happier with the service or product.
+91	1	1	Summary: Spend your money elsewhere
+92	1	0	Love it so far.
+93	1	0	I bought this netbook for traveling, and it's great - light, functional, and meets my needs.
+94	1	0	The touchpad is extremely sensitive, which is the only drawback.
+95	1	0	Otherwise, I love it!
+96	1	0	It Was a great deal after all.
+97	1	0	I LOVE it!
+98	1	0	I should have bought one a long time ago.
+99	1	2	Not enough time for me to give it 5 stars!
+100	1	0	I've had the MacBook Pro 15 for about three weeks, and it really is a great computer.
+101	1	0	Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.
+102	1	0	Bottom line, I doubt you'd be overly disappointed if you invest in this machine.
+103	1	0	Yes, I thought the expese was a little much, but I now realize you get what you pay for.
+104	1	0	I love my Apple, it is quick and easy to use.
+105	1	0	I can't say enough of how satisfied I am with their product and help aftermarket.
+106	1	0	Money and time well spent!
+107	1	0	Highly recommended!
+108	1	0	The 13" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.
+109	1	0	So glad I decided to upgrade!
+110	1	1	Will not buy another Toshiba, this is my second, not happy w/ either.
+111	1	0	The Toshiba Mini Notebook, Model NB 305-N410BL, is a great little computer.
+112	1	1	Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba?
+113	1	0	All I can say is W-O-W.
+114	1	0	This laptop is insane!!!
+115	1	0	This is definitely a computer worth the money;
+116	1	0	Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.
+117	1	0	Obviously, this Macbook is P-E-R-F-E-C-T for me because it does exactly what I need in an easy-to-function way.
+118	1	0	DEFINITELY recommended!!!
+119	1	0	Not a bad laptop, it's a bit slow, but gets the job done.
+120	1	0	But the Macbook is the best!
+121	1	0	I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.
+122	1	0	This laptop does everything I need it to very well.
+123	1	0	Overall I am very satisfied with the purchase.
+124	1	0	Great, quick laptop for the money.
+125	1	0	I love everything about it.
+126	1	0	This mac is great!
+127	1	1	THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.
+128	1	1	Just don't waste your time and money on this.
+129	1	1	I tried giving it 0 stars but I had to choose at least one, but IMO NO STARS
+130	1	0	Then 2 of my nephews were going into music and both fell in love with the MacBook Pro.
+131	1	0	Now they are believers in the product.
+132	1	0	This little netboook is helping me get work done!
+133	1	0	The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.
+134	1	0	still testing the battery life as i thought it would be better, but am very happy with the upgrade.
+135	1	0	Probably as good as you can get in a netbook, does everything I ask for and has some very good unexpected pluses.
+136	1	0	So far, so good!
+137	1	0	This device serves all modern requirements is a very strong game and is very useful for designers.
+138	1	0	For the use it was purchased for it is a good Laptop.
+139	1	0	I love this product because it is Toshiba and its 15.6".
+140	1	0	But, I would recommend this product.
+141	1	0	Satisfy what I paid for it.
+142	1	0	I would highly recommend this one to my friends
+143	1	0	It doesn't have a lot of frills, but I didn't need any, and being able to buy what I needed, and not more than I needed was very important.
+144	1	0	All in all great item highly recommend it.
+145	1	0	i would have to say that overall its great!
+146	1	0	Aside from the trial software and the short battery life, lack of a webcam, its great.
+147	1	0	2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into
+148	1	0	Overall for the money this is a good deal.
+149	1	0	I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.
+150	1	0	I would easly reccomend this laptop to a friend.
+151	1	1	returned it to walmart.
+152	1	0	Its a good laptop for its value.
+153	1	0	Awesome laptop and the perfect size to carry around in college.
+154	1	0	Simply amazing computer!!
+155	1	0	I really like the Mac 15.4in. Notebook, but its very pricey.
+156	1	0	Waiting for the i7 was well worth it, great value for the price.
+157	1	0	There is nothing to complain about the system.
+158	1	0	If you have the money I suggest going for the i7.
+159	1	0	I consider myself an average user and this computer serves my need.
+160	1	0	I normally dont participate in reviews/surveys but this laptop has not given me any problems and hope to share my thoughts...
+161	1	0	another satisfied customer.
+162	1	0	The apple MacBook is the best investment that I have ever made.
+163	1	0	The newer MacBook that I have purchased is one of the best computers.
+164	1	0	Overall, this is a wonderful computer and definitly worth the purchase!
+165	1	0	I would definitely suggest this laptop!
+166	1	1	This computer was awful!
+167	1	1	This computer was awful, I would never recomend it to another person.
+168	1	1	Those moments in thime where you want to throw something against the wall?
+169	1	1	Yeah, I wanted to throw that lap top out the window and light it on fire.
+170	1	1	That's how frustrating it was.
+171	1	0	It is well worth the money it cost, Very good investment.
+172	1	0	The new Macbook Pro 15 inch i7 is nothing short of amazing.
+173	1	1	THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.
+174	1	1	WILL NOT EVERY BUY ANOTHER--------LOU
+175	1	0	This is a great value for the money.
+176	1	0	This is a great computer.
+177	1	0	We haven't had any problems with it at all.
+178	1	0	Overall though, for the money spent it's a great deal.
+179	1	0	But let me tell you, the mac book pro is so professional.
+180	1	0	Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.
+181	1	0	Oh, it is such a great piece of equipment.
+182	1	0	LOVE IT LOVE IT LOVE IT!
+183	1	0	I upgraded it's RAM to 2GB, I am very happy with it.
+184	1	0	this is starting off good.
+185	1	0	What a great little laptop.
+186	1	0	I made a perfect decision when I bought the Toshiba!
+187	1	0	Excellent product for the money.
+188	1	0	No problems, no lock ups, no disappointments.
+189	1	0	The Computer itself is a good product but the repair depot stinks.
+190	1	0	Never had a single problem, and don't have to worry about viruses.
+191	1	0	Worth the investment and truly a fine piece of equipment.
+192	1	0	Right out of the box, this little netbook did everything I asked of it, including streaming the everyday video you're bound to encounter checking mail and websites (my biggest complaint previously).
+193	1	0	The fact that you can spend over $100 on just a webcam underscores the value of this machine.
+194	1	0	I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.
+195	1	0	ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.
+196	1	0	I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.
+197	1	1	I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.
+198	1	0	It has served my needs quite nicely for the most part.
+199	1	0	Let me start with the good:So awesome.
+200	1	0	This one has had the same effect.
+201	1	0	If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.
+202	1	0	The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).
+203	1	0	Other than that its a great performing machine and well meets all my needs and more.
+204	1	0	Great product by Apple with the new great looking design.
+205	1	1	So, buyers beware!
+206	1	0	I tell everyone I see out looking to get this or another Toshiba.
+207	1	0	I just love this lap top, I just wish it were all silver or they had all black.
+208	1	0	LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!
+209	1	0	WOULD PAY MORE FOR IT IF I HAD TOO!
+210	1	0	I recently purchased the mini and absolutely love it!
+211	1	0	I am totally satisfied with my little toshie!
+212	1	0	From the moment I opened the box to the present it has been a great joy.
+213	1	0	Overall, still a very nice machine.
+214	1	0	I'm pleased.
+215	1	0	The acer one compuer is a great computer.
+216	1	0	I didn't want to buy a generic brand computer but it is really nice.
+217	1	0	If I had to buy another computer, I would most definetly buy an acer one computer.
+218	1	0	Heck, if I had enough ' money, I would but it as a gift for someone.
+219	1	0	The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.
+220	1	0	Im very happy with this computer!
+221	1	0	But the machine is awesome and iLife is great and I love Snow Leopard X.
+222	1	0	i love to use it it is esay and light.
+223	1	0	i can use it for all of my needs.
+224	1	0	i give this laptop a five star review i love it and it has done chams for me.
+225	1	0	if this computer every breaks down on me i will most definatly get the same one again.
+226	1	0	i think that anyone looking for a good durrable laptop then this is the way to go.
+227	1	0	From the second you open the box you will fall in love with this computer!
+228	1	0	Apple continues to shine and provide a much more enjoyable computer experience!
+229	1	0	From the start, when you open the box you see a completely different class of machine.
+230	1	0	Let me tell you, this machine is great.
+231	1	0	great machine if you want to drop the cash for one.
+232	1	0	Ok, this is probably the best laptop series ever devised by Apple.
+233	1	0	I have recommended this laptop to everyone I know who is buying one.
+234	1	0	I like it so much, I bought another just for my wife.
+235	1	0	I am very happy with this laptop.
+236	1	0	For the price and what I get out of it has exceeded my expectations.
+237	1	0	Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.
+238	1	0	I finally decided on this laptop because it was the right price for what I need it.
+239	1	1	I bought this eMachines Notebook PC in January of this year and I am highly dissatisfied with it.
+240	1	1	It is not even a year old yet, so I would definitely not recommend it to anyone.
+241	1	1	Don't waste your money!
+242	1	0	The laptop is gorgeous.
+243	1	0	I love it and will probably get another one when this goes to the Laptop in the sky!!
+244	1	0	Overall this laptop is great.
+245	1	1	Save your money and go for a better device.
+246	1	0	I wish it had a webcam though, then it would be perfect!
+247	1	0	I Love my new computer!
+248	1	0	Thank you for your great product!
+249	1	0	Kind of annoying, but I still love the laptop.
+250	1	0	I bought my macbook a few months ago and it has been my baby ever since.
+251	1	0	I love it so much.
+252	1	0	GREAT INVESTMENT!
+253	1	0	I love my macbook pro!
+254	1	0	My laptop is almost 2yrs old and I have never had any problems with it.
+255	1	0	If you have any creativity in you do yourself a favor and get a mac!
+256	1	1	I dont understand how anyone can think this is a great product worth purchasing.
+257	1	1	It doesnt work worth a damn.
+258	1	1	There are so many things wrong with this product, it just makes me want to set my self on fire!
+259	1	1	I am taking back today.
+260	1	1	Don't waste your money or time.
+261	1	1	Very dissappointed becase I have had toshibas for years, and never a issue.
+262	1	1	I loved the netbook (minus the fact that it was windows OS) until this started happening.
+263	1	0	I've had my MacBook Pro for three years now and still love it!
+264	1	0	I highly recommend this product!
+265	1	0	So far so good with this laptop.
+266	1	0	sounds like a typewriter, but if you can get past that, this is a great laptop for a little money!
+267	1	1	I HATE this one.
+268	1	1	Thinking about returning it
+269	1	0	The Macbook is a fantastic laptop.
+270	1	0	You will love this macbook if you choose to buy it.
+271	1	0	Its hard to encounter a problem on a mac that would require such abrupt action.
+272	1	0	I honestly love my mac, thats why I am a self proclaimed mac addict.
+273	1	0	This was purchased for my daughter and I was pleasantly surprised.
+274	1	0	So far, so good.
+275	1	1	When I got this laptop in 2007 to help me with school, I had a hard time from beginning.
+276	1	0	Quite simply this is the best laptop I have ever owned.
+277	1	0	For me, five stars is not enough.
+278	1	0	I love the 15" MacBook Pro.
+279	1	0	My parents bought it for me as a graduation gift, and i'm totally (almost kind of maybe definitely) obsessed with it.
+280	1	0	All-in-all, I would definitely recommend this product for nearly everyone.
+281	1	0	I love it!
+282	1	0	They definitely have a superior product!
+283	1	1	he can't stand it.
+284	1	1	I can't begin to say how disappointed I am.
+285	1	1	I should have spent an extra hundred bucks and got a full sized computer.
+286	1	0	the key bindings take a little getting used to, but have loved the Macbook Pro.
+287	1	0	It allows me to do everything I need from a computer and more.
+288	1	0	With awesome graphics and assuring security, it's perfect!
+289	1	0	I'd recommend this laptop to anyone!
+290	1	1	The Toshiba Satellite laptop is  DESIGNED  to fail !
+291	1	0	I would like to tell you about the best laptop I just got from Mac.
+292	1	0	I would buy one of these for every person in my office if I could.
+293	1	0	Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!
+294	1	1	My MacBook Pro has been a huge disappointment.
+295	1	1	I would not recommend this product to anyone.
+296	1	0	Good laptop for the money.
+297	1	0	Its also FUN to use!
+298	1	0	However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.
+299	1	0	I am very happy I bought this Mac, well worth the extra money.
+300	1	0	Now that I have it I see that I really needed this for much more.
+301	1	0	I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door.
+302	1	0	My MacBook Pro is no exception.
+303	1	0	I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!
+304	1	0	Shiny
+305	1	0	This Laptop is the Best of the best!
+306	1	0	The Awesomest of the awesomest.
+307	1	0	It is so great, I can Hardly ever take my hands off it!
+308	1	0	My friends are in awe every time they come over!
+309	1	0	I got it for Christmas, and I was so excited to set it up!
+310	1	0	I am just amazed.
+311	1	0	It's like 9 punds, but if you can look past it, it's GREAT!
+312	1	0	I don't know how I could ever live without my Qousmio.
+313	1	0	The Toshiba Satellite has been more than I expected for the price.
+314	1	0	You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever.
+315	1	0	overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.
+316	1	0	everything about a mac is wonderful, it takes a little used to learning and getting used to the new system, but you will learn fast and its all worth it.
+317	1	1	5) Cut my losses and sold it for parts
+318	1	0	what an elegant, wonderful machine.
+319	1	0	I'm making the switch and finding that my biggest problem is trying to do things the 'old' way - and Apple does, indeed, have the better idea.
+320	1	0	I really wish I had done this years ago.
+321	1	0	I love it - never had a computer I was so impressed with - and I've had a lot of laptops and desktops - this one is FAR AND ABOVE THE BEST ONE I EVER HAD BEFORE.
+322	1	1	I tell everyone that I know, friends, family and enemies this is the absolute worst computer i have ever used.
+323	1	0	I have had this laptop for a few months now and i would say im pretty satisfied.
+324	1	1	I received this laptop as a gift and let me just tell you that its the worst.
+325	1	1	the whole experiece is horrible so save up and buy a better laptop.
+326	1	1	I bought a HP Pavilion DV4-1222nr laptop and have had so many problems with the computer.
+327	1	1	I would recommend not buying this product.
+328	1	1	I am stuck with a laptop that I cannot do very much with.
+329	1	1	I hate it.
+330	1	1	I have had the luxury (sarcasm) of owning 2 of these laptops.
+331	1	1	I wanted to purchase the extended warranty and they refused, because they knew it was trouble.
+332	1	1	returned it.
+333	1	0	They are wonderful, but very dangerous when it comes to emitting heat.
+334	1	0	Would HIGHLY recommend this netbook though.
+335	1	1	This laptop leaves alot to be desired, I have had it only 5 months and have had to send it away to be repaired twice...
+336	1	1	If you shop around in the current market you can find a much better deal.
+337	1	1	I am going to go back and return at Store I bought from!
+338	1	0	The perfect notebook...
+339	1	1	I'M REALLY FRUSTRATED BY THIS EXPERIENCE.
+340	1	0	I do everything on this computer - check email, facebook, shop, check blogs, write papers, listen to music, and we even watch all of our movies on it since we do not have a tv.
+341	1	0	So, if you're thinking of a laptop, I would heartily recommend theApple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook for all your needs!
+342	1	0	It's great and we will always stick with Apple computers, we have been so happy with them.
+343	1	1	Probbly the worst decision we ever made!
+344	1	0	pretty much everything else about the computer is good it just stops working out of no were.
+345	1	1	So i would not reccomend anyone buying this computer
+346	1	1	I hate to say this, but if I could take this back to the shop and get my money back, then I would.
+347	1	1	I regret buying it before understanding how awful it is to use.
+348	1	1	It's a bummer and one out of five is being kind.
+349	1	1	My Mac has gone from being a trusted friend to an adversary.
+350	1	1	In due course, I'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash.
+351	1	0	I highly recommend that you buy this product.
+352	1	1	I Hate it!
+353	1	0	I LOVE IT!
+354	1	0	I can't say enough good for it!
+355	1	0	It's A MAC!!
+356	1	0	I fine Apple MC373LL/A 2.66GHz 15" Macboook Pro Notebook meets all my needs for a laptop computer when on the go.
+357	1	0	it's just a great toy to have around.
+358	1	0	Amazing machine.
+359	1	0	Very happy with my 7th Toshiba laptop!
+360	1	0	Now I have the best of both worlds with all of the power and ease of the Mac!
+361	1	1	I never have had a good result with this computer.
+362	1	1	I don't like this company nor the toshiba brand, and I'll never  buy another one because I've put more into it then it is worth.
+363	1	1	I returned the 2nd laptop for a full refund.
+364	1	1	i cant believe HP put this out.
+365	1	1	do not buy you will be disappointed.
+366	1	1	i'm returning mine
+367	1	2	dell is a decently made pc.
+368	1	1	so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop.
+369	1	0	I love HP,, it's the only computer/printer we will buy.
+370	1	0	At first when I got this product, I loved it.
+371	1	0	The computer itself was fast, ran smoothly, and had no problems.
+372	1	1	Not worth it one bit.
+373	1	1	Very disappointed!
+374	1	1	Don't buy this model.
+375	1	1	An absolutely hateful machine that no one should get of their own free will.
+376	1	1	Did I mention everything about it, from size to weight to keyboard screams BULK?
+377	1	0	I'm glad I made the choice to switch and buy this MAC.
+378	1	0	The benefits were immediate!
+379	1	0	This laptop rocks (only wish it could run SolidWorks CAD - which Apple doesn't support)!
+380	1	0	I've saved a lot of time and headaches so far, using my new MacBook Pro.
+381	1	0	I have never had any issues or problems with my MacBook Pro so far, and it is still as fast as it was when I first bought it.
+382	1	0	I definitely will buy a Mac again if and when this computer ever fails.
+383	1	0	I will have to say that I love my MacBook Pro!
+384	1	0	This is now my 3rd MacBook Pro and I really honestly love it!
+385	1	0	We are addicted to the Mac.
+386	1	0	This is a great laptop and I would recommend it to anyone.
+387	1	0	Great laptop that offers many great features!
+388	1	0	It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.
+389	1	0	Buy it, love it, and I promise you won't regret it.
+390	1	1	The only pro to this computer is it was under $600!
+391	1	0	I bought this laptop on Saturday and am completely in love with it!
+392	1	0	I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar.
+393	1	0	With all the goodies inside this machine, it is a value.
+394	1	1	The problem I had with this unit was unresolvable.
+395	1	1	I acually believe the issue is with the Nvidia grafics card, but still requires a return.
+396	1	0	I got the black MacBook two years ago and have never regretted it.
+397	1	0	So this was great for me.
+398	1	0	I also travel with it and it never gives me any problems.
+399	1	0	But I am glad to have gotten mine right before they stopped making it.
+400	1	0	I look forward to years of use, it has held up well over the years and it fits my needs very well.
+401	1	0	It's super fast and a great value for the price!
+402	1	0	I would definitely recommend checking out this laptop if you are in the market for one.
+403	1	0	I initially purchased my Macbook Pro 13" in April, and I loved it.
+404	1	1	I was so happy with my new Mac.
+405	1	1	I would rate this computer at 5 stars, but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine.
+406	1	0	My house is now 100% Macbook.
+407	1	0	THIS is what a laptop is supposed to be.
+408	1	1	I really don't like it, but I am stuck.
+409	1	1	VERY disappointing:
+410	1	0	HP Pavilion DV9000 Notebook PC      When I first got this computer, it really rocked.
+411	1	0	My MacBook is probably the best investment I have ever made.
+412	1	0	I love this computer.
+413	1	0	Other than that I don't have one complaint in the world!
+414	1	0	I purchased my Macbook Pro Retina from my school since I had a student discount, but I would gladly purchase it from Amazon for full price again if I had too.
+415	1	0	The Retina is great, its amazingly fast when it boots up because of the SSD storage and the clarity of the screen is amazing as well.
+416	1	0	Count me as extremely satisfied, it's a perfect computer.
+417	1	0	I just bought this computer from the Apple Store, and I couldn't be more impressed with it.
+418	1	0	This computer is good for anything, and it has really superseded my high expectations.
+419	1	0	Great product, and couldn't be happier with it.
+420	1	0	awesome laptop, i love it
+421	1	0	I love my new ThinkPad!
+422	1	0	It gives me everything I need from a computer and with the long lasting battery, it also gives me mobility.
+423	1	0	It was a great purchase.
+424	1	0	Great laptop.
+425	1	0	Would purchase again.
+426	1	0	A good value for the money.
+427	1	0	Quite pleased with it.
+428	1	0	I'm glad to have it and it showed up in only a few days.
+429	1	2	The laptop itself is very good, it could be better, but not bad at all for it's price point.
+430	1	0	It does everything I need.
+431	1	0	When I saw this I grabbed it.
+432	1	0	It has met all my needs.
+433	1	0	Just what I expected.
+434	1	0	I don't have any complains about this computer
+435	1	0	Outstanding laptop and very well built.
+436	1	0	One of the best thing i have bought in years.
+437	1	0	Great PC, light and powerful.
+438	1	0	Is just amazing.=)
+439	1	1	Do not buy a mac until this issue is resolved.
+440	1	0	WONDERFUL machine;
+441	1	0	glad I bought it.
+442	1	0	SUPER LAPTOP!!
+443	1	0	Will probably get another one for my wife!
+444	1	2	I will give advise any prospective buyers this is not great laptop, Its good for web browsing and word processing
+445	1	0	Fantastic for the price - just wish it the keys were illuminated.
+446	1	1	If your on a budget.... Save up longer.
+447	1	1	This laptop isn't worth a single cent.
+448	1	1	Just save your money and get something better.
+449	1	0	awesome!
+450	1	1	It's not what you pay for.
+451	1	1	I'm warning you, You're wasting your money on this
+452	1	0	Love the computer.
+453	1	1	Had to return the computer.
+454	1	1	Would have exchanged instantly - but had to use as if for College immediately.
+455	1	1	Unimpressed.
+456	1	0	Terrific laptop.
+457	1	0	The only reason I didn't give it a 5 star is, I feel I have to reach so far to type on the key board.
+458	1	0	Otherwise this is a great computer great prices.
+459	1	0	Good product for a good price.
+460	1	1	The Computer Is Horrible Its To Slow.
+461	1	1	not a good computer at all.
+462	1	1	We returned two days later.
+463	1	0	Great price and computer!
+464	1	0	They loved it.
+465	1	1	Would not recommend.
+466	1	0	Pretty good laptop.
+467	1	0	i'm very happy,this laptop is beatifull, is'nt slow at all.
+468	1	0	the screen is big, and everything was as described
+469	1	0	Amazing computer,  perfect for school.
+470	1	0	I've had my Lenovo for a little over a month now and it does everything i want it to do and more.
+471	1	0	i really have nothing negative to say about it.
+472	1	0	it is a great value for what you get.
+473	1	0	I get giddy every time I use this thing.
+474	1	0	excellent item, shipped on time, met my expectations, it doesnt heat at all, dont use it for gaming
+475	1	0	for the price this is a super product out of the box.
+476	1	0	five starts
+477	1	2	Not bad.
+478	1	0	i just love this ultrabook
+479	1	2	It's ok.
+480	1	0	I love this computer, this is my first ever Mac (I'm 21) and it took a little while to switch over from the OS I was used to, but it was a fast learning curve.
+481	1	0	The resolution is gorgeous, the computer is light, it does everything I need and the interface is pretty intuitive.
+482	1	0	I love this computer!
+483	1	0	Wonderful, super fast, lightweight computer
+484	1	0	This is what I was looking for.
+485	1	0	At my age, I need this kind of laptop.
+486	1	1	slow processor, just not it
+487	1	0	Been using Lenovo ThinkPad Edge laptops in our business for several years now and have no complaints about any of them.
+488	1	0	Great Laptop!
+489	1	0	Does what I need it to do and the price was right!
+490	1	0	Great laptop from Apple!
+491	1	0	Overall, a high quality laptop and a great value considering all this computer has to offer.
+492	1	0	Well worth the extra cost.
+493	1	0	I can appreciate why she recommended it!
+494	1	0	So far I do not have any trouble with it other than the picture quality is a bit poor.
+495	1	0	So i gave this 4 stars but only because of the poor picture quality, other than that it is a great buy!
+496	1	1	This laptop is absolutely horrible.
+497	1	1	There is a chance mine is defective but regardless I'm not going to try another one this is a terrible product.
+498	1	1	I'd much rather bite the bullet and spend a little more for a product that actually meets minimum computing expectations for 2014.
+499	1	1	I appreciate the effort to hit affordable pricing Dell but just not worth it.
+500	1	1	It is slow and complicated and very disappointing
+501	1	0	Great labtop..
+502	1	0	not as fast as I would have liked it to be but everything else is great!
+503	1	1	I've only had this computer for a few days an I already don't like it.
+504	1	1	I will be returning it.
+505	1	1	If people are writing bad reviews about this laptop then believe what they say.
+506	1	2	This is an ok computer.
+507	1	0	the computer is very wonderful.
+508	1	0	it does have a habit of restarting itself when you try to do the log in pw. but over all. im very satisfied.
+509	1	0	great product.
+510	1	0	i am giviing it four stars instead of five because of no disk drive and the crashing
+511	1	0	I absolutely love my Dell Inspiron!
+512	1	0	For $250, I highly recommend!!
+513	1	1	I am returning it...
+514	1	0	GREAT value laptop!
+515	1	0	Very pleased so far.
+516	1	0	All in all, it's well worth its price tag.
+517	1	0	Great laptop for the price.
+518	1	0	Still giving it a 5 star rating because it is fast and a nice sized screen.
+519	1	0	Overall good but processing power isn't very good.
+520	1	0	I bought it for my parents (late 60s) and they love it - particularly the keyboard and screen.
+521	1	0	Terrific value for the money.
+522	1	0	Highly recommended.
+523	1	0	Killer computer.
+524	1	0	I would highly recommend this computer it is FAST!!!
+525	1	1	I don't like it at all...
+526	1	0	This laptop is amazing!
+527	1	0	Despite the fact that there's no optical drive, everything is perfect.
+528	1	0	I love this laptop!
+529	1	1	DO NOT RECOMMEND!
+530	1	0	Awesome laptop!
+531	1	0	More than enough for my use.
+532	1	2	Not bad for the price.
+533	1	0	Love everything about this laptop!
+534	1	0	I would definitely recommend this!!
+535	1	0	I love this laptop to the moon.
+536	1	0	It's exactly like the picture and I AM SATISFIED.
+537	1	0	Great laptop light and very versatile
+538	1	0	This is going to be random and unorganized, but here are my thoughts on the laptop:So far so good after a month.
+539	1	0	I AM IMPRESSED WITH THIS COMPUTER, INEXPENSIVE BUT QUALITY.
+540	1	0	LOVE THE SIZE, I AM USING THIS FOR WORK, I AM A NURSE AND HAVE TO CHART DAILY, THIS IS EASY TO USE AND I HAVE NOT HAD ANY PROBLEMS WITH IT.
+541	1	0	It's so damn good I bought 2 :D
+542	1	0	I am very happy with this computer.
+543	1	0	It is exactly what I expected, and the price is excellent!
+544	1	0	You are getting what you pay for and in my opinion, it is worth more.
+545	1	0	Been using it for about 4 hours now and it seems plenty fast and does everything I need it to do.
+546	1	0	But for the price its good.
+547	1	0	Perfectly adequate.
+548	1	0	Great PC.
+549	1	0	Nice laptop.
+550	1	0	I use it for school, its quick and has everything I need on it.
+551	1	1	Used to love HP products, but this has soured me on the whole company.
+552	1	0	By far the best laptop I've ever had.
+553	1	2	The product is average and works well.
+554	1	0	I had a great experience purchasing my Dell Inspiron i3531-1200BK 15.6-Inch Laptop.
+555	1	0	My laptop was easy to set-up, and I've had no problems to date.
+556	1	0	Did not disappoint me at all.
+557	1	0	Lenovo is the best laptop.
+558	1	0	We haven't used it enough or had it long enough to give it 5 stars, but so far it has been a very good laptop.
+559	1	0	We like this new laptop -- a lot!
+560	1	0	This lap top is good so far.
+561	1	1	it was slow and might be problematic.
+562	1	1	i would shop around for a better one.
+563	1	1	I should have bought something better.
+564	1	0	Other than a hate of windows 8, she just loves it.
+565	1	0	LOVE IT!
+566	1	0	I'm very happy with my Acer, it does just for what I need it.
+567	1	0	I love this laptop.
+568	1	0	Although I've had it for less than a week, I am very satisfied.
+569	1	0	Does all that was advertised.
+570	1	0	If it had a 4,5 star option, that is what I would give.
+571	1	1	This is a big disappointment.
+572	1	1	I have had Dell Desktops for years, so had no qualms about buying a Dell laptop.
+573	1	1	I'm so disappointed.
+574	1	0	It's truly a great laptop for the price.
+575	1	0	For $250, which is as much as my graphics card alone cost, this laptop is an incredible value.
+576	1	0	It does everything I need it too!
+577	1	0	Very nice computer
+578	1	0	I purchased a  Dell Inspiron I3531-1200BK and so far I love it, this model has a true life monitor, which is worth the extra bucks.
+579	1	1	In all my life i have never come across a computer as slow as this one, it cant perform basic operations and is practically useless.
+580	1	1	Please people dont make the same mistake i did.
+581	1	1	This is a complete waste of money, dont let the price fool you!
+582	1	0	Would be a very nice laptop if the mousepad worked properly.
+583	1	0	If they can fix this, I think it would be a very nice, cost-effective laptop.
+584	1	1	I'm sure I just got a bad egg, but instead of getting a replacement I decided to try a different one.
+585	1	0	This laptop is nice.
+586	1	1	I would love to keep this laptop, but will be sending it back and looking for a different brand.
+587	1	0	Initially I liked the product so much.
+588	1	2	Although it was slow but I felt it was ok for the price you have bought it.
+589	1	1	I am not satisfied with the product.
+590	1	0	It's an amazing laptop.
+591	1	0	Most of the things about the laptop is awesome except the touchpad.
+592	1	0	I am loving it completely.
+593	1	0	Purchased it for my birthday and love it!
+594	1	0	I'm so glad that I have.
+595	1	0	Expensive but worth it.
+596	1	1	This is without a doubt the worst laptop I've ever had.
+597	1	1	And of course, the return window closed last week so now, I'm stuck with it.
+598	1	1	I will never buy another Lenovo anything!
+599	1	1	I could go on and on, but suffice it to say, if you want to spend $400+ on a laptop, don't buy this one!
+600	1	1	It's definitely not worth the money.
+601	1	0	Price makes this the laptop I was looking for.
+602	1	0	So far I am very happy with this computer.
+603	1	0	It has everything I wanted-- built in Wi-Fi connectibility, a slot for my SD camera memory card, a DVD burner, big beautiful screen, plenty of USB ports (three 3.0 and one 2.0), and a keyboard with a nice touch.
+604	1	0	I wish I had bought this sooner!
+605	1	0	I'm very happy with it, typing on it right now and it is fast enough for that!
+606	1	0	I like everything about this laptop.
+607	1	0	Excellent buy.
+608	1	1	The worst computer I have ever laid my eyes upon.
+609	1	1	Just not for me.
+610	1	0	The computer is as expected, and worth the money.
+611	1	0	Hands down one of my best and most used purchases thus far.
+612	1	0	The Mid-2014 MacBook Pro does no disappoint...
+613	1	0	Cons:Honestly zero con's ... as a Windows PC user the switch over was seamlessly,  I run Parallel when I need Windows.
+614	1	0	I'm an amature, so this does more than I can handle.
+615	1	0	I'm perfectly satisfied, just have to get use to the new 6.1 system I can't see a problem.
+616	1	0	I' doi9ng fine now, and happy as a bug.
+617	1	0	The price is great and it does everything I want to do,  Thanks.
+618	1	0	It's perfect!
+619	1	1	I am really not happy with this computer...
+620	1	1	Would not buy it again.
+621	1	2	Meh...but cheap.
+622	1	1	All in all I wish I had waited a bit.
+623	1	0	I'm still exploring the various features but overall I am satisfied with my purchase.
+624	1	0	The HP Envy 15 has been everything I expected.
+625	1	0	I would highly recommend this product to anyone looking for a top performing laptop.
+626	1	1	used 6 times black screen returned for refund
+627	1	0	It does what it advertises.
+628	1	0	I bought this for my daughter to use for school and homework, it's not a "fast" computer, but it's great for what she needs it for and very light weight!
+629	1	0	Well, my first apple computer and I am impressed.
+630	1	0	Glad I did so far.
+631	1	0	What a great laptop, I can run my games and work really fast.
+632	1	0	I completely recommend it.
+633	1	0	Excellent value and a must buy for someone looking for a Macbook.
+634	1	0	I highly recommend you get one before they are gone.
+635	1	0	Got this on black friday with a very good discount and couldn't be happier.
+636	1	0	This Macbook Pro is AMAZING!
+637	1	0	Overall, this is a fast, light, practical computer and I highly recommend it.
+638	1	0	I've never had any problems with the computer itself (The Macbook charger chords are another story, though).
+639	1	0	Bought this laptop from best buy in January 2015.. still loving it.
+640	1	0	I use it everyday.
+641	1	0	My favorite computer I've ever had!
+642	1	0	This computer overall is great!
+643	1	0	Great computer.
+644	1	0	Very great Apple product as expected.
+645	1	0	My new laptop is great.
+646	1	0	I would recommend it to anyone.
+647	1	2	Well, my first impressions are that its OK, it certainly boots up quickly (thanks SSD!), and from the limited use so far (no games) its fast enough in normal usage.
+648	1	1	To be honest I am a little disappointed and considering returning it.
+649	1	1	This is a horrible laptop.
+650	1	1	I regretted immediately.
+651	1	1	Nothing like the description says.
+652	1	1	:(
+653	1	0	This computer is like...  I'm lost for words.
+654	1	0	This is the best switch I have ever done.
+655	1	0	I love, LOVE, LOOOOVE!
+656	1	0	In upgrading to this computer I can say I have found little to any flaws in the product, hence the 5 star review.
+657	1	0	Love this computer.
+658	1	0	It has done everything and more that I expected.
+659	1	0	I am sure it will be able to do all I need it to do in the future as well.
+660	1	0	So far I have no complaints and dont expect many complaints in the future.
+661	1	1	This did give some set trouble and i had to call tech support.
+662	1	0	its been easy breezy since then.
+663	1	0	how could you not love a Mac
+664	1	0	so far so good, i have not encountered any issues with this computer.
+665	1	0	for the price that i paid i feel that i got good value.
+666	1	0	To a prospective buyer,  08/10/2012  Once you go Mac, you'll never go back.
+667	1	0	Was the best decision we ever made.
+668	1	0	Never had any issues, no frustrations just great easy wireless, all in one fun!
+669	1	0	It's great.
+670	1	0	This computer is great.
+671	1	0	I am very satisfied with EVERYTHING about this machine.
+672	1	0	Like so many others who do this there is a learning curve and I'm excited to do it.
+673	1	0	I like that.
+674	1	0	Very nice.
+675	1	0	I am pleased with my decision, however I have only had this for a few weeks.
+676	1	1	There are a few things I am dissappointed with though.
+677	1	0	As a student majoring computer science, I really fell in love with this laptop.
+678	1	0	All in all I am very happy with this purchase.
+679	1	0	And with this price, I don't think you can buy anything better.
+680	1	0	All I can say is I am impressed.
+681	1	0	It's worth it.
+682	1	0	Pay me now, Pay me later.........I am happy with my choice going with this laptop.
+683	1	1	I was disappointed.
+684	1	1	It seemed like a great computer and a great deal.
+685	1	1	For a non-computer savvy person, it was very disappointing.
+686	1	0	I like the 13 inch macbooks.
+687	1	0	I've been using Apple's since 1992 and this is the fastest and best one I've  had.
+688	1	0	This should be more than  enough computer for almost everyone.
+689	1	0	I would not hesitate recommending  this to anyone.
+690	1	0	I would've given 5 stars, had it not been for the hours of updates I've had to do to this upon arrival.
+691	1	0	Other than that, I love it.
+692	1	0	It's portable, reliable, and great for what I use it for.
+693	1	0	Everything you'd expect from a Mac.
+694	1	0	Only had it a few weeks but doesn't leave my side.
+695	1	0	This machine is flawless, fast, and classy.
+696	1	0	Out of all the laptops I have owned, this is by far the best!
+697	1	0	Even though MacBooks are expensive, you will see that they are well worth the money.
+698	1	0	You will not regret buying this computer!
+699	1	0	I've been spoiled by the build quality and stability of Macintosh and even this used computer is a gem.
+700	1	0	I can bat around all the things that everyone else says, but it's been what we've been using for decades and I have nothing bad to say.
+701	1	0	That's the only issue I've ever had since working on Macs in 1995.
+702	1	0	However, the HP Envy has definitely met all of my expectations and more.
+703	1	0	I have been thoroughly impressed with my purchase thus far and do not regret purchasing it at all.
+704	1	0	While the price may seem high, it is worth every penny with its many perks.
+705	1	0	Overall, I definitely would recommend this product to any college student that is in the market for a new laptop.
+706	1	0	I'm actually writing this review on my new MacBook and I love it!
+707	1	0	The computer it self is amazing.
+708	1	0	It is an older model, so know that upfront, but it is everything I was looking for.
+709	1	0	From the moment I received this MacBook it was like a dream come true.
+710	1	0	So long story short, if you want an oldie but a goodie this is your laptop.
+711	1	0	I highly recommend!!
+712	1	1	If your looking to be a trendy hipster who can't live without a Mac, it's a great buy.
+713	1	0	Over all very good system and worth it.
+714	1	0	This was the ONLY tablet-style computer so far which met my requirements.
+715	1	0	I was seduced by this computer, so I took it home.
+716	1	0	My first Mac computer and as many before me I just fall in love with it.
+717	1	0	-  With that being said, for the price ($800!), you get a nice fast laptop, but if you ask me, it's missing some things that I feel should be automatically included:
+718	1	0	This is really nice, but I HATE the awkward right mouse clicking.. sometimes it works, sometimes it doesn't.. may be the laptop, may be the laptop in conjunction with Windows 8? 
+719	1	0	overall it is just my learning a few things than any downfall with the laptop (the mouse was the only negative I could really see)...
+720	1	0	This is a fantastic transformer!
+721	1	0	I loved playing with it and the touchscreen was great for the windows 8 platform.
+722	1	0	I would have kept it but that was the sole reason for my purchase.
+723	1	0	It's a great product and would recommend to anyone looking for a transformer or large touchscreen.
+724	1	0	I'm looking forward to needing a laptop update so I can purchase this computer again.
+725	1	0	I've only had this for a week Overall I like the computer, it's thin &amp; light and The wireless keyboard works great.
+726	1	0	I'm overall very pleased with my new laptop!!!
+727	1	0	Overall great for me!!!
+728	1	0	This laptop has delivered.
+729	1	0	I'm very pleased with the purchase.
+730	1	0	I usually use my Mac for school work and internet browsing, so the entry-level 13' MacBook Pro is already more than what I expected from a computer I would typically use it for.
+731	1	0	I'm sure you won't regret making this purchase.
+732	1	1	One of the worst pieces of electronics I have ever bought.
+733	1	1	There is definitely more to say...
+734	1	0	But, hey, it's an Apple.
+735	1	0	I wouldn't expect anything less!
+736	1	1	If it was possible to give them 0 start, I would have done it.
+737	1	0	Overall I love it.
+738	1	0	First off, AMAZING LAPTOP!
+739	1	0	Overall, it is a fantastic laptop.
+740	1	0	Get this now!!!
+741	1	0	This is a great laptop.
+742	1	0	I bought it for college and couldn't be happier.
+743	1	0	If you are looking for a light, durable, and extremely effecient laptop, buy this one!
+744	1	0	They really know what they are doing.
+745	1	0	If you dont like windows I would suggest trying a Mac.
+746	1	0	The investment is worth it.
+747	1	0	Have bought several laptops in last several years and hands down this has been the best ever.
+748	1	0	I had heard people speak highly of the MacBook Pro for college students, and have not been disappointed through two and a half years of extensive use.
+749	1	0	The MacBook Pro has a significant amount of positive attributes that greatly outweigh the negative attributes:
+750	1	0	So far so good.
+751	1	1	I would run back to computer store and return this expensive toy.
+752	1	1	signed: not impressed
+753	1	0	I bought this a few months ago and it's holding up fairly well.
+754	1	0	Runs fast, the touch screen hasn't lost any sensitivity, I'm overall very happy with it.
+755	1	0	This is my first Apple computer and I couldn't be more pleased.
+756	1	0	The computer of the people!
+757	1	1	I bought my first MacBook exactly 5 months ago and was really happy with my new toy, but what was not my surprise when I turned it on 2 days ago and the screen was completely black.
+758	1	0	The best computer I've ever bought.
+759	1	0	You wont be disappointed with this computer!
+760	1	1	The most disappointing purchase of my life!
+761	1	1	I received a dud and have had nothing but problems since right after I purchased this horrible machine.
+762	1	0	Otherwise I am happily a  Mac user.
+763	1	2	For a premium laptop sold in 2013, the Apple MacBook Pro (13 inch, base model) is about as basic as it gets: no SSD, no discrete graphics, no 1080p display, and no touch screen.
+764	1	1	This, added with the fact that the speed of the hard drive is very slow for the money, detracts from the computer's value.
+765	1	0	Lowering the price by one hundred dollars would justify the hard drive and screen and make the computer a five-star purchase, but for the price, this is a four star (good) computer.
+766	1	0	TLDR version: good, reliable laptop with mediocre screen and slow hard drive.
+767	1	1	I am really sorry I bought this machine.
+768	1	1	I was shocked at how much worse this product has been since my first purchase.
+769	1	1	This machine has made me go there 5 times and has been nothing but a continuous problem.
+770	1	1	You get what you pay for, right?
+771	1	1	I should have known better.
+772	1	1	I hope you don't make the same mistake...
+773	1	0	Other than that battery issue and the battery life does not last too long, I'm pretty happy with the computer.
+774	1	1	I can't believe people like these computers.
+775	1	1	Don't waste your money.
+776	1	1	My HP seemed great at first, then the problems started.....wireless adapter would just &quot;disappear&quot; and the system said it didn't have a network card.
+777	1	1	I don't have the inclination or time to devote to a companies tech support, search functions, or hold times.....dropped the HP and never looked back.
+778	1	0	I gave this product 5 stars because I have been looking for a MacBook Pro for a long time and I found it here for a wonderful price.
+779	1	0	I have used this product for only 2 days, but I can't wait to use it more.
+780	1	0	I plan on using my MacBook Pro for a long time.
+781	1	0	When I decided to buy my first computer, I wish I had bought a Mac first.
+782	1	0	I'll leave the more technical aspects to those more knowledgeable than myself, and just conclude by saying that I'm delighted with my purchase.
+783	1	0	Received this item and everything is great except that my touchpad is reversed.
+784	1	0	It's a great laptop, but right now it's annoying to use the touchpad.
+785	1	1	Being only 2 months old, I am not a happy camper!
+786	1	0	Everything from the design to the OS is simple and to the point.
+787	1	1	I would totally recommend any other laptop over this pile of grabage.

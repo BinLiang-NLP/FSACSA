@@ -1,0 +1,120 @@
+0	5	1	Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. 
+1	5	1	the last time i walked by it looked pretty empty. hmmm.
+2	5	0	Surprisingly nothing could be further from the truth.
+3	5	0	In the evening, this place attracted a well dressed, with it, NY crowd.
+4	5	0	The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.
+5	5	0	This place is the most Japanese it can ever get.
+6	5	0	The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.
+7	5	1	This place is incredibly tiny.
+8	5	1	first it took us a long time to find the place.
+9	5	0	Have recommended the place to friends, always gets good response.
+10	5	0	I take all my NYC guests to VT's.
+11	5	0	I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.
+12	5	0	I am bringing my whole family back next time.
+13	5	0	Worth visiting the 1st Ave spot because it is the original store.
+14	5	0	If you are the type of person who likes being scared and entertained, this is a great place to go and eat.
+15	5	0	great for a romantic evening, or a fun evening with friends...
+16	5	0	Ambience is so cute and quaint, good for business although we were there on vacation.
+17	5	0	This place is always very crowded and popular.
+18	5	1	DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.
+19	5	0	They tell me they are going to cover the garden in glass for the winter, so i'm looking forward to going there on a snowy night to enjoy it.
+20	5	0	The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.
+21	5	0	The owner and staff are all Japanese as well and that adds to the entire ambiance.
+22	5	1	It's a rather cramped and busy restaurant and it closes early.
+23	5	0	This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.
+24	5	1	Not a great place for family or general dining.
+25	5	0	Authentic Shanghai style and I cannot recommend a better Shanghai place in New York.
+26	5	0	Definitely a great spot for a nice occasion or date.
+27	5	1	A Thai restaurant out of rice during dinner?
+28	5	0	Always a nice crowd, but never loud.
+29	5	0	Good for dates or with friends.
+30	5	0	I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.
+31	5	1	Don't be fooled by crowds of people.
+32	5	1	A little crowded but they move that line really fast!
+33	5	0	Open late (well as late as I ever got there and I'm a night person)
+34	5	0	This is the kind of place you'd like to take all your friends to and still keep a secret.
+35	5	1	The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.
+36	5	1	The only thing you can do here is walk in and eat .. but planning an event, especially a small, intimate one, forget about it.
+37	5	1	If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.
+38	5	0	This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!
+39	5	0	Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.
+40	5	0	All the people that I bring there go back on their own and bring THEIR friends!
+41	5	0	Wonderful at holiday time.
+42	5	1	Go here for a romantic dinner but not for an all out wow dining experience.
+43	5	0	My friend from Milan and myself were pleasantly surprised when we arrived and everyone spoke italian.
+44	5	0	It's great to go for a quick lunch either alone or with a friend.
+45	5	1	It's definately not a place to go if you want to impress someone.
+46	5	0	How do you rate home?
+47	5	0	Great spot, whether looking for a couple of drinks or quiet dinner.
+48	5	0	service is friendly, and never had a problem walking in and getting a table.
+49	5	0	It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.
+50	5	0	This is the perfect date spot for Williamsburg couples.
+51	5	0	A great place to meet up for some food and drinks...  
+52	5	1	If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.
+53	5	0	I found it on a cold night, the perfect spot to warm up.
+54	5	0	An awesome organic dog, and a conscious eco friendly establishment.
+55	5	0	Place is open till late, no dress code.
+56	5	1	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+57	5	1	The only downside... they only take cash which is OK if you know about it ahead of time.
+58	5	0	I noticed alot of indian people eatting there which is a great sign for an indian place!
+59	5	0	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+60	5	0	Nice for one time special occasion.
+61	5	0	Remind me of home.
+62	5	0	Pacifico is a great place to casually hang out.
+63	5	0	Got a date? Go here!
+64	5	0	Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+65	5	0	Once you try it for a special occasion beware.. you can't stop!
+66	5	0	You'll be ther for every anniversary, birthday, valentines day...
+67	5	0	For a Fabulous Wedding!
+68	5	0	My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+69	5	0	For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+70	5	0	It's a great place to order from or sit-in.
+71	5	0	Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.
+72	5	1	This place survives on reputation alone.
+73	5	0	great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+74	5	1	Be prepared to wait, because the place is pretty tiny.
+75	5	1	Surprised that a place of this caliber would advertise it as Kobe.
+76	5	1	To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+77	5	1	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+78	5	1	Don't go with a larger group than 4! 
+79	5	0	Gorgeous place ideal for a romantic dinner
+80	5	0	I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+81	5	1	The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+82	5	1	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+83	5	1	We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+84	5	0	Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.
+85	5	0	Never too crowded and always great service.
+86	5	0	You routinely see Indian families and friends dining there, which is always a good sign.
+87	5	0	I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.
+88	5	1	The only drawback is the crowded seating and the slow service.
+89	5	0	It's a great place to enjoy food and meet friends.
+90	5	0	The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.
+91	5	0	– I can't believe Murphy's has been around for over 25 years, amazing.
+92	5	0	It's the perfect spot for a romantic date for 2 or a secret rendezvous!
+93	5	0	I guarantee you won't be disappointed, there's also valet parking.
+94	5	1	Space was limited, but the food made up for it.
+95	5	1	The prior reviews said Kid friendly... give me a break with two young children that is light years.
+96	5	0	Good for late night dining (last minute planning) without reservations.
+97	5	1	I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.
+98	5	1	I never heard back from anyone more than a month ago.
+99	5	1	As of writing this I just tried their give away a link again & it still doesn't work.
+100	5	0	If you can, come to this place by boat and make it a whole evening.
+101	5	0	They have been featured on the food network and they deserve it.
+102	5	0	Parking is reasonably good, they have their own lot and you can park in the park nearby.
+103	5	1	Also, there was only one bathroom stall- probably need more for such big crowds.
+104	5	0	It's just the right size for the menu.
+105	5	1	– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.
+106	5	0	There was a really nice vibe about the place...good music, atmosphere and happy looking people.
+107	5	0	It's a great place to people watch.
+108	5	1	I have a but here - there was a bathroom attendant in the restroom which was odd.
+109	5	1	The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.
+110	5	1	I felt ackward and next time went to the casino bathroom.
+111	5	1	Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.
+112	5	1	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.
+113	5	0	After really enjoying ourselves at the bar we sat down at a table and had dinner.
+114	5	1	They don't concern much of customer's health, just want to make money.
+115	5	1	please don't fool us.
+116	5	1	The worst excuse for Japanese food I've ever encountered.
+117	5	0	But that is highly forgivable.
+118	5	0	For those that go once and don't enjoy it, all I can say is that they just don't get it.
+119	5	1	I would never recommend this place to anybody even for a casual dinner.

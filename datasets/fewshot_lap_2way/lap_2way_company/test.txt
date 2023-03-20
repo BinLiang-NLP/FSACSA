@@ -1,0 +1,124 @@
+0	1	1	And, if you are going to deal with HP be careful.
+1	1	1	In my house, HP is a nasty word.
+2	1	1	I can guarantee this will be the last Dell I will ever purchase!
+3	1	1	I do not recommend this company or their products!!!!
+4	1	0	I am loyal to Apple.
+5	1	1	So if anyones looking to buy a computer or laptop you should stay far far away from any that have the name TOSHIBA on it...
+6	1	0	And Toshiba is a quality supplier.
+7	1	0	Toshiba is a great brand, even though I haven't had it for a long time, I am very happy with it!
+8	1	0	Once again apple stands alone at the top of the charts.
+9	1	1	Will not buy another Toshiba, this is my second, not happy w/ either.
+10	1	0	I love the Apple products.
+11	1	1	Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba?
+12	1	1	I'll rather be out of date then spend more money on toshiba.
+13	1	1	Remember to do your research first before consider buying a toshiba product.
+14	1	1	I will never purchase a HP again ever.
+15	1	0	Let's just get this out of the way, I love Apple!
+16	1	1	Summary: Dont buy HP.
+17	1	1	If you buy, pray you dont have major prolems.
+18	1	1	I thought we were paying for quality in our decision to buy an Apple product.
+19	1	0	I love this product because it is Toshiba and its 15.6".
+20	1	1	I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.
+21	1	1	NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS.
+22	1	0	tosiba has a good reputation, my llast computer was an acer.
+23	1	0	I made a perfect decision when I bought the Toshiba!
+24	1	0	ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.
+25	1	1	I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.
+26	1	1	I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.
+27	1	1	I'm all for saving money but Dell needs to step it up.
+28	1	0	Great product by Apple with the new great looking design.
+29	1	0	I tell everyone I see out looking to get this or another Toshiba.
+30	1	0	My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!
+31	1	0	If I had to buy another computer, I would most definetly buy an acer one computer.
+32	1	0	The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!
+33	1	0	Apple continues to shine and provide a much more enjoyable computer experience!
+34	1	0	Thank you for your great product!
+35	1	0	If you have any creativity in you do yourself a favor and get a mac!
+36	1	0	Very dissappointed becase I have had toshibas for years, and never a issue.
+37	1	1	But if you can't make your product last more than a year, you will not get my business again.
+38	1	1	I'v spent as much for shipping as I would to buy a new netbook -- of course a different brand.
+39	1	0	I honestly love my mac, thats why I am a self proclaimed mac addict.
+40	1	0	They definitely have a superior product!
+41	1	0	My next laptop will also be a Mac!
+42	1	0	I will only buy apple laptops from now on.
+43	1	0	That was my first Apple product and since then I have been incredibly happy with every product of theirs I have bought.
+44	1	1	I will never buy anything from HP again!
+45	1	1	this company truely does make horrible products and doesnt seem to because they are certain things like this "never" happen...
+46	1	0	I'm making the switch and finding that my biggest problem is trying to do things the 'old' way - and Apple does, indeed, have the better idea.
+47	1	1	DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE.
+48	1	1	Will probably never buy a HP again.
+49	1	1	So buyer beware when buying Toshiba
+50	1	1	For my burn thigh which has put a permanent mark on my skin (it happened 7 months ago) they offered me an ITouch 8Gig (you know it is a bit insulating when a company this rich, offer a loyal customer like me, a bottom of their product line as a gift for events like this).
+51	1	1	Steve Jobs, probably needs help and donations, and cannot afford a reasonable offers for people that truly are trying to support his baby.
+52	1	1	The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.
+53	1	1	With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.
+54	1	1	If you are looking for a netbook pc DO NOT BUY FROM ASUS!!!
+55	1	0	Apple is always great about the aesthetics of things, they always come up with good looking products.
+56	1	0	It's great and we will always stick with Apple computers, we have been so happy with them.
+57	1	0	Very happy with my 7th Toshiba laptop!
+58	1	1	I don't like this company nor the toshiba brand, and I'll never  buy another one because I've put more into it then it is worth.
+59	1	1	I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all.
+60	1	1	i cant believe HP put this out.
+61	1	0	I love HP,, it's the only computer/printer we will buy.
+62	1	0	I definitely will buy a Mac again if and when this computer ever fails.
+63	1	1	You will regret it if you buy any dell.
+64	1	1	Dell sucks
+65	1	1	In short I would never buy a Compaq again.
+66	1	1	Sorry Toshiba, but 1st impressions do count for something.
+67	1	0	My house is now 100% Macbook.
+68	1	1	Guess I'll stay away from HP.
+69	1	0	No hardware issues, as is common with any Apple product.
+70	1	1	Do not buy a mac until this issue is resolved.
+71	1	1	Avoid Acer.
+72	1	0	Great laptop from Apple!
+73	1	0	Apple is unrivaled in terms of build quality and functionality.
+74	1	1	Seriously, save yourself the hassle and purchase from a different company.
+75	1	1	Used to love HP products, but this has soured me on the whole company.
+76	1	0	One really nice thing about Lenovo laptops is that they are not cluttered with a bunch or trial software.
+77	1	0	I will be considering Lenovo for all future laptop purchases.
+78	1	1	I have had Dell Desktops for years, so had no qualms about buying a Dell laptop.
+79	1	0	I've always sworn by dell.
+80	1	1	It seems like Lenovo also makes weird choices about which side to put the powercord and other slots on.
+81	1	1	Dell claims they test each key with thousands of mechanical key strokes.
+82	1	1	I would love to keep this laptop, but will be sending it back and looking for a different brand.
+83	1	1	No Lenovo for me.
+84	1	1	I will never buy another Lenovo anything!
+85	1	0	Retina screen, solid build quality, weight, fast processor and the reliability of the Apple brand.
+86	1	0	Glad I did so far.
+87	1	0	I tried not to jump on the Apple bandwagon, but... you're just living in denial if you don't.
+88	1	0	Happy buying!
+89	1	1	etc. but the company and seller lied to you and try to make an extra buck!
+90	1	1	Thank you asus.(they don't deserve to be capitalized)
+91	1	0	Very great Apple product as expected.
+92	1	0	how could you not love a Mac
+93	1	0	To a prospective buyer,  08/10/2012  Once you go Mac, you'll never go back.
+94	1	1	Here is my take on all of this, the business model Apple pushes right now is to get some cheap junk from China, hire a bunch of cheerleaders straight out of high school, call them geniuses, and bully everybody who complains about their product.
+95	1	1	Steve Jobs is dead, so is Apple.
+96	1	1	No more Apple devices in my household.
+97	1	1	Please Google 'MacBook battery bulge explode' before you buy your next Apple toy.
+98	1	0	That's the only issue I've ever had since working on Macs in 1995.
+99	1	0	That's a pretty impressive track record don't you think?
+100	1	1	But Sony doesn't seem to have addressed it.
+101	1	0	But, hey, it's an Apple.
+102	1	0	I wouldn't expect anything less!
+103	1	1	If it was possible to give them 0 start, I would have done it.
+104	1	1	this company just wants customers' money in their pocket.
+105	1	1	they dont care how you feel when they charge you hundreds of hard earned dollars.
+106	1	1	I wish this company to go bust.
+107	1	1	I will never ever buy any apple product in my life.
+108	1	0	They really know what they are doing.
+109	1	0	If you dont like windows I would suggest trying a Mac.
+110	1	0	The investment is worth it.
+111	1	1	Not impressed with Macintosh products.
+112	1	1	In fact I am completely frustrated.
+113	1	1	I had delusions of grandeur regarding Apple's &amp;#34;great customer service&amp;#34; and the &amp;#34;reliability of their machines&amp;#34; etc.. etc...blah...blah...
+114	1	1	I'm sure most people's Macbooks work just fine, but FYI, if you get the factory dud, you're stuck with it and no one at Apple cares or will give a hoot about the money you threw away.
+115	1	0	Otherwise I am happily a  Mac user.
+116	1	0	But Apple does not pretend it has any of these.
+117	1	1	So, I'm cooled on Mac buys.
+118	1	1	I think it may have to be 'Apple Don't Care' instead of Apple Care.
+119	1	1	I can't believe people like these computers.
+120	1	1	Now that they are not virus free ([...]l) I see absolutely no benefit to Apple products as they are slower, more expensive, and do not last as long.
+121	1	1	Then there was a power cord recall....HP never notified us.....and we did register......never again.
+122	1	1	I don't have the inclination or time to devote to a companies tech support, search functions, or hold times.....dropped the HP and never looked back.
+123	1	0	I really like Mac/Apple products because of their operating system.

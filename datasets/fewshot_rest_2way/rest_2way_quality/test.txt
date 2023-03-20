@@ -1,0 +1,845 @@
+0	2	1	The food was lousy - too sweet or too salty and the portions tiny.
+1	2	0	I have eaten at Saul, many times, the food is always consistently, outrageously good.
+2	2	0	The duck confit is always amazing and the foie gras terrine with figs was out of this world.
+3	2	0	For the price, you cannot eat this well in Manhattan.
+4	2	1	Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. 
+5	2	0	Service was devine, oysters where a sensual as they come, and the price can't be beat!!!
+6	2	0	Everything is always cooked to perfection, the service is excellent, the decor cool and understated.
+7	2	0	I had the duck breast special on my last visit and it was incredible.
+8	2	1	The food is very average...the Thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.
+9	2	0	The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree.
+10	2	0	I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).
+11	2	0	The spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!
+12	2	0	Food-awesome.
+13	2	0	Food is great.
+14	2	0	I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.
+15	2	0	It melted in my little mouth and the perfect consistency-not too fishy, creamy, and slightly buttery.
+16	2	0	The sushi seemed pretty fresh and was adequately proportioned.
+17	2	0	We took advanatage of the half price sushi deal on saturday so it was well worth it.
+18	2	0	The food was well prepared and the service impecable.
+19	2	0	The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).
+20	2	0	It is terrific, as is the value.
+21	2	0	$6 and there is much tasty food, all of it fresh and continually refilled.
+22	2	0	I am not a vegetarian but, almost all the dishes were great.
+23	2	0	The food here is rather good, but only if you like to wait for it.
+24	2	1	Also, specify if you like your food spicy- its rather bland if you don't.
+25	2	0	Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+26	2	0	The lava cake dessert was incredible and I recommend it.
+27	2	1	The pizza was delivered cold and the cheese wasn't even fully melted!
+28	2	1	The pizza is overpriced and soggy.
+29	2	0	I think I've had some the best meals of my life at minnow.
+30	2	0	The seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.
+31	2	0	The combination of super-fresh ingredients in the dishes are unusual but really delicious.
+32	2	0	Best Pastrami I ever had and great portion without being ridiculous.
+33	2	0	My wife had the fried shrimp which are huge and loved it.
+34	2	0	The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.
+35	2	0	Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.
+36	2	0	The service is excellent, the decor is great, and the food is delicious and comes in large portions.
+37	2	1	The food was bland oily.
+38	2	0	We have been to this place many times, and always have great food, wine, and service.
+39	2	0	The pizza is yummy and I like the atmoshpere.
+40	2	1	I went there for lunch and it was not as good as I expected from the reviews I read.
+41	2	1	Sauce was watery and the food didn't have much flavor.
+42	2	0	The waitress was very patient with us and the food is phenomenal!
+43	2	0	Great pizza and fantastic service.
+44	2	0	This is the best sushi in new york city - hands down.
+45	2	0	The place is small and cramped but the food is fantastic.
+46	2	0	Get the tuna of gari.
+47	2	0	Planet Thailand has always been a hit with me , I go there usually for the sushi, which is great , the thai food is excellent too .
+48	2	0	It's all about the food !!
+49	2	1	those rolls were big, but not good and sashimi wasn't fresh.
+50	2	1	they were dry and disgusting, i didn't even finish my first piece.
+51	2	0	Try the crunchy tuna, it is to die for.
+52	2	0	Try everything for that matter, it is all good.
+53	2	0	The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.
+54	2	0	It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.
+55	2	0	Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best, freshly baked bread!
+56	2	0	Not sure where the previous reviewer, lonk, dined, but Saul is in a great neighborhood and has great food!
+57	2	0	Make sure you have the Spicy Scallop roll.. .
+58	2	0	it's delicious!
+59	2	0	Try their chef's specials-- they are to die for.
+60	2	0	The exotic food is beautifully presented and is a delight in delicious combinations.
+61	2	0	The food was good too.
+62	2	0	The tuna and wasabe potatoes are excellent.
+63	2	0	Great service, great food.
+64	2	0	The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.
+65	2	1	Also, because it is so thin, it gets cold very quickly and its not that filling.
+66	2	0	Wait staff is blantently unappreciative of your business but its the best pie on the UWS!
+67	2	0	By far the best salad I have had in a fast food restaurant.
+68	2	0	fine dining restaurant quality.
+69	2	0	This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.
+70	2	0	The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.
+71	2	0	When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.
+72	2	0	He served me an Uni Hand roll, which I never had before, and let me tell you...IT WAS HEAVEN!
+73	2	0	Try the lobster teriyaki and the rose special roll.
+74	2	0	It's simply the best meal in NYC.
+75	2	0	The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.
+76	2	0	The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if I must recommend a dish it must be the pumkin tortelini.
+77	2	0	They were served warm and had a soft fluffy interior.
+78	2	0	This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.
+79	2	0	I have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.
+80	2	0	Other guests enjoyed pizza, santa fe chopped salad and fish and chips.
+81	2	0	I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.
+82	2	1	My chow fun and chow see was really bland and oily.
+83	2	1	Okay-i don't mind the oily part (cause most are cooked that way) but it was way too bland.
+84	2	1	It's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.
+85	2	0	Their pad penang is delicious and everything else is fantastic.
+86	2	0	fresh restaurant was amazing........ food was delicious and of course fresh.
+87	2	0	Hats off to the chef.
+88	2	0	the salads are delicious, both refreshing and very spicy.
+89	2	0	We had Pam's special fried fish and it was amazing.
+90	2	0	too large for just two people but nothing was left.
+91	2	0	Salads were fantastic.
+92	2	0	Although we were looking for regular lettuce and some walnuts the salads we got were great.
+93	2	0	Ingredients are organic which is a real plus for me.
+94	2	0	This is some really good, inexpensive sushi.
+95	2	0	The spicy Tuna roll is huge and probably the best that I've had at this price range.
+96	2	0	The Yellowtail was particularly good as well.
+97	2	0	They have it all -- great price, food, and service.
+98	2	0	Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.
+99	2	0	We both opted for a pasta dish and they were served timely and fresh.
+100	2	0	We concluded with tiramisu chocolate cake, both were delicious.
+101	2	0	The staff was accomodating, the food was absolutely delicious and the place is lovely.
+102	2	0	sometimes i get good food and ok service.
+103	2	0	You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.
+104	2	0	Right off the L in Brooklyn this is a nice cozy place with good pizza.
+105	2	0	My friend got the mushroom pizza which tasted better.
+106	2	0	MMmmm... it was delicious.
+107	2	0	The food is authentic Italian - delicious!
+108	2	0	Pizza is terrific, as is homemade pasta.
+109	2	1	I'm still mad that i had to pay for lousy food.
+110	2	1	The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.
+111	2	0	This is my first time writing a review for a restaurant because the food and service was excellent.
+112	2	0	The filet mignon dish was superb!
+113	2	0	The sushi is amazing!!! 
+114	2	1	We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.
+115	2	1	We were very disappointed.
+116	2	1	We won't go to this place again for a good meal.
+117	2	0	THe Pizza and wine were excellent-the service too--but what really MADE this place was the backyard dining area.
+118	2	0	To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.
+119	2	1	Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.
+120	2	1	Fish was overdone.
+121	2	1	Someone else recommended the dessert - we also left that.
+122	2	0	I've never had bad service and the fish is fresh and delicious.
+123	2	0	Their tuna tartar appetizer is to die for.
+124	2	0	I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.
+125	2	0	It is simply amazing.
+126	2	0	A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.
+127	2	0	No gimmicks here -- the food speaks for itself in its freshness and preparation.
+128	2	0	Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.
+129	2	0	My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque.
+130	2	0	It was divine melts in your mouth.
+131	2	0	My boyfriend had Prime Rib it was good .
+132	2	0	It's cuz it's so good you need to taste it!!! 
+133	2	0	My wife and I ate here earlier this week and have not stopped ranting and raving about the food.
+134	2	0	If you like spicy food get the chicken vindaloo.
+135	2	0	It's very spicy but not offensive.
+136	2	0	Go to Volare for 1st class service and terrific food.
+137	2	0	The food is amazing... especially if you get the Chef's tasting menu and your favourite bottle (or two!) of wine from an extensive selection of wines.
+138	2	0	The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.
+139	2	1	We ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat.
+140	2	0	Our food was great too!
+141	2	0	The food was pretty tradional but it was hot and good with large portions.
+142	2	1	The food however, is what one might expect.
+143	2	1	It is very overpriced and not very tasty.
+144	2	0	Great pizza for lunch place.
+145	2	0	The pizza was great.
+146	2	0	Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.
+147	2	0	Great friendly service, Fast seating, Fast Delivery, Excellent sushi.
+148	2	0	A little overpriced but worth it once you take a bite.
+149	2	0	Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.
+150	2	0	The bagels always warm, soft on the inside, crispy on the outside and enormous in size.
+151	2	0	They have a huge selection of different cream cheeses and all of their salads are great.
+152	2	0	The lox is always fresh too.
+153	2	1	Not impressed with the food.
+154	2	0	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.
+155	2	0	Thius is a must for anyone who loves Shabu-Shabu.
+156	2	0	Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.
+157	2	0	Taxan delicious!
+158	2	0	The prices were CHEAP compared to the quality of service and food.
+159	2	0	The location and ambience is Ok but the food is what makes up for it.
+160	2	0	Try green curry with vegetables.
+161	2	0	I had the best ravioli ever.
+162	2	0	The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.
+163	2	0	Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.
+164	2	0	Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.
+165	2	0	I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.
+166	2	0	If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.
+167	2	0	I found the food, service and value exceptional everytime I have been there.
+168	2	0	The food was authentic.
+169	2	0	I felt as though I were eating in Paris.
+170	2	0	Who has room for Cheesesticks with the best pizza in NYC!
+171	2	0	Get the pepperoni - YUM - and a family style salad.
+172	2	0	The food is good, I can't lie.
+173	2	0	This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.
+174	2	1	I ate here a week ago and found most dishes average at best and too expensive.
+175	2	0	Most importantly, food is excellent.
+176	2	0	Try the sea bass.
+177	2	0	First of all Dal Bukhara Rocks.
+178	2	0	I am happy i did the food was awsome.
+179	2	0	JUST AWSOME.
+180	2	0	and yes Dal Bukhara is so dam good and so are all the kababs.
+181	2	1	The fish was not fresh and the rice tasted old and stale.
+182	2	1	Quite frankly, this is some of the worst sushi I have ever tried.
+183	2	1	honestly the worst sushi my husband and i had in our entire lives.
+184	2	1	the all-u-can-eat sushi is definitely in very poor quality.
+185	2	1	limited menu, no-so-fresh ingredients, thinly-sliced fish, fall-apart rice. 
+186	2	1	the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish. 
+187	2	1	The dinner was ok, nothing I would have again.
+188	2	1	I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.
+189	2	0	With the theater 2 blocks away we had a delicious meal in a beautiful room.
+190	2	0	We love the food, drinks, and atmosphere!
+191	2	0	Try the Pad Thai, it's fabulous and their prices are so cheap!
+192	2	0	Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!
+193	2	0	They have authentic Indian at amazin prices.
+194	2	0	The food is tasty and portion sizes are appropriate.
+195	2	0	Food is excellent.
+196	2	0	Fish is so very fresh.
+197	2	0	Mermaid Inn is an overall good restaurant with really good seafood.
+198	2	0	The menu is limited but almost all of the dishes are excellent.
+199	2	0	The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.
+200	2	0	Even though its good seafood, the prices are too high.
+201	2	0	The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.
+202	2	0	The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.
+203	2	1	We ate at this Thai place following the reviews but very unhappy with the foods.
+204	2	1	We thought that this place is using too much of MSG cooking in the foods.
+205	2	0	I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.
+206	2	0	Have frequented 'ino for several years and the food remains excellent.
+207	2	0	Cheese plate is a varied delight and great bargain at $10.
+208	2	0	(The asparagus, truffle oil, parmesan bruschetta is a winner!)
+209	2	0	Be sure to try the seasonal, and always delicious, specials.
+210	2	0	The food was very good, a great deal, and the place its self was great.
+211	2	0	Pizza here is consistently good.
+212	2	0	Salads are a delicious way to begin the meal.
+213	2	1	You should pass on the calamari.
+214	2	1	It is thick and slightly soggy.
+215	2	0	The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.
+216	2	0	I would definitely recommend SEA if you like thai cuisine!
+217	2	0	Excellent atmosphere, delicious dishes good and friendly service.
+218	2	0	Everything was wonderful; food, drinks, staff, mileau.
+219	2	0	The food is great and reasonably priced.
+220	2	0	From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.
+221	2	0	I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.
+222	2	0	Fresh ingredients and everything is made to order.
+223	2	0	I found the food to be outstanding, particulary the salmon dish I had.
+224	2	0	The food was good.
+225	2	0	The food was average or above including some surprising tasty dishes.
+226	2	0	I got an excellent piece of cheesecake and we had several other nice pastries.
+227	2	1	It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!
+228	2	1	This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.
+229	2	1	The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.
+230	2	1	And the Tom Kha soup was pathetic.
+231	2	1	If you want good authentic Thai this place is not the place to go.
+232	2	0	We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.
+233	2	0	The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.
+234	2	0	We had the lobster sandwich and it was FANTASTIC.
+235	2	0	My husband said he could've eaten several more, the portion was fine for me he even exclaimed that the french fries were the best he has had.
+236	2	0	We had the scallops as an appetizer and they were delicious and the sauce was wonderful.
+237	2	0	love the food.
+238	2	0	it's the only place you can get yummy authentic japanese comfort food.
+239	2	0	Great food, good size menu, great service and an unpretensious setting.
+240	2	0	The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).
+241	2	0	The freshest, best variety, and the fastest delivery.
+242	2	0	The service was excellent and the food was delicious.
+243	2	0	We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.
+244	2	0	Average to good Thai food, but terrible delivery.
+245	2	1	The food arrived 20 minutes after I called, cold and soggy.
+246	2	0	She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.
+247	2	0	We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.
+248	2	0	Service here was great, food was fantastic.
+249	2	0	The food is outstanding and the service is quick, friendly and very professional.
+250	2	0	By far, the best pizza in Manhattan.
+251	2	0	The crust is thin, the ingredients are fresh and the staff is friendly.
+252	2	0	The fish was really,really fresh.
+253	2	0	All of the pizzas are terrific and the price is even better!
+254	2	0	I highly recommend the Sophia pizza.
+255	2	0	It's to die for!
+256	2	1	The food was mediocre at best but it was the horrible service that made me vow never to go back.
+257	2	1	For the people who want great food plus great service, Roxy is a place to AVOID!
+258	2	0	While their kitchen food is delicious, their Sushi is out of this world.
+259	2	0	Not only is the cuisine the best around, the service has always been attentive and charming.
+260	2	1	Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.
+261	2	1	I ordered the smoked salmon and roe appetizer and it was off flavor.
+262	2	1	The entree was bland and small, dessert was not inspired.
+263	2	1	I expected quite a bit more from such an expensive menu.
+264	2	0	The view is spectacular, and the food is great.
+265	2	0	Authentic Taiwanese food that's cheap... what more could you ask for?
+266	2	0	The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.
+267	2	0	delicious simple food in nice outdoor atmosphere.
+268	2	0	I really like both the scallops and the mahi mahi (on saffron risotto-yum!).
+269	2	0	My friend devoured her chicken and mashed potatos.
+270	2	0	Delicious crab cakes too.
+271	2	0	Even if the food wasn't this good, the garden is a great place to sit outside and relax.
+272	2	0	This is a nice pizza place with good selection of thin crust pizza including the Basil slice.
+273	2	1	Their calzones are horrific, bad, vomit-inducing, YUCK.
+274	2	1	They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.
+275	2	1	Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.
+276	2	1	The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.
+277	2	1	The sandwiches are dry, tasteless and way overpriced.
+278	2	0	The atmosphere is unheralded, the service impecible, and the food magnificant.
+279	2	0	Best Italian food I ever had (and being Italian, that means alot).
+280	2	0	The food is good, especially their more basic dishes, and the drinks are delicious.
+281	2	0	Great sushi experience.
+282	2	0	Unique apppetizers.
+283	2	0	Try sushimi cucumber roll.
+284	2	0	Good spreads, great beverage selections and bagels really tasty.
+285	2	0	I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.
+286	2	0	The pizza is delicious and the proprietor is one of the nicest in NYC.
+287	2	0	The cream cheeses are out of this world and I love that coffee!!
+288	2	1	the turkey burgers are scary!
+289	2	1	The worst excuse for Japanese food I've ever encountered.
+290	2	1	The soup for the udon was soy sauce and water.
+291	2	1	The sushi was awful!
+292	2	1	The rice was poor quality and was cooked so badly it was hard.
+293	2	1	Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.
+294	2	1	It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.
+295	2	0	Food is great and inexpensive.
+296	2	0	Awsome Pizza especially the Margheritta slice.
+297	2	0	The food is reliable and the price is moderate.
+298	2	0	For authentic Thai food, look no further than Toons.
+299	2	0	Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.
+300	2	0	The flavors robust and subtle.
+301	2	0	The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal.
+302	2	0	Service was good and food is wonderful.
+303	2	0	I did not try the caviar but I tried their salmon and crab salad (they are all good)  
+304	2	0	The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.
+305	2	0	I LOVE their Thai
+306	2	0	noodles with shrimp and chicken and coconut juice is the MUST!
+307	2	0	I cannot imagine better Indian food in all of the city.
+308	2	1	During the course of the past 3 months, the chef and staff changed and it was not for the better.
+309	2	1	The food now is inconsistent.
+310	2	0	The food is excellent! 
+311	2	0	if you're daring, try the balsamic vinegar over icecream, it's wonderful!
+312	2	1	Do not get the Go Go Hamburgers, no matter what the reviews say.
+313	2	1	They were such a rip-off ($8.95 for four small meat patties in steamed buns) and not worth trying.
+314	2	0	The rest of the dim sum, though pricey by Chinatown standards, is worth it.
+315	2	0	Steamed fresh so brought hot hot hot to your table.
+316	2	1	A few tips: skip the turnip cake, roast pork buns and egg custards.
+317	2	1	These are overpriced and you can get better just around the corner:
+318	2	0	The food was exceptional.
+319	2	0	I choose to go with one of the special, the braised lamb shank in red wine, which was excellent.
+320	2	0	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal
+321	2	0	The fried dumplings are GREAT!
+322	2	0	delicious bagels, especially when right out of the oven.
+323	2	0	Spreads and toppings are great - though a bit pricey.
+324	2	1	The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.
+325	2	0	But after last night, Spice Grill is the only place I'm eating indian cuisine.
+326	2	0	You must try the shrimp appetizers.
+327	2	0	Even my Indian friend couldn't believe how good and tasty everything was.
+328	2	0	Great food, great prices, great service.
+329	2	0	If you are looking for a good quality, cheap eats - this is the place.
+330	2	0	it's a perfect place to have a amanzing indian food.
+331	2	1	Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience.
+332	2	0	Great bagels made the old-fashioned way.
+333	2	0	The food was absolutely amazing!!
+334	2	0	The baked clams octopus we shared as appetizers were the best we've ever had!! 
+335	2	0	The lamb was tender so full of flavor, the dessert was divine!!
+336	2	1	Dessert is a joke...dont bother
+337	2	0	The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.
+338	2	0	Great food, great decor, great service.
+339	2	0	A cool bar with great food, and tons of excellent beer.
+340	2	0	The shrimp scampi was excellent and the antipasti were plentiful.
+341	2	0	The only thing more wonderful than the food (which is exceptional) is the service.
+342	2	1	Too bad the food wasn't of the same heritage.
+343	2	1	The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.
+344	2	1	A real dissapointment.
+345	2	1	But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.
+346	2	1	They should have called it mascarpone with chocolate chips-good but a far cry from what the name implies.
+347	2	0	Everything I had was good, and I'm a eater.
+348	2	0	This place has the best Chinese style BBQ ribs in the city.
+349	2	0	I also recommend the rice dishes or the different varieties of congee (rice porridge).
+350	2	0	However, if you want great food at a great price and don't mind the decor, you can't beat this place.
+351	2	0	The food is wonderful, tasty and filling, and the service is professional and friendly.
+352	2	0	The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.
+353	2	0	Good food.
+354	2	0	I have never had cheescake like this.
+355	2	0	I thought I had died and gone to heaven.
+356	2	0	The food is great and they have a good selecion of wines at reasonable prices.
+357	2	1	While the ambiance and atmosphere were great, the food and service could have been a lot better.
+358	2	1	We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.
+359	2	0	i've been to sapphire twice and both times the food was fine, if not good.
+360	2	0	stick with the chicken, beef, and lamb dishes.
+361	2	1	skip dessert.
+362	2	0	Best Reuben sandwich ever!
+363	2	0	A classic!
+364	2	1	The food was not fresh, the sauces were bland and very oily.
+365	2	1	It just wasn't Thai.
+366	2	1	Was surprisingly disappointed.
+367	2	1	Pizza was a little soggy.
+368	2	0	Ravioli was good...but I have to say that I found everything a bit overpriced.
+369	2	0	Authentic Pakistani food.
+370	2	0	Just straight up cheap, good food.
+371	2	0	The best pad thai i've ever had.
+372	2	1	The food was actually aweful.
+373	2	1	I'm not picky - but it was actually gross.
+374	2	1	The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.
+375	2	0	Nice atmosphere, the service was very pleasant and the desert was good.
+376	2	0	The food is amazing, rich pastas and fresh doughy pizza.
+377	2	0	This is an amazing place to try some roti rolls.
+378	2	0	I really recommend the very simple Unda (Egg) rolls.
+379	2	0	Delicate spices, onions, eggs and a kick-ass roti.
+380	2	0	Amazing!
+381	2	0	The food's as good as ever.
+382	2	0	In an area sadly lacking in decent Thai food, this is one of the best spots.
+383	2	0	Went here last night - nice decor, good service, but the food was surprisingly excellent.
+384	2	0	Best drumsticks over rice and sour spicy soup in town!
+385	2	0	Beef noodle soup is good as well.
+386	2	0	Best Taiwanese food in NY!
+387	2	0	The portion sizes here are huge, and the sushi is good.
+388	2	0	Excellent dumplings served amid clean, chic decor.
+389	2	0	I got the $10 10-piece dim sum combo, every bite of which was great.
+390	2	0	The food was delicious but do not come here on a empty stomach.
+391	2	0	The portions are small but being that the food was so good makes up for that.
+392	2	0	You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.
+393	2	0	Great Indian food and the service is incredible.
+394	2	0	Great food and the prices are very reasonable.
+395	2	0	The food here does a great service to the name (Cantonese that is...).
+396	2	0	I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.
+397	2	0	This dish is my favorite and I always get it when I go there and never get tired of it.
+398	2	0	Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.
+399	2	0	Simply some good tasting Chinese food at incredible prices...
+400	2	0	good music, great food, speedy service affordable prices.
+401	2	0	Consistently good Japanese Tapas.
+402	2	0	Yakitori (bbq meats) is tasty too.
+403	2	1	If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.
+404	2	1	Price and quality of fish alone will keep us from making a return visit.
+405	2	1	Wasn't going to share but I feel obligated...while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing.
+406	2	0	Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!
+407	2	1	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.
+408	2	0	Baluchi's has solid food and a nice decor at reasonable prices.
+409	2	0	The vibe is very relaxed and cozy, service was great and the food was excellent!
+410	2	0	Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.
+411	2	0	The food is great.
+412	2	0	The pizza was pretty good and huge.
+413	2	1	I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine.
+414	2	1	The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol
+415	2	0	La Rosa waltzes in, and I think they are doing it the best.
+416	2	0	The mussels were fantastic and so was the dessert...definitely going to be back very soon.
+417	2	0	I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!
+418	2	0	I have to say I have never had a disapointing meal here.
+419	2	0	We could have made a meal of the yummy dumplings from the dumpling menu.
+420	2	0	Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.
+421	2	0	Great food.
+422	2	0	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+423	2	1	Overpriced and not tasty 
+424	2	1	The food here was mediocre at best. 
+425	2	0	Tasty Dog!
+426	2	0	An awesome organic dog, and a conscious eco friendly establishment.
+427	2	0	One of the best hot dogs I have ever eaten.
+428	2	0	But the best pork souvlaki I ever had is the main thing.
+429	2	0	Super YUMMY Pizza!
+430	2	0	I LOOOVE their eggplant pizza, as well as their pastas!
+431	2	0	Excellent food, although the interior could use some help.
+432	2	0	I paid just about $60 for a good meal, though :)
+433	2	0	Reliable, Fresh Sushi
+434	2	0	The sashimi is always fresh and the rolls are innovative and delicious.
+435	2	0	Best. Sushi. Ever.
+436	2	0	This place has ruined me for neighborhood sushi.
+437	2	0	Creative, consistent, fresh.
+438	2	0	Excellent sashimi, and the millennium roll is beyond delicious.
+439	2	0	Not cheap but very yummy.
+440	2	0	not only is the food
+441	2	0	The waiter was attentive, the food was delicious and the views of the city were great.
+442	2	0	Good food: my favorite is the seafood spaghetti.
+443	2	0	Excellent food for great prices
+444	2	0	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+445	2	0	i love their chicken pasta cant remember the name but is sooo good
+446	2	1	I think the pizza is so overrated and was under cooked.
+447	2	1	Had no flavor and the staff is rude and not attentive.
+448	2	0	I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+449	2	0	I ordered the vitello alla marsala and I was pretty impressed.
+450	2	0	The veal and the mushrooms were cooked perfectly.
+451	2	0	The potato balls were not dry at all... in fact it was buttery.
+452	2	1	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+453	2	0	the food is always fresh ...
+454	2	1	food was luke warm.
+455	2	0	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+456	2	0	Red Dragon Roll - my favorite thing to eat, of any food group - hands down
+457	2	0	Just go to Yamato and order the Red Dragon Roll.
+458	2	0	If you don't like it, I don't know what to tell you.
+459	2	0	The Seafood Dynamite is also otherworldly.
+460	2	0	I'm not even going to bother to describe it; it speaks for itself.
+461	2	0	Favorite Sushi in NYC
+462	2	0	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+463	2	0	The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+464	2	0	The Dancing, White River and Millenium rolls are musts.
+465	2	1	Gross food – Wow-
+466	2	1	I can't remember the last time I had such gross food in New York.
+467	2	1	My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+468	2	1	And $11 for a plate of bland guacamole?
+469	2	0	Great Indian Food!
+470	2	0	The food was good, the place was clean and affordable.
+471	2	0	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+472	2	0	MMMMMMMMMmmmmmm so delicious
+473	2	0	Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+474	2	0	The omlette for brunch is great...
+475	2	0	the spinach is fresh, definately not frozen...
+476	2	0	quacamole at pacifico is yummy, as are the wings with chimmichuri.
+477	2	1	A weakness is the chicken in the salads.
+478	2	1	It's just average, just shredded, no seasoning on it.
+479	2	1	Also, I personally wasn't a fan of the portobello and asparagus mole.
+480	2	0	Decor needs to be upgraded but the food is amazing!
+481	2	0	This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+482	2	0	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+483	2	0	All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+484	2	0	Great food, amazing service, this place is a class act.
+485	2	0	The veal was incredible last night.
+486	2	0	Fresh, mind blowing flavors.
+487	2	0	Delicious, creative and fun.
+488	2	0	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+489	2	1	The high prices you're going to pay is for the view not for the food.
+490	2	1	The stuff tilapia was horrid...tasted like cardboard.
+491	2	1	We thought the dessert would be better, Wrong!
+492	2	1	The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+493	2	0	However, our main course was wonderful.
+494	2	0	I had fish and my husband had the filet - both of which exceeded our expectations.
+495	2	0	The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+496	2	1	Over all the looks of the place exceeds the actual meals.
+497	2	1	So what you really end up paying for is the restaurant not the food.
+498	2	0	Subtle food and service
+499	2	0	Noodle pudding is exactly the type of service and food I enjoy.
+500	2	0	amazing fresh dogs but best of all endless toppings!!!
+501	2	0	amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+502	2	0	Highly impressed from the decor to the food to the hospitality to the great night I had!
+503	2	0	Food took some time to prepare, all worth waiting for.
+504	2	1	Maggot in the food!
+505	2	1	Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.
+506	2	1	I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.
+507	2	1	Unhygienic
+508	2	1	I got hair in my food 2 times of then !
+509	2	0	The food is flavorful, plentiful and reasonably priced.
+510	2	0	Sushi experience was unbelievable with my fiance.
+511	2	0	Good creative rolls!
+512	2	0	They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+513	2	0	One special roll and one regular roll is enough to fill you up, but save room for dessert!
+514	2	0	They have a delicious banana chocolate dessert, as well as a great green tea tempura.
+515	2	0	The appetizers are also delicious!
+516	2	0	Amazing food.
+517	2	0	Great food!
+518	2	0	I've had my fair share of modern Japanese and this spot delivers.
+519	2	0	Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+520	2	0	Indo Chinese food, pretty good...
+521	2	0	Not a very fancy place but very good Chinese style Indian food.
+522	2	1	My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.
+523	2	1	I was speechless by the horrible food.
+524	2	1	I attended a holiday dinner at the restaurant, and the food was majorly disappointing.
+525	2	1	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+526	2	0	for 7 years they have put out the most tasty, most delicious food and kept it that way...
+527	2	0	never swaying, never a bad meal, never bad service...
+528	2	0	great food, great wine list, great service in a great neighborhood...
+529	2	0	so delicious!!!!!!
+530	2	0	Hands down the best pizza on the planet.
+531	2	0	In about 12 minutes, the thing is gone.
+532	2	0	great hot dogs..
+533	2	0	the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+534	2	0	great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+535	2	0	great taste
+536	2	0	Great, original taste.
+537	2	1	For me dishes a little oily, but overall dining experience good.
+538	2	0	great food
+539	2	0	This place has great indian chinese food.
+540	2	0	The flavors are amazing and the value is phenomenal.
+541	2	0	Even though the place is not beautiful, the food speaks for itself.
+542	2	0	Best Indian Chinese in the city, by far!
+543	2	0	Everything on the menu is great. 
+544	2	0	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+545	2	0	Look, the appetizers were really good.
+546	2	0	The entree was also very good.
+547	2	1	Which of course is not real Kobe but Wagyu beef.
+548	2	0	Bison was quite excellent however.
+549	2	1	Dessert: pure disaster.
+550	2	1	Just not good at all.
+551	2	1	Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+552	2	1	If you are going for the food, it will not be worth it.
+553	2	1	My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+554	2	1	I would not expect this for a $55 dinner.
+555	2	1	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+556	2	1	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+557	2	0	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+558	2	1	The lobster knuckles (special of the day) were ok, but pretty tasteless.
+559	2	0	I had the Thai style Fried Sea Bass...which was very good. 
+560	2	0	I heard the lobster roll was excellent. 
+561	2	0	All in all the food was good - a little on the expensive side, but fresh. 
+562	2	0	Great Indian food
+563	2	0	Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.
+564	2	0	Very "normal Indian food", but done really well.
+565	2	0	But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food
+566	2	0	The lunch buffet is expensive but is deff worth it.
+567	2	0	We have gone for dinner only a few times but the same great quality and service is given.
+568	2	1	I have never been so disgusted by both food an service.
+569	2	1	However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.
+570	2	1	My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+571	2	1	Less than three minutes passed before I found myself doubled over the toilet.
+572	2	1	My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+573	2	1	Eat at your own risk.
+574	2	0	I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+575	2	1	The nakgi-bokum was horrible.
+576	2	1	Easily the worst stir-fried squid I've ever tasted.
+577	2	1	The sauce tasted more like Chinese fast food than decent Korean.
+578	2	1	My wife had barely touched that mess of a dish.
+579	2	0	The wife had the risotto which was amazing.
+580	2	0	It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.
+581	2	0	The farro salad and the mashed yukon potatoes were also extremely tasty.
+582	2	0	i love margherita pizza – i looove east village pizza
+583	2	0	The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+584	2	0	Personally I like the margherita pizza better, but they are all good.
+585	2	0	We started off with a delightful sashimi amuse bouche.
+586	2	0	I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.
+587	2	0	Great Shabu Shabu
+588	2	0	But for the Shabu Shabu, you won't find much better in NY.
+589	2	0	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+590	2	0	Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+591	2	0	The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+592	2	0	The food tasted very good.
+593	2	0	The family seafood entree was very good.
+594	2	0	The main entree was also very good.
+595	2	0	Price is high but the food is good, so I would come back again.
+596	2	1	This place is not inviting and the food is totally weird.
+597	2	1	The food they serve is not comforting, not appetizing and uncooked.
+598	2	0	Good Food
+599	2	0	The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+600	2	0	The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.
+601	2	0	A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+602	2	0	Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+603	2	1	Everything was going good until we got our meals.
+604	2	1	It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.
+605	2	1	I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.
+606	2	1	So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.
+607	2	1	So I decide to report back to the waitress because it was completely inedible.
+608	2	0	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+609	2	0	cirspy crust margherita pizza
+610	2	0	it was really good pizza.
+611	2	0	the crust was imazingly cooked well and pizza was fully loaded:):):)
+612	2	0	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+613	2	1	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+614	2	0	Great Hot Dogs!
+615	2	0	Though it's been crowded most times I've gone here, Bark always delivers on their food.
+616	2	0	The hot dogs are top notch, and they're Slamwich is amazing!
+617	2	0	Going to Bark is always worth the train ride, and will make your tongue and belly very happy!
+618	2	0	But nonetheless--great spot, great food.
+619	2	0	Fabulous food - if the front of house staff don't put you off – 
+620	2	0	Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+621	2	0	The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+622	2	0	Best meal in a long time!
+623	2	0	Mussles and calamari were superb Saturday evening.
+624	2	0	I had the Lamb special which was perfect.
+625	2	0	My father had the flank steak which was very good, and my mother had the swordfish.
+626	2	0	The food is great and the environment is even better.
+627	2	0	Taking Hot Dogs to the next level
+628	2	0	At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.
+629	2	0	Here the hot dog is elevated to the level of a real entree with numerous variations available.
+630	2	1	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+631	2	1	The bread was stale, the salad was overpriced and empty.
+632	2	0	The food is good.
+633	2	0	Yum!
+634	2	0	Serves really good sushi.
+635	2	0	Green Tea creme brulee is a must!
+636	2	0	Don't leave the restaurant without it.
+637	2	0	It has great sushi and even better service.
+638	2	0	Good food!
+639	2	0	This is a great place to get a delicious meal.
+640	2	0	The onion rings are great!
+641	2	0	They are not greasy or anything.
+642	2	1	– I was highly disappointed in the food at Pagoda.
+643	2	1	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.
+644	2	0	Fabulous Italian Food!
+645	2	0	The wine list is wonderful and the food reminds me of my recent trip to Italy.
+646	2	0	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+647	2	0	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.
+648	2	0	The food was great!
+649	2	0	It's *very* reasonably priced, esp for the quality of the food.
+650	2	0	I had the Kafta plate and it was perfect.
+651	2	0	Finally a meal that you will remember for a long time!
+652	2	0	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.
+653	2	0	This is the place to relax and enjoy the finest quality food the industry can offer.
+654	2	0	Caution - its real food for people who love the best.
+655	2	1	I liked the atmosphere very much but the food was not worth the price.
+656	2	1	I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.
+657	2	1	Rice is too dry, tuna wasn't so fresh either.
+658	2	1	Nothing really came across as outstanding.
+659	2	0	I have eaten here three times and have found the quality and variety of the fish to be excellent.
+660	2	0	Freshest sushi  – I love this restaurant.
+661	2	0	They pay such detail to everything from miso soup to complex rolls.
+662	2	0	The sashimi was the freshest and most tender I have ever tasted.
+663	2	0	Their apps are all delicious.
+664	2	1	– The food was not great & the waiters were rude.
+665	2	0	food was fine, with a some little-tastier-than-normal salsa.
+666	2	0	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.
+667	2	1	the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.
+668	2	0	BUt once done, it's not too much dough, not too much cheese, not too much sauce.
+669	2	0	Best Sushi in town.
+670	2	0	Everything you want and more, very fresh.
+671	2	0	The best calamari in Seattle!
+672	2	0	Great draft and bottle selection and the pizza rocks.
+673	2	0	The food is great, the bartenders go that extra mile.
+674	2	0	The sushi here is delicious!
+675	2	0	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.
+676	2	1	My g/f and I both agreed the food was very mediocre especially considering the price.
+677	2	1	We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.
+678	2	0	Excellent food, nice ambience, fairly expensive
+679	2	0	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.
+680	2	0	Best Indian food in L.A.
+681	2	0	The chicken curry and chicken tikka masala are my favorite meat dishes.
+682	2	0	The chana masala (garbanzo beans) are also excellent.
+683	2	0	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.
+684	2	0	I think I have probably tried each item on their menu at least once it is all excellent.
+685	2	0	I can highly recommend their various saag and paneer and korma.
+686	2	0	– I really enjoyed my meal here.
+687	2	0	I had yummy lamb korma, saag paneer, samosas, naan, etc.
+688	2	1	I should have thought to bring it up but never expected the food to be that mild.
+689	2	0	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.
+690	2	0	Even the chickpeas, which I normally find too dry, were good.
+691	2	0	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.
+692	2	0	i am never disappointed with there food.
+693	2	0	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.
+694	2	0	Lebanese Food!Yum!
+695	2	0	The food is simply unforgettable!
+696	2	0	The presentation of the food was an added bonus, it looked just as great as it tasted!
+697	2	0	My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!
+698	2	0	What a tastly, flaky treat!
+699	2	0	Holy Hummus!
+700	2	0	Dinners have always been excellent, in terms of food quality.
+701	2	0	The side of potatoes is to die for, as is the labne (yogurt dip).
+702	2	0	Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!
+703	2	1	I swore never to return for a warm beer and mediocre meal.
+704	2	0	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.
+705	2	1	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).
+706	2	0	Open & Cool Place with the Best Pizza and Coffee
+707	2	0	– Mioposto has a very creative & delicious pizza menu.
+708	2	0	It's a great place to enjoy food and meet friends.
+709	2	0	Great food, spectacular location, and friendly service keep us coming back year after year.
+710	2	0	Enjoyed the food
+711	2	0	Food was good and cheap.
+712	2	0	I had the kafta plate and I enjoyed it.
+713	2	0	It was so much though that I could barely finish but I did, since it was delicious.
+714	2	0	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW
+715	2	0	Great food with an awesome atmosphere!
+716	2	0	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.
+717	2	0	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!
+718	2	0	Unbeatable sushi!
+719	2	0	Two thumbs up!
+720	2	0	This is right up there with places in Tokyo as far as the freshness is concerned.
+721	2	0	Melt in your mouth nigiri and sashmi, and very tasty rolls too.
+722	2	0	Be sure to try the oyster roll.
+723	2	0	– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.
+724	2	0	The best Chuwam Mushi I have ever had.
+725	2	0	Perfect on a cold day.
+726	2	0	Good Sushi, High Price 
+727	2	0	The house special roll is really good.
+728	2	0	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.
+729	2	0	Save room for  scrumptious desserts.
+730	2	0	Love the enchiladas and chicken soup - and be sure to check out their specials.
+731	2	0	The cooks have been at the restaurant for years and cook family recipes.
+732	2	0	The sushi was excellent and the wait staff was quick.
+733	2	0	Space was limited, but the food made up for it.
+734	2	1	The Caesar salad I ordered had so much lemon I couldn't eat it.
+735	2	0	Great food, better Margaritas!
+736	2	0	– i have been eating at this place for over 8 years now and i have never had one bad meal.
+737	2	0	i highly recommend this place to all that want to try indain food for the first time.
+738	2	0	Fresh ingrediants and super tasty.
+739	2	0	The place is the next best thing to my Moms cooking.
+740	2	0	Best food, phenominal service 
+741	2	0	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.
+742	2	0	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.
+743	2	0	It's fresh, welcoming, delicious, and relaxing.
+744	2	0	Hands down, the best tuna I have ever had.
+745	2	0	Great value sushi with high quality & nice setting.
+746	2	0	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.
+747	2	1	Poor customer service/poor pizza.
+748	2	1	I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.
+749	2	1	To be honest, I've had better frozen pizza.
+750	2	0	The food is fantastic, and the waiting staff has been perfect every single time we've been there.
+751	2	0	Seafood Plus
+752	2	0	The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.
+753	2	0	Seabass on lobster risotto was the best.
+754	2	0	Caesar salad was superb.
+755	2	0	Leave room for dessert.
+756	2	0	Best Crab Cakes in Town
+757	2	0	– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.
+758	2	0	Great seasonal fish and seafood, with a classy waterfront setting.
+759	2	0	Great Pizza, Poor Service
+760	2	0	– Love their pizza, especially the mushroom pizza.
+761	2	0	Also love their caeser salad.
+762	2	0	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.
+763	2	0	Great Breakfast
+764	2	0	– This place is famous for their breakfast.
+765	2	0	The food is great and they make a mean bloody mary.
+766	2	0	I love breakfast here.
+767	2	0	Their crab eggs benedict is addicting.
+768	2	0	All their menu items are a hit, and they serve mimosas.
+769	2	0	best chinese food i have tasted in a long time
+770	2	0	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.
+771	2	0	yummy.
+772	2	0	best honey walnyt prawns that we have every tasted.
+773	2	0	the brocollis were so fresh and tasty.
+774	2	0	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.
+775	2	0	not chewy at all.
+776	2	0	for desert we had the mango ginger creme brulee... oh la la yummy!!!
+777	2	0	melt in your mouth.
+778	2	0	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).
+779	2	0	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).
+780	2	0	As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.
+781	2	0	Their specialty rolls are impressive, though I can't remember what we had.
+782	2	0	Green tea creme brulee gets better each time I have it.
+783	2	0	It isn't the cheapest sushi but has been worth it every time.
+784	2	0	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+785	2	0	you are with a hot date and he/she has an urge for sushi...then this might be the place.
+786	2	0	the fish was fresh, though it was cut very thin.
+787	2	0	Dungeness crabs here!
+788	2	0	– Ray's is THE place to go for high quality seafood dinners.
+789	2	0	We shared the family platter and I especially enjoyed the black cod in sake kasu.
+790	2	0	I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!
+791	2	0	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.
+792	2	0	Oh, and the cheese fries are awesome!
+793	2	0	Good Food, Great Service, Average Prices (For the Strip)
+794	2	0	I picked the asparagus, which turned out to be incredible and perfectly prepared.
+795	2	0	The 9 oz steak came next and it tasted great, at least initially.
+796	2	0	The steak was done to my exact liking (medium rare) and was nice and juicy.
+797	2	1	Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.
+798	2	1	My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.
+799	2	0	They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.
+800	2	0	The desert was the perfect ending to an almost perfect dinner.
+801	2	0	good sake, good food – i honestly don't know much about japanese food at all.
+802	2	0	had many dishes but the BEST was the lobster 3 ways.
+803	2	0	The pizza is delicious and the salads are fantastic.
+804	2	0	We’re can’t say enough about their delicious gourmet pizza’s!
+805	2	0	You never feel icky and stuffed after you eat there.
+806	2	0	The pizza’s are light and scrumptious.
+807	2	0	Try the Pizza Ensalata!
+808	2	0	Absolutely delicious.
+809	2	0	The food is sinful.
+810	2	0	The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.
+811	2	0	Nothing on the menu is less than amazing.
+812	2	0	Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.
+813	2	0	Good eats.
+814	2	1	Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.
+815	2	1	I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.
+816	2	1	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.
+817	2	0	Delicious
+818	2	0	The best dish are the honwy walnut prawns- just outstanding.
+819	2	0	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.
+820	2	0	Delicious...!
+821	2	0	The food is fantastic, authentic, delicious and very, very affordable.
+822	2	0	Delectable 
+823	2	0	Everything, and I mean everything on the menu is delectable.
+824	2	0	The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!
+825	2	0	If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...
+826	2	0	The pizza itself is not exactly the best I've had EVER, but still pretty good.
+827	2	0	Food was good and appetizing.
+828	2	0	The appetizer was interesting, but the Creme Brulee was very savory and delicious.
+829	2	0	Late night dinning with exeptional food.
+830	2	0	The food was very good, filet mignon was probably the best I've ever try.
+831	2	0	– Mercedes restaurant is so tasty, the service is undeniably awesome!
+832	2	0	The chips  and salsa are so yummy, and the prices are fabulous.
+833	2	0	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!
+834	2	1	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.
+835	2	1	I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.
+836	2	0	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.
+837	2	0	For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.
+838	2	0	The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).
+839	2	0	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.
+840	2	0	I had a taste of all three items on her plate, and they were superb.
+841	2	0	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.
+842	2	1	It looked like shredded cheese partly done - still in strips.
+843	2	1	Tiny dessert was $8.00...just plain overpriced for what it is.
+844	2	0	I had Lobster Bisque it has 2 oz. of Maine Lobster in it.

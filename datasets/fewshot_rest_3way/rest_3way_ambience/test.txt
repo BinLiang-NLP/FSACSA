@@ -1,0 +1,281 @@
+0	0	0	Everything is always cooked to perfection, the service is excellent, the decor cool and understated.
+1	0	0	Ambiance- relaxed and stylish.
+2	0	0	Quite simply it's like stepping out of Manhattan and into a haven of tranquility.
+3	0	0	The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.
+4	0	0	Once you step into Cosette, you're miraculously in a small, off-the-beaten path Parisian bistro.
+5	0	0	This tiny restaurant is as cozy as it gets, with that certain Parisian flair.
+6	0	0	However, go for the ambience, and consider the food just a companion for a trip across the world!
+7	0	0	Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.
+8	0	0	The service is excellent, the decor is great, and the food is delicious and comes in large portions.
+9	0	0	The pizza is yummy and I like the atmoshpere.
+10	0	0	Very cozy and warm inside.....
+11	0	1	The place is small and cramped but the food is fantastic.
+12	0	0	First went here to enjoy their garden terrace.
+13	0	0	I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.
+14	0	0	Downstairs lounge is always a good attraction
+15	0	0	Raga's is a romantic, cozy restaurant.
+16	0	0	I loved everythig about it-especially the shows and actors.
+17	0	2	Inside is a little cramped, but to be expected.
+18	0	0	This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.
+19	0	0	The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.
+20	0	0	The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.
+21	0	2	The restaurant is cute but not upscale.
+22	0	0	The place's decor and hidden bathrooms made for a good laugh.
+23	0	0	The entertainment was great they have shows that go on through out the dinner.
+24	0	0	I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.
+25	0	0	There's nice and quiet, small but enough for 6 (or more).
+26	0	1	It's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.
+27	0	0	great for a romantic evening, or a fun evening with friends...
+28	0	0	Great vibe, lots of people.
+29	0	0	I didn't complain, I liked the atmosphere so much.
+30	0	0	Ambience is so cute and quaint, good for business although we were there on vacation.
+31	0	1	The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.
+32	0	0	The staff was accomodating, the food was absolutely delicious and the place is lovely.
+33	0	0	The place is a BISTRO which means: simple dishes and wine served efficiently in a bustling atmosphere.
+34	0	0	Right off the L in Brooklyn this is a nice cozy place with good pizza.
+35	0	0	It's a nice place to relax and have conversation.
+36	0	0	Ambience is delightful, service impeccable.
+37	0	1	Service was also horrible and the ambience is not that great.
+38	0	0	It's a small cute restaurant.
+39	0	0	I like the ambience, it's very dark and original.
+40	0	0	Very affordable and excellent ambient!
+41	0	0	However, I think this place is a good hang out spot.
+42	0	0	THe Pizza and wine were excellent-the service too--but what really MADE this place was the backyard dining area.
+43	0	0	It is one the nicest outdoor restaurants I have ever seen in NY--I am from Italy and this place rivals the ones in my country.
+44	0	1	First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.
+45	0	1	Either that, or the editor's idea of romance must be sharing a conversation with the next table, while trying to speak louder than the traffic on 57th.
+46	0	1	The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.
+47	0	0	Cute place, nice wait staff but would never go there again.
+48	0	0	The place is so cool and the service is prompt and curtious.
+49	0	0	A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.
+50	0	0	The dining room is quietly elegant with no music to shout over -- how refreshing!
+51	0	0	Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.
+52	0	0	The view is breathtaking the service is top notch... the ambiance is wonderfull.
+53	0	1	The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.
+54	0	2	The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse.
+55	0	0	This place is so much fun.
+56	0	0	It is a lot of fun with live entertainment and all kinds of Disney type special effects.
+57	0	0	The place is a lot of fun.
+58	0	0	The characters really make for an enjoyable experience.
+59	0	1	Prices too high for this cramped and unappealing resturant.
+60	0	1	Zero ambiance to boot.
+61	0	0	The ambience was nice, but service wasn't so great.
+62	0	0	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.
+63	0	0	The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.
+64	0	0	The owner and staff are all Japanese as well and that adds to the entire ambiance.
+65	0	2	The location and ambience is Ok but the food is what makes up for it.
+66	0	2	A little noise but I think that was because of our party!
+67	0	0	This quaint and romantic trattoria is at the top of my Manhattan restaurant list.
+68	0	0	Check out the secret back room.
+69	0	0	Decor is nice though service can be spotty.
+70	0	0	With the theater 2 blocks away we had a delicious meal in a beautiful room.
+71	0	0	We love the food, drinks, and atmosphere!
+72	0	0	Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.
+73	0	1	The seats are uncomfortable if you are sitting against the wall on wooden benches.
+74	0	1	It's a rather cramped and busy restaurant and it closes early.
+75	0	0	Patroon features a nice cigar bar and has great staff.
+76	0	0	The service is good and ambience is good for a date or group outing.
+77	0	0	I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.
+78	0	0	The food was very good, a great deal, and the place its self was great.
+79	0	0	Decor is charming.
+80	0	0	The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.
+81	0	0	Excellent atmosphere, delicious dishes good and friendly service.
+82	0	0	Everything was wonderful; food, drinks, staff, mileau.
+83	0	0	If the weather is nice, try to snag an outside table.
+84	0	1	The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.
+85	0	0	We ate out in the back patio, which is worth it as it's cool and the music is hear well there.
+86	0	0	The place was nice and calm.
+87	0	0	This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.
+88	0	0	THe back garden sitting area is very pleasant, where you can see their personal herb garden.
+89	0	0	Great food, good size menu, great service and an unpretensious setting.
+90	0	0	Always a nice crowd, but never loud.
+91	0	0	The blond wood decor is very soothing, the premium sake is excellent and the service is great.
+92	0	0	Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.
+93	0	0	delicious simple food in nice outdoor atmosphere.
+94	0	0	Even if the food wasn't this good, the garden is a great place to sit outside and relax.
+95	0	1	Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.
+96	0	0	The atmosphere is unheralded, the service impecible, and the food magnificant.
+97	0	0	This is such a lovely, peaceful place to eat outside.
+98	0	1	Well, this place is so Ghetto its not even funny.
+99	0	1	If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.
+100	0	0	Great atmoshere and worth every bit.
+101	0	0	The place was quiet and delightful.
+102	0	0	But the best part about LS is the late night atmosphere, delightfully free of the BTs.
+103	0	0	You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.
+104	0	0	The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.
+105	0	0	In summer-eat outside on a terrace (another great feature of Suan)!!!
+106	0	0	The setting is casual and romantic.
+107	0	1	The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.
+108	0	2	The service was friendly and the atmosphere was casual.
+109	0	0	this little place has a cute interior decor and affordable city prices.
+110	0	1	The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.
+111	0	0	This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.
+112	0	0	also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!
+113	0	0	The place itself is beautiful the bar scene seems to be happening.
+114	0	0	The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.
+115	0	0	Cute and decorative.
+116	0	0	Go there to relax and feel like your somewhere else.
+117	0	0	Great food, great decor, great service.
+118	0	0	Not the typical NYC gimmick theme restaurant.
+119	0	0	A cool bar with great food, and tons of excellent beer.
+120	0	0	Cozy romantic atomosphere with only around 15 tables at most.
+121	0	0	Go here for a romantic dinner but not for an all out wow dining experience.
+122	0	2	However, if you want great food at a great price and don't mind the decor, you can't beat this place.
+123	0	0	When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.
+124	0	0	I can't wait for summer, when they serve outside on their gigantic patio.
+125	0	0	Warm and friendly in the winter and terrific outdoor seating in the warmer months.
+126	0	0	While the ambiance and atmosphere were great, the food and service could have been a lot better.
+127	0	0	Service, however, was excellent...and I liked the setting/atmosphere a lot. 
+128	0	2	Don't waste money on decor.
+129	0	0	The design and atmosphere is just as good.
+130	0	0	Nice atmosphere, the service was very pleasant and the desert was good.
+131	0	0	The jukebox plays everything from Italian Opera to The Strokes.
+132	0	0	Best of all is the warm vibe, the owner is super friendly and service is fast.
+133	0	0	Toons has recently been redone, so it's now a very attractive space.
+134	0	0	Went here last night - nice decor, good service, but the food was surprisingly excellent.
+135	0	0	The service is good and the resturant is clean.
+136	0	0	Rao's has the best service and atmosphere in NYC.
+137	0	0	We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.
+138	0	0	Indoor was very cozy and cute.
+139	0	0	Excellent dumplings served amid clean, chic decor.
+140	0	0	The decor is very simple but comfortable.
+141	0	0	whoever the jazz duo was, they were on POINT.
+142	0	0	good music, great food, speedy service affordable prices.
+143	0	0	Atmosphere is nice and relaxed too...
+144	0	0	Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!
+145	0	0	Baluchi's has solid food and a nice decor at reasonable prices.
+146	0	0	The vibe is very relaxed and cozy, service was great and the food was excellent!
+147	0	0	Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.
+148	0	0	Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.
+149	0	0	Interesting selection, good wines, service fine, fun decor.
+150	0	0	To me it exemplifies Soho, cute, artsy, interesting.
+151	0	0	LOVE the atmosphere - felt like I was in Paris.
+152	0	0	I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!
+153	0	0	I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+154	0	1	Excellent food, although the interior could use some help.
+155	0	1	The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+156	0	0	Great place to relax and enjoy your dinner
+157	0	0	There is something about their atmosphere that makes me come back nearly every week.
+158	0	0	I thought the restaurant was nice and clean.
+159	0	0	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+160	0	0	In the summer months, the back garden area is really nice.
+161	0	0	The food was good, the place was clean and affordable.
+162	0	0	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+163	0	0	I highly recommend this beautiful place.
+164	0	0	A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+165	0	0	Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+166	0	0	Oh, and there's hookah.
+167	0	1	Decor needs to be upgraded but the food is amazing!
+168	0	0	It is so romantic.
+169	0	0	Its dark, and cozy.. there is always jazz music playing when we go.
+170	0	0	Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+171	0	0	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+172	0	1	Service ok but unfriendly,filthy bathroom.
+173	0	1	oh speaking of bathroom , the mens bathroom was disgusting.
+174	0	1	The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.
+175	0	0	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+176	0	0	short and sweet – seating is great:it's romantic,cozy and private.
+177	0	0	The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+178	0	0	Over all the looks of the place exceeds the actual meals.
+179	0	2	So what you really end up paying for is the restaurant not the food.
+180	0	0	Highly impressed from the decor to the food to the hospitality to the great night I had!
+181	0	0	We were drawn into the belly dancing show that captivated the crowd.
+182	0	0	The atmosphere is relaxed and casual.
+183	0	1	Mazing interior.
+184	0	1	The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.
+185	0	1	If you're into being lost when you're just five feet from your table then hey, that's a good thing.
+186	0	1	Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+187	0	2	Not a very fancy place but very good Chinese style Indian food.
+188	0	1	The only thing that strikes you is the decor?(not very pleasant).
+189	0	1	Even though the place is not beautiful, the food speaks for itself.
+190	0	0	The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.
+191	0	0	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+192	0	2	What you are paying for is the environment and the name.
+193	0	0	Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.
+194	0	2	The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+195	0	0	The place is beautiful!
+196	0	1	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+197	0	0	Gorgeous place ideal for a romantic dinner
+198	0	0	I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+199	0	0	Possibly the Most Romantic Restaurant in the City
+200	0	0	This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!
+201	0	0	Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.
+202	0	0	If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).
+203	0	0	It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+204	0	0	I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.
+205	0	1	This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...
+206	0	1	This place is not inviting and the food is totally weird.
+207	0	1	The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+208	0	0	Over all it was a very nice romantic place .
+209	0	0	The atmosphere was great.
+210	0	0	Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.
+211	0	0	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+212	0	0	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+213	0	0	It is quite a spectacular scene i'll give them that.
+214	0	2	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+215	0	0	The food is great and the environment is even better.
+216	0	0	Great Atmosphere
+217	0	0	The design of the space is good.
+218	0	0	Nice ambience, but highly overrated place.
+219	0	0	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+220	0	0	This is the place to relax and enjoy the finest quality food the industry can offer.
+221	0	0	I liked the atmosphere very much but the food was not worth the price.
+222	0	0	But the space is small and lovely, and the service is helpful.
+223	0	0	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+224	0	0	Endless fun, awesome music, great staff!!!
+225	0	0	Definitely has one of the best jukebox's i've seen in a long long time.
+226	0	0	And the upstairs is a great place to hang out.
+227	0	2	The decor is rustic, traditional Japanese.
+228	0	0	Excellent food, nice ambience, fairly expensive
+229	0	0	The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.
+230	0	0	It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.
+231	0	0	I love the warm & cosy environment.
+232	0	0	best restaurant in the world, great decor, great customer service, friendly manager
+233	0	0	the atmosphere is great.
+234	0	0	The staff are friendly and the decor was ethic and colorful.
+235	0	0	The band was very good and the service was attentive.
+236	0	0	Sunday afternoons there is a band playing and it is lots of fun.
+237	0	0	Open & Cool Place with the Best Pizza and Coffee
+238	0	0	Great open and friendly ambience.
+239	0	0	This place is charming and relaxing.
+240	0	0	Atmosphere was nice.
+241	0	0	Great food with an awesome atmosphere!
+242	0	0	A cozy spot for 2
+243	0	0	It's the perfect spot for a romantic date for 2 or a secret rendezvous!
+244	0	0	The restaurant offers an extensive wine list and an ambiance you won't forget!
+245	0	2	The atmosphere was just okay.
+246	0	0	Check out the art on the walls, very colorful!
+247	0	0	It's unpretentious and underground.
+248	0	0	It's fresh, welcoming, delicious, and relaxing.
+249	0	0	Great value sushi with high quality & nice setting.
+250	0	0	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!
+251	0	0	Great seasonal fish and seafood, with a classy waterfront setting.
+252	0	0	You can easily hear him though so it was a pleasant sound and not overbearing.
+253	0	0	the ambiance of the restaurant was nice and good for fine dinning.
+254	0	0	not too fine thought that you feel uncomfortable and have to dress up.
+255	0	2	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.
+256	0	0	Another plus is the open feel of the restaurant with glass walls on all sides.
+257	0	0	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.
+258	0	0	Seriously, you can't go wrong, if it is unpretentious local fun you seek.
+259	0	0	When I walked in, I was taken aback by their incredible wood decor.
+260	0	1	The waiter was a bit unfriendly and the feel of the restaurant was crowded.
+261	0	0	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.
+262	0	0	– The atmosphere is great for any special occasion you might want to celebrate.
+263	0	0	The decor was beautiful and unique.
+264	0	0	There was a really nice vibe about the place...good music, atmosphere and happy looking people.
+265	0	0	Sit in the Balcony
+266	0	0	Indoor ambience was modern.
+267	0	0	If it's nice outside, request for a table in the balcony.
+268	0	0	We were seated right away, the table was private and nice.
+269	0	0	Groovy music made the dinner casual.
+270	0	0	The atmosphere is aspiring, and  the decor is festive and amazing..
+271	0	0	Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.
+272	0	0	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.
+273	0	1	Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. 
+274	0	1	This place is incredibly tiny.
+275	0	0	Our family never expected such incredible entertainment in a restaurant.
+276	0	2	This place is always packed.
+277	0	2	Of course, it is crowded but who cares.
+278	0	2	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+279	0	0	Inexpensive, unassuming, great time!
+280	0	1	Be prepared to wait, because the place is pretty tiny.

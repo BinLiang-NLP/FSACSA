@@ -1,0 +1,536 @@
+0	7	1	We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.
+1	7	1	They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.
+2	7	1	After all that, they complained to me about the small tip.
+3	7	1	Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.
+4	7	1	I had to ask her three times before she finally came back with the dish Ive requested.
+5	7	0	Service was devine, oysters where a sensual as they come, and the price can't be beat!!!
+6	7	0	Everything is always cooked to perfection, the service is excellent, the decor cool and understated.
+7	7	0	Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!
+8	7	0	We went around 9:30 on a Friday and it had died down a bit by then so the service was great!
+9	7	0	Service- friendly and attentive.
+10	7	1	however, it's the service that leaves a bad taste in my mouth.
+11	7	1	i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.
+12	7	1	i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience.
+13	7	0	Service is top notch.
+14	7	0	The food was well prepared and the service impecable.
+15	7	1	The food here is rather good, but only if you like to wait for it.
+16	7	1	The service varys from day to day- sometimes they're very nice, and sometimes not.
+17	7	1	The kitchen however, is almost always slow.
+18	7	0	Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+19	7	0	The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.
+20	7	0	My wife and I always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.
+21	7	0	The service is excellent, the decor is great, and the food is delicious and comes in large portions.
+22	7	1	They refuse to seat parties of 3 or more on weekends.
+23	7	1	The hostess is rude to the point of being offensive.
+24	7	0	We have been to this place many times, and always have great food, wine, and service.
+25	7	0	We were worried we would have trouble getting in, but somehow managed to have a short wait.
+26	7	0	When we sat, we got great and fast service.
+27	7	0	The people that work there are always so friendly you forget you are in New York sometimes.
+28	7	0	I had a huge group for my birthday and we were well taken care of.
+29	7	0	The waitress was very patient with us and the food is phenomenal!
+30	7	0	Service was prompt, friendly and great.
+31	7	0	Great pizza and fantastic service.
+32	7	0	There was a small wait, but shorter than I expected.
+33	7	0	Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.
+34	7	0	The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.
+35	7	0	I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.
+36	7	1	Even after they overcharged me the last time I was there.
+37	7	1	Took my mom for Mother's Day, and the maitre d' was pretty rude.
+38	7	1	Told us to sit anywhere, and when we sat he said the table was reserved.
+39	7	1	Stepped on my foot on the SECOND time he reached over me to adjust lighting.
+40	7	0	The staff is incredibly helpful and attentive.
+41	7	1	The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...
+42	7	1	Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes. 
+43	7	1	Such a disappointment...
+44	7	1	Rude service, medicore food...there are tons of restaurants in NY...stay away from this one
+45	7	0	Our server was very helpful and friendly.
+46	7	0	Service was prompt and courteous.
+47	7	0	Great service, great food.
+48	7	1	Wait staff is blantently unappreciative of your business but its the best pie on the UWS!
+49	7	0	The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.
+50	7	0	The staff is no nonsense.
+51	7	0	Service was very good - prompt, attentive and non-intrusive.
+52	7	0	Seating is always prompt, though the restaurant does fill up in the evening.
+53	7	0	The server was really cool and served us our food and drinks with a smile.
+54	7	0	This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.
+55	7	0	I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.
+56	7	0	All the staff is absolutely professional!! 
+57	7	0	But they do.
+58	7	0	(that is A MUST, but not every restaurant can do...) 
+59	7	0	The service was the only thing good about this restaurant.
+60	7	1	The price is reasonable although the service is poor.
+61	7	0	They have it all -- great price, food, and service.
+62	7	0	The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.
+63	7	0	The food is prepared quickly and efficiently.
+64	7	0	The takeout is great too since they give high quality tupperware as well.
+65	7	0	We both opted for a pasta dish and they were served timely and fresh.
+66	7	0	The staff was accomodating, the food was absolutely delicious and the place is lovely.
+67	7	0	We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.
+68	7	1	sometimes i get bad food and bad service, sometimes i get good good and bad service.
+69	7	0	The place is a BISTRO which means: simple dishes and wine served efficiently in a bustling atmosphere.
+70	7	0	Ambience is delightful, service impeccable.
+71	7	1	Service was also horrible and the ambience is not that great.
+72	7	0	This is my first time writing a review for a restaurant because the food and service was excellent.
+73	7	0	THe Pizza and wine were excellent-the service too--but what really MADE this place was the backyard dining area.
+74	7	1	Service is not what one would expect from a joint in this price category.
+75	7	1	For instance, plates were just dumped on the table, I was handed the wine list upside down, etc.... 
+76	7	1	Somehow working the italian charm with constant mille grazie does not constitute proper service.
+77	7	0	Cute place, nice wait staff but would never go there again.
+78	7	0	I've never had bad service and the fish is fresh and delicious.
+79	7	0	The place is so cool and the service is prompt and curtious.
+80	7	0	A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.
+81	7	0	The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.
+82	7	0	The view is breathtaking the service is top notch... the ambiance is wonderfull.
+83	7	0	The staff offers impeccable service.
+84	7	0	Go to Volare for 1st class service and terrific food.
+85	7	0	The portions are large and the servers always surprise us with a different starter.
+86	7	0	The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.
+87	7	0	The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.
+88	7	0	The staff was the friendliest that have seen in New York.
+89	7	1	Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.
+90	7	1	Service was slow had to wait to order and get food although not crowded.
+91	7	0	Service was quick.
+92	7	0	And it was quick which is very important.
+93	7	0	Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.
+94	7	0	Delivery is fast too.
+95	7	0	Great friendly service, Fast seating, Fast Delivery, Excellent sushi.
+96	7	1	The ambience was nice, but service wasn't so great.
+97	7	0	The prices were CHEAP compared to the quality of service and food.
+98	7	0	The wine the service was very good too.
+99	7	0	Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.
+100	7	0	I found the food, service and value exceptional everytime I have been there.
+101	7	0	The service was excellent - friendly and attentive.
+102	7	0	Great staff.
+103	7	0	Always great service!
+104	7	1	But the staff was so horrible to us.
+105	7	1	The hostess and the waitress were incredibly rude and did everything they could to rush us out.
+106	7	1	We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.
+107	7	1	This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.
+108	7	1	Decor is nice though service can be spotty.
+109	7	0	the waitstaffs are nice though.
+110	7	1	Both times I was extremely dissappointed by the service, which was boarderline rude.
+111	7	1	They wouldnt even let me finish my glass of wine before offering another.
+112	7	1	Much of the time it seems like they do not care about you.
+113	7	0	The service was attentive.
+114	7	1	The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!
+115	7	1	They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.
+116	7	0	Patroon features a nice cigar bar and has great staff.
+117	7	0	Waitstaff are very friendly.
+118	7	0	The service is good and ambience is good for a date or group outing.
+119	7	0	The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.
+120	7	0	When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.
+121	7	0	Truly the mark of an attentive waiter.
+122	7	0	The food is so cheap and the waiters are nice.
+123	7	0	The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.
+124	7	1	I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!
+125	7	1	The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.
+126	7	1	The waitress, seems to be more concerned of looking good than actually waitressing.
+127	7	1	After dinner the manager grabbed my boyfriend, asked him: Where are you from...maybe you dont know how things work in America...and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.
+128	7	1	We did tip, I guess the model/waitress just wanted more and complained to the manager.
+129	7	1	The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.
+130	7	1	I was here a few weeks back and we had the worst customer service experience at a restaurant ever.
+131	7	1	A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.
+132	7	1	When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently 
+133	7	1	While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.
+134	7	0	Excellent atmosphere, delicious dishes good and friendly service.
+135	7	0	Everything was wonderful; food, drinks, staff, mileau.
+136	7	1	I have tried to make reservations, but both times, the hostess didn't have my name.
+137	7	0	From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.
+138	7	0	Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.
+139	7	0	I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.
+140	7	0	Friendly staff that actually lets you enjoy your meal and the company you're with.
+141	7	1	but the service was a bit slow.
+142	7	0	Service was also very good.
+143	7	0	Great food, good size menu, great service and an unpretensious setting.
+144	7	0	The freshest, best variety, and the fastest delivery.
+145	7	0	The service was excellent and the food was delicious.
+146	7	1	Average to good Thai food, but terrible delivery.
+147	7	1	I've waited over one hour for food.
+148	7	1	They were very abrupt with me when I called and actually claimed the food was late because they were out of rice.
+149	7	1	The food arrived 20 minutes after I called, cold and soggy.
+150	7	0	An excellent service
+151	7	0	We were greeted promptly by the waiter who was very nice and cordial.
+152	7	0	She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.
+153	7	0	Service here was great, food was fantastic.
+154	7	0	The food is outstanding and the service is quick, friendly and very professional.
+155	7	0	The crust is thin, the ingredients are fresh and the staff is friendly.
+156	7	1	The food was mediocre at best but it was the horrible service that made me vow never to go back.
+157	7	1	Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.
+158	7	1	So rushing us out was absolutely unnecessary!
+159	7	1	For the people who want great food plus great service, Roxy is a place to AVOID!
+160	7	0	The blond wood decor is very soothing, the premium sake is excellent and the service is great.
+161	7	0	Not only is the cuisine the best around, the service has always been attentive and charming.
+162	7	0	Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.
+163	7	0	Kind, attentive wait staff.
+164	7	1	The counter service is bad.
+165	7	1	They charge different prices all the time.
+166	7	1	They're rude at times, and not very friendly.
+167	7	1	Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.
+168	7	0	The atmosphere is unheralded, the service impecible, and the food magnificant.
+169	7	1	THE BIG COMPLAINT: NO TOASTING AVAILABLE.
+170	7	1	Murray won't do it.
+171	7	1	Won't or Can't is not in the service directory.
+172	7	1	But who says Murray's is anything about service.
+173	7	1	The service is awful.
+174	7	1	Also, don't plan on asking for your favorite roll, if it's not on the menu, you can't have it.
+175	7	0	The pizza is delicious and the proprietor is one of the nicest in NYC.
+176	7	0	A little crowded but they move that line really fast!
+177	7	1	Bagels are ok, but be sure not to make any special requests!
+178	7	1	I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere!
+179	7	0	Good, fast service.
+180	7	0	Always busy but fast moving.
+181	7	0	Winnie and her staff are the best crew you can find serving you.
+182	7	0	The service was attentive, yet discreet.
+183	7	0	Service was good and food is wonderful.
+184	7	0	The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).
+185	7	0	I cannot imagine a friendlier staff working in a restaurant.
+186	7	1	During the course of the past 3 months, the chef and staff changed and it was not for the better.
+187	7	1	The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.
+188	7	0	The service was friendly and the atmosphere was casual.
+189	7	1	This place would be so much better served by being run by a group that actually understands customer service.
+190	7	1	They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!
+191	7	1	Nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything.
+192	7	1	Terrible, terrible management - deserves to be shut-down.
+193	7	0	Service is fast and friendly.
+194	7	1	Only drawback - they won't toast your bagel, and they don't make eggs for the bagel.
+195	7	0	But that is highly forgivable.
+196	7	0	This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.
+197	7	0	Great food, great prices, great service.
+198	7	0	also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!
+199	7	1	Drawbacks: service is slow and they don't toast!
+200	7	0	The waiter was attentive.
+201	7	1	Downtown Dinner 2002 - Prixe fix: Appetizers were ok, waiter gave me poor suggestion..try the potato stuff kanish best one.
+202	7	0	Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.
+203	7	0	Great food, great decor, great service.
+204	7	0	And even with it's Pub atmosphere they were great to my kids too!
+205	7	0	The only thing more wonderful than the food (which is exceptional) is the service.
+206	7	0	The only thing the waiters don't do for you is wipe your chin when you leave.
+207	7	0	Quick and friendly service.
+208	7	0	The food is wonderful, tasty and filling, and the service is professional and friendly.
+209	7	0	The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.
+210	7	0	They all know you.
+211	7	1	While the ambiance and atmosphere were great, the food and service could have been a lot better.
+212	7	0	service is friendly, and never had a problem walking in and getting a table.
+213	7	0	Service, however, was excellent...and I liked the setting/atmosphere a lot. 
+214	7	0	People are always friendly.
+215	7	0	Nice atmosphere, the service was very pleasant and the desert was good.
+216	7	0	Best of all is the warm vibe, the owner is super friendly and service is fast.
+217	7	0	Ask for Usha, the nicest bartender in manhattan.
+218	7	0	Went here last night - nice decor, good service, but the food was surprisingly excellent.
+219	7	0	The service is good and the resturant is clean.
+220	7	0	Rao's has the best service and atmosphere in NYC.
+221	7	0	Staff is very accomodating.
+222	7	0	The staff there is very attentive and down to earth.
+223	7	0	Great Indian food and the service is incredible.
+224	7	0	The owner truly caters to all your needs.
+225	7	0	When family came in he gave them apps to test their palets, and then ordered for them.
+226	7	0	Everyone was more then happy with his choices.
+227	7	1	Service is not what you are coming here for...
+228	7	0	good music, great food, speedy service affordable prices.
+229	7	0	Always good drinks and service is pretty good;
+230	7	1	If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.
+231	7	0	Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!
+232	7	1	We were seated outside and the waiter spilled red wine and hot tea on myself and my date.
+233	7	1	We were then shooed inside.
+234	7	1	One would think we'd get an apology or complimentary drinks - instead, we got a snobby waiter wouldn't even take our order for 15 minutes and gave us lip when we asked him to do so.
+235	7	1	With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.
+236	7	1	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.
+237	7	1	The only problem is that the manager is a complete incompetent.
+238	7	1	He offers subpar service and has no personality.
+239	7	1	In fact, it appears he is going to go postal at any moment.
+240	7	1	There is no excuse for such lousy service!
+241	7	0	Most of the servers are very attentive, friendly and quite attractive.
+242	7	0	The vibe is very relaxed and cozy, service was great and the food was excellent!
+243	7	0	Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.
+244	7	1	There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.
+245	7	1	Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.
+246	7	0	Interesting selection, good wines, service fine, fun decor.
+247	7	0	I recieved prompt service with a smile.
+248	7	0	I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.
+249	7	0	Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.
+250	7	0	Have never had a problem with service save a missing rice once.
+251	7	1	Delivery can be spot on or lacking depending on the weather and the day of the week.
+252	7	1	Delivery guy sometimes get upset if you don't tip more than 10%.
+253	7	0	The waiter was attentive, the food was delicious and the views of the city were great.
+254	7	0	The wait staff is very courteous and accomodating.
+255	7	1	Had no flavor and the staff is rude and not attentive.
+256	7	0	The service was quick and friendly.
+257	7	0	Everyone was smiling so that made me feel welcome.
+258	7	1	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+259	7	1	The waitress was not attentive at all.
+260	7	0	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+261	7	0	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+262	7	0	When I got there the place was packed but they made sure to seat me quickly.
+263	7	0	The staff is very good.
+264	7	0	They honored reservation on Sunday afternoon very well. 
+265	7	0	Great survice
+266	7	0	Raymond the bartender rocks!
+267	7	0	The drinks are great, especially when made by Raymond.
+268	7	0	Overall, decent food at a good price, with friendly people.
+269	7	0	Great food, amazing service, this place is a class act.
+270	7	0	Service was wonderful;
+271	7	0	everyone was cheerfully cooperative and helpful.
+272	7	0	Paul, the maitre d', was totally professional and always on top of things.
+273	7	1	Service ok but unfriendly,filthy bathroom.
+274	7	1	The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+275	7	1	The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+276	7	1	When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+277	7	1	Not what I would expect for the price and prestige of this location.
+278	7	1	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+279	7	0	Subtle food and service
+280	7	0	Noodle pudding is exactly the type of service and food I enjoy.
+281	7	0	Servers are all different, Greg is my favorite.
+282	7	0	Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.
+283	7	0	This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+284	7	0	I go out to eat and like my courses, servers are patient and never rush courses or force another drink.
+285	7	0	Highly impressed from the decor to the food to the hospitality to the great night I had!
+286	7	0	The menu looked great, and the waiter was very nice, but when the food came, it was average.
+287	7	1	When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.
+288	7	1	The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.
+289	7	1	We paid and left because we didn't feel like arguing any more.
+290	7	1	For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+291	7	1	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+292	7	0	never swaying, never a bad meal, never bad service...
+293	7	0	great food, great wine list, great service in a great neighborhood...
+294	7	0	Helpful service and average price per dish $10.
+295	7	0	THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.
+296	7	0	You can get a table without a reservation if you get there early I they don't make you by bottles.
+297	7	0	Which lets face it....at times it's a good thing.
+298	7	1	You would think they would make up for it with service, sadly, no.
+299	7	1	Service was just ok, it is not what you'd expect for $500.
+300	7	1	Although we were told 10-15 minutes and it was more like 45 minutes.
+301	7	0	The hostess was very pleasant.
+302	7	1	Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!
+303	7	1	For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+304	7	1	We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+305	7	1	After the 4th time i asked again and the waiter than said after our dinner.
+306	7	1	We asked for beverages and never received them.
+307	7	1	We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+308	7	1	By the time we finished our dinner we still had not received one beverage NOR hooka!
+309	7	1	What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+310	7	1	The only beverage we did receive was water in dirty glasses!
+311	7	1	To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+312	7	1	MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+313	7	0	At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.
+314	7	0	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+315	7	1	She replied "well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded." 
+316	7	1	They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). 
+317	7	1	Service not the friendliest to our "large party"! 
+318	7	1	Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.
+319	7	1	I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+320	7	0	We have gone for dinner only a few times but the same great quality and service is given.
+321	7	1	I have never been so disgusted by both food an service.
+322	7	1	For starters they delivered us someone else's order.
+323	7	1	My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+324	7	1	None was made so i hung up.
+325	7	1	My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+326	7	0	The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+327	7	1	The dishes came out around 5 minutes apart.
+328	7	1	The real problem I had with this place was the complete lack of service.
+329	7	1	She just nodded and walked off.
+330	7	1	As to my comment about the food, no apology or acknowledgment was made.
+331	7	1	We were charged full price.
+332	7	0	It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+333	7	1	The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.
+334	7	1	We paid a fixed pricce but got nothing!!
+335	7	1	We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+336	7	1	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+337	7	0	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+338	7	1	Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+339	7	1	The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+340	7	1	Polite acknowledgement is out;
+341	7	1	supercilious scorn is in.
+342	7	1	And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?
+343	7	1	A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+344	7	1	Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+345	7	1	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+346	7	1	At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+347	7	0	We arrived and were seated immediately, which made us both happy.
+348	7	1	At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.
+349	7	1	Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, "oh well, I wish you would have said something earlier" No apology, nothing.
+350	7	1	After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!
+351	7	1	No desert menu, no apology, nothing!!!!!!
+352	7	1	This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.
+353	7	1	Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!
+354	7	1	The level of rudeness was preposterous.
+355	7	1	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+356	7	1	THIS STAFF SHOULD BE FIRED.
+357	7	1	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+358	7	1	Fabulous food - if the front of house staff don't put you off – 
+359	7	1	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+360	7	1	The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+361	7	1	I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she "had a BBQ to go to" that night - WTF??
+362	7	1	I'd be horrified if my staff were turning away customers so early and so rudely!
+363	7	1	There's another girl who I can't describe, she is about 5'6" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. 
+364	7	1	I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. 
+365	7	1	Again, I'd be super upset if that were my employee.
+366	7	1	Considering you will spend at least $60 a head, I expect better service. 
+367	7	1	So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...
+368	7	1	Maitre-D-"Eat and get out"
+369	7	1	This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.
+370	7	1	His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.
+371	7	1	A word to the wise: you can't dine here and disturb the maitre-D's sense of " table turnover", as whacked as it is, or else.
+372	7	1	If you go here, do it on his off-night.
+373	7	1	Poor service and management
+374	7	1	Appetizers took nearly an hour.
+375	7	1	When the main course finally arrived (another 45mins) half of our order was missing.
+376	7	1	Never got an explanation as to what was going on.
+377	7	1	The manager was rude and handled the situation extremely poorly.
+378	7	1	When we threatened to leave, we were offered a meager discount even though half the order was missing.
+379	7	1	On the way out, we heard of other guests complaining about similar issues.
+380	7	1	Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+381	7	1	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+382	7	1	On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.
+383	7	1	Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.
+384	7	1	So rude!!!
+385	7	1	The hostess was rude and I got a distinct feeling that they did not want to serve us.
+386	7	1	The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+387	7	1	I asked for a menu and the same waitress looked at my like I was insane.
+388	7	1	I was shocked that my friends wanted to stay after the waitress said, "can I help you" and "how many are in your party."
+389	7	1	The three of us standing in front of her should have been an indication of how many of us there were.
+390	7	1	Shame on this place for the horrible rude staff and non-existent customer service.
+391	7	1	bad staff
+392	7	1	But the service is HORRID!
+393	7	1	I was there for brunch recently, and we were tag teamed by a waitress and a waiter.
+394	7	1	The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+395	7	1	I can't believe that it was, but please put the bag down before delivering food!
+396	7	1	The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).
+397	7	1	I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.
+398	7	1	She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.
+399	7	1	I wish I could like this place more, and I wish someone would retrain the staff.
+400	7	0	It has great sushi and even better service.
+401	7	0	The entire staff was extremely accomodating and tended to my every need.
+402	7	1	Snotty Attitude
+403	7	1	– We were treated very rudely here one time for breakfast.
+404	7	1	The owner is belligerent to guests that have a complaint.
+405	7	0	We never had to wait more than 5 minutes.
+406	7	0	The staff is pretty friendly.
+407	7	0	Worst Service I Ever Had
+408	7	1	Everyone that sat in the back outside agreed that it was the worst service we had ever received.
+409	7	1	Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.
+410	7	1	I complained to the manager, but he was not even apologetic.
+411	7	0	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+412	7	0	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.
+413	7	0	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.
+414	7	1	However, the value and service are both severely lacking.
+415	7	1	The service ranges from mediocre to offensive.
+416	7	1	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.
+417	7	1	We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.
+418	7	0	But the space is small and lovely, and the service is helpful.
+419	7	1	– The food was not great & the waiters were rude.
+420	7	0	great service
+421	7	0	my service was stellar!
+422	7	0	the bus boy even spotted that my table was shaking a stabilized it for me.
+423	7	1	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.
+424	7	1	Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.
+425	7	0	Its worth the wait, especially since they'll give you a call when the table is ready.
+426	7	0	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+427	7	0	Endless fun, awesome music, great staff!!!
+428	7	0	Every time "0-sixtynine" is called the bartender buys everyone drinks!
+429	7	0	The food is great, the bartenders go that extra mile.
+430	7	0	You need to watch your game, they will have it on for you.
+431	7	0	The owners are great fun and the beer selection is worth staying for.
+432	7	0	The service was courteous and attentive.
+433	7	0	Never too crowded and always great service.
+434	7	0	I appreciate their delivery too.
+435	7	1	Normally, places ask how hot you want it, but they didn't.
+436	7	0	And they packaged everything nicely so it didn't spill.
+437	7	0	best restaurant in the world, great decor, great customer service, friendly manager
+438	7	0	Always busy, but they are good at seating you promptly and have quick service.
+439	7	0	You can order to go if you have to get back to the office too!
+440	7	0	The staff are friendly and the decor was ethic and colorful.
+441	7	1	The only drawback is the crowded seating and the slow service.
+442	7	1	There have been several occasions when we've just not gotten some side dishes we've ordered.
+443	7	1	We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.
+444	7	0	The band was very good and the service was attentive.
+445	7	0	We did have the same waiter the second time, so maybe the service is spotty and our luck is good.
+446	7	0	The sommelier is fantastic, down-to-earth, & extremely knowlegable.
+447	7	1	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).
+448	7	1	What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.
+449	7	0	The servers behind the counter are always friendly and helpful.
+450	7	0	Great food, spectacular location, and friendly service keep us coming back year after year.
+451	7	1	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.
+452	7	0	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW
+453	7	0	plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!
+454	7	0	and the waiter suggested a perfect sake!!
+455	7	0	However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.
+456	7	0	Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.
+457	7	0	The sushi was excellent and the wait staff was quick.
+458	7	1	Well I guess it's hard to be seated when one is invisible to the staff.
+459	7	1	We stood there for 10 minutes while employees walked back and forth ignoring us.
+460	7	1	Finally, my wife stood face to face in front of one of the staff and she asked, "Are you waiting for a table?"
+461	7	1	Once seated it took about 30 minutes to finally get the meal.
+462	7	0	– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!
+463	7	0	it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!
+464	7	0	Best food, phenominal service 
+465	7	0	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.
+466	7	0	The nicest waiters in town.
+467	7	1	If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.
+468	7	1	The regular menu here is slightly above average that is not worth the snotty attitude that you receive.
+469	7	1	Poor customer service/poor pizza.
+470	7	1	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.
+471	7	0	The food is fantastic, and the waiting staff has been perfect every single time we've been there.
+472	7	1	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.
+473	7	1	Even then, the order was not correct and we were still waiting for a couple items.
+474	7	1	We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.
+475	7	1	As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.
+476	7	1	When the bill came, he only took the discount off the food and not the drinks.
+477	7	1	It was clear he didn’t really care.
+478	7	1	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!
+479	7	1	I waited for 10-15 minutes for service ordered a beer & was never served again.
+480	7	1	After sitting there with my empty glass for over 20 minutes I left.
+481	7	1	After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.
+482	7	1	We left without ever getting service.
+483	7	1	Great Pizza, Poor Service
+484	7	1	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.
+485	7	1	She doesn't make you feel welcome and treats you like an annoyance.
+486	7	1	But she is very friendly with certain people, making it even more annoying.
+487	7	1	Management should really take notice and train their waitstaff and teach them some proper manners.
+488	7	1	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.
+489	7	1	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.
+490	7	0	the staff was very nice and courteous and obviously chinese.
+491	7	0	First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.
+492	7	1	Terrible service, food ok, pricey
+493	7	1	We put out name down and although there were open tables we were told that it'd be a 30 minute wait.
+494	7	1	We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!
+495	7	1	None that I can think of.
+496	7	1	We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.
+497	7	1	Um so now what are appetizers for???
+498	7	1	Oh I forgot to mention that they don't have bread service.
+499	7	1	My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.
+500	7	1	In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.
+501	7	0	6pm on a Sat before a Broadway play and we were quickly seated and served.
+502	7	1	Very poor customer service.
+503	7	1	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.
+504	7	1	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+505	7	1	As part of a small party of four, our food was dropped off without comment;
+506	7	1	any further needs we may have had could not have been met since no one stopped by the table.
+507	7	1	When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.
+508	7	1	After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.
+509	7	1	A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been "blown off" would be an understatement.
+510	7	1	The manager continually interrupted with "Is there anything else I can do for you?", a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.
+511	7	1	She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.
+512	7	1	In short, Schooner or Later couldn't have cared less about our being at their establishment.
+513	7	0	great service.
+514	7	0	And the service was simply spendid - quite a delight.
+515	7	0	The service is fantastic at this fun place.
+516	7	0	Good Food, Great Service, Average Prices (For the Strip)
+517	7	0	The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).
+518	7	0	But the servers were extremely attentive and very friendly.
+519	7	0	Server made several sake suggestions which were very good.
+520	7	1	The waiter was a bit unfriendly and the feel of the restaurant was crowded.
+521	7	0	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.
+522	7	0	The staff was really friendly.
+523	7	0	The service is really attentive and charming.
+524	7	1	We waited for an hour to be seated.
+525	7	0	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.
+526	7	0	Our server was very professional and friendly.
+527	7	0	The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.
+528	7	1	Although the service could be improved considering the money you put in.
+529	7	1	Should check-up on us more frequently, don't you think?
+530	7	0	We were seated right away, the table was private and nice.
+531	7	0	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.
+532	7	0	– Mercedes restaurant is so tasty, the service is undeniably awesome!
+533	7	0	To start things off, our lovely server Brooke was quickly on hand to take my drink order.
+534	7	0	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?
+535	7	0	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.

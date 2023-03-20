@@ -1,0 +1,793 @@
+0	6	1	Though the service might be a little slow, the waitresses are very friendly.
+1	6	1	After reading other reviews I was expecting poor service and ambience but was pleasantly surprised by our more than helpful waiter.
+2	6	2	Came recommended to us, but we found the food to be so-so, the service good, but we were told we could not order desert since the table we were at had a reservation waiting.
+3	6	1	Went for an early V-Day dinner, only to be highly disappointed by the service.
+4	6	0	The service is excellent -- the staff is attentive and the waitress was well-informed about the menu.
+5	6	1	The final blow was when the waiter brought us the check before we had even finished dessert--never mind that the only reason we were taking a long time to finish the meal was because of the extreme delay in the service of our food.
+6	6	2	worst margaritas in town,if you are going to order a battle of (white wine)they served hot.
+7	6	1	Although the service can be a bit brusque at times, the food is always good, hearty and hot.
+8	6	0	While service is still ok, the food has been not up to par on my last few visits.
+9	6	1	After the wine experience, I actually expected worse than what was served.
+10	6	1	However, the drinks are very good and this place is alright for brunch, if you don't mind sitting in a very cramped spot and/or waiting on line.
+11	6	1	Unfortunately, the food along with the unhelpful service doesn't make up for the atmosphere.
+12	6	1	Heck even if they had awful service and atmosphere I would still come to this place for their dumplings, luckly that is not the case.
+13	6	2	The food was served promptly and was really hot.
+14	6	2	The kitchen is open and surrounded by bar seating (the only kind of seating), and they have a nice set-up where the waitress stays behind the bar and the chefs deliver your food after you have watched them prepare it.
+15	6	1	The bar downstairs is a lot of fun, so if you get stuck waiting, just have drink.
+16	6	1	We recently had brunch at this establishment with two other couples and I have to say I was majorly dissapointed with the service and how we were treated.
+17	6	1	My group got charged an outrageuos $63/person for a family-style dinner, including a 23% tip added for the horrible service.
+18	6	1	Perhaps if the owner manager would concentrate more on service then acting as a dj this restaurant would run better.
+19	6	0	The decor is sparse and elegant, the service warm (though my waitress was occasionally difficult to find), and the sushi fresh.
+20	6	1	Yes, the wait is long and ridiculous as times, especially as you watch others gobble down their food.
+21	6	1	Went here for a casual Sunday night dinner at 7:45pm; dinner was served at 10:15pm!
+22	6	0	seems everyone ordered sushi there were tons of delivery orders (we can tell as we sat near the back).
+23	6	1	Since it's a small place, it's best to get there early for dinner as the wait can be quite long if you don't make a reservation.
+24	6	2	There is a huge line, usually a 45 minute wait; they take no reservations and no tables of more than five people.
+25	6	0	The wait was much shorter than the hostess quoted, which was great.
+26	6	1	Dropped in for a quick bite with a friend -- like the previous reviewer it took more than 15 minutes for any kind of service at all (including getting water) and then another 45 minutes to get a burger (which admittedly was good).
+27	6	1	First of all, I think our service person was miffed that we couldn't order much for apps or drinks since we had already started at the bar.
+28	6	1	however, we went for lunch and were the only ones eating there and yet the service seemed eager for us to be done and to get out.
+29	6	0	Although the service was top notch, all of the food was disappointing: burnt octopus, bland ravioli, odd tasting mint love letters.
+30	6	0	The place was packed, but it didn't effect our service or getting our food/drinks promptly.
+31	6	2	Spoke with the manager about comping a round, after we had already paid for 2 rounds waiting for the table.
+32	6	1	I've never been during the dinner rush, whence I think most of the service complaints originate.
+33	6	1	Our dinner took over two hours because of the slow service.
+34	6	1	It was my birthday and although they came out with of a bottle of bub, I felt embarrassed about the lack of service.
+35	6	0	The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.
+36	6	0	Miyagi is my sushi restaurant of choice in the Village; it's never insanely crowded, the service is very sweet (I've never experienced any of the nastiness described in prior reviews), and the tabs are small.
+37	6	2	Service is one thing but a restaurant like Craft needs to have much better quality food for the price they charge.
+38	6	0	The service was polite, friendly and prompt, the characters walking around entertained the kids but werent intrusive to our meal.
+39	6	2	If you've been out partying and have a yen for quality Korean food at 3:00am, there's a table waiting for you at Kang Suh Restaurant.
+40	6	1	The bartenders could have been a lot nicer but the drinks they shook up kind of made up for their poor attitude.
+41	6	2	there's always people waiting to be seated and the chairs are not comfortable.
+42	6	0	Our experience consistently reflected a lazy attitude by the house towards cooking technique and customer care.
+43	6	0	service is good although a bit in your face, we were asked every five mins if food was ok, but better that than being ignored.
+44	6	1	Gia Lam I' s service is not much better but the food was.
+45	6	0	Forget the phony yuppies of Areos and The Pearl Room, and ENJOY the down home service and OUTSTANDING food here.
+46	6	1	Food was served very promptly, but our wait for drinks was surprisingly long.
+47	6	2	While waiting there was no room for standing and the bar staff and their drinks were horrendous.
+48	6	1	The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.
+49	6	1	The service was slow (10 minutes for drinks??)
+50	6	1	The service was not the greatest, but the place is huge and it has a nice setting.
+51	6	1	The service is not very good, but I find that we try Atlantic Grill at least once a year.
+52	6	0	The service is ok since it is new and the staff didn't know the food items too well.
+53	6	1	We orderes and our food took about 1 hour to get it, after the long wait.
+54	6	0	The atmosphere would have been almost perfect if it werent for the fact that we were seat right naext to the noisy kitchen but I guess the speedy service comes with a price.
+55	6	0	The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.
+56	6	1	We had to ask the busboy if bread came with our meal, which it did and we received after waiting about 30 minutes.
+57	6	2	We had to request water and chips (tostades) and salsa three times (the third time my date had to go and track down the waitress) before finally being served (by the busser) and the place wasn't even a quarter full.
+58	6	1	Great tasting meat, intimate if slightly noisy ambience and the service is slightly less attentive than it could be but is done with charm.
+59	6	1	The food was great but the music was loud and hip-hop and the wait was ridiculous and the prices were out of this world.
+60	6	1	I had high hopes for this high-ranked wonder, only to be let down by inattentive service doubled by LONG food and drink wait times.
+61	6	0	Helpings are HUGE and most come with choice of rice and beans, or salad and plantains.
+62	6	1	I was NOT told this before when I made the reservation and explained to the manager RICHARD who has the poorest customer service ever and rude and said he didn't believe me.
+63	6	0	This time, the service was decent and the food was mediocre at best.
+64	6	1	The advertised unlimited mimosas and bloody marys is too good to be true until you realize that they keep down your drink count because the service is so slow.
+65	6	2	We went on a Monday night around 6:30pm and were seated right away in the backroom, which is dimly-lit, casual, cozy--kind of felt like you were sitting in a spacious dining galley of a ship or a cabin.
+66	6	1	The service can be lacking at times, but the desserts and overall experience certainly counter this flaw.
+67	6	2	When I questioned the purpose of waiting on this line, I was asked to leave the bar.
+68	6	2	We were a party of four, and after a long wait, were seated in a freezing corner.
+69	6	0	Service was friendly, but not terribly attentive, took 30 minutes after dinner to clear our plates, and another 20 to get our check.
+70	6	0	Nothing wrong with the service, either, but don't we all want something more from a dining experience than just average for above-average prices?
+71	6	1	We organized a party at this bar and have gotten very poor service.
+72	6	0	The ambience and service here are great but the food was really awful.
+73	6	0	My water was filled like eight times, good, fast service.
+74	6	1	Huge selection of farm roasted coffee served with a smile, absolutely no attitude, and accompanied with the best pastries in Manhattan.
+75	6	1	The bartender was skilled, the owners were very friendly, but the wait for my burrito was longer than I would have liked.
+76	6	0	Their cappuccino's are served in a generous mug with a bit too much milk and too-sudsy foam.
+77	6	0	Went to dinner for a law firm recruiting event, and the service was abysmal.
+78	6	0	Showed up last Sunday night with girlfriends and no reservation, host was very helpful finding us a seats at bar after short wait.
+79	6	1	This place is decent if you want to hang out with friends (who don't mind paying up) in a low-key atmosphere with good food, but don't mind putting up with sub-par level of service.
+80	6	1	The third time, after, an hour and a half of waiting, my friend went up to the host to check the status.
+81	6	1	While the food was good, service tried way too hard.
+82	6	1	Though the wait may be long because they only have 16 tables it is worth it, and it seems to go by fast after a drink or two at the bar.
+83	6	1	Choppy service with a bit of attitude thrown in -when we asked for the restaurant week prix fix menus the aiter made a face.
+84	6	2	But what would have been a pleasant experience was spoiled by the attitude and actions of the wait staff and the management.
+85	6	1	The food was good but it will not make up for the negligent, rude, condescending and hostile service with the full support of their management we received.
+86	6	1	Went with a girlfriend, waited for over an hour while we had drinks, food was ok, service was terrible.
+87	6	1	The New Prospect Cafe pretends to be fancy and the prices indicate fancy, but the food is mediocre at best and the service is terrible.
+88	6	1	While I love this place, I do recommend going here mostly for lunch or an early dinner because the crowd and long wait can be annoying.
+89	6	2	The waiter seemed truly disinterested (he forgot to bring the bread basket and the wine was served after he delivered the entrees.
+90	6	0	The portions are now very small, the sauces are overly-ambitious usually inedible while the service is still good, the restaurant, due to its popularity, seems frantic.
+91	6	2	About the wait - be prepared to - it isn't just anyplace offering top notch cuisine for about $25 all in.
+92	6	1	Great food, but tiny portions and inexcusable service - disorganized, amateurish and definitely overpriced by a long shot.
+93	6	2	Minutes turned into an hour-long wait with non-existent standing room.
+94	6	2	But wait, it gets even better, the mussels were so fishy that I had the server try one since he had a hard time believing that this was true.
+95	6	2	Once the manager loudly referred to the customers patiently waiting at the all-you-can-eat buffet line as 'hungry animals attacking for food'
+96	6	2	Overall, the quality of the food won us over, but if there's one thing the management needs to work on, it's service.
+97	6	1	The food is delish, you just have to know the manners to consume, if you don't want to be frustrated with the service.
+98	6	0	Friendly service, and outdoor seating in the warm months, eases the crush.
+99	6	2	It's a place for the owner staff's friends, so if you're not one of them, you're in for a wait.
+100	6	2	No table space and one of the angry neighbors decided to take matters into his own hands by throwing a bucket of water out his window and onto the patrons waiting for their tables.
+101	6	0	Service is coddling and correct and there's no sense of hurry, so diners linger over a cheese course or a round of liqueurs.
+102	6	2	The bartendars are very friendly and at service with you.
+103	6	2	The other food they serve is also very good, but the pizza keeps calling me back!
+104	6	0	The service was great -- my glass was refilled without having to ask, we were greeted by the manager that day to ask how our food was.
+105	6	0	I agree that the wait staff wasn't very friendly, but the service was adequate and our food arrived without too much of a wait.
+106	6	0	Service was good, except for a very long gap between appetizers (which came out too quickly) and entree (whick took another 45 minutes to arrive).
+107	6	2	No matter what, you should expect a wait, big deal, small price to pay for great food as far as I'm concerned.
+108	6	2	After being seated at an outdoor table on a 45 degree tilt, the surly waitress gave us menus.
+109	6	1	The service was only average - even with reservations we waited 40 minutes, and had to ask for our table, which had been ready, the hostess just never bothered to tell us.
+110	6	0	I've sampled several other dim sum places here, and none feature the winning combination that Triple 8 offers: reasonable prices, large range of standard _and_ less common dim sum, little/no wait (not like the Mott St.
+111	6	1	The meal was improperly served.
+112	6	0	Needless to say I will rather go spend $400 on dinner somewhere else wirh better service.
+113	6	1	We ordered off the restaurant week menu, which at other establishments means automatic second-rate service, but not here.
+114	6	1	Sometimes service was a bit slow, and we had to ask for salads, water, etc a couple of times, but this was all done with good humor and no resentment.
+115	6	1	The view is the reason to go to this restaurant, not the food nor the service.
+116	6	0	I expected there to be more options for tapas the food was mediocre but the service was pretty good.
+117	6	2	Po has the best food in NY, if you don't mind a wait.
+118	6	0	also you dont mind waiting because theres such a buzz around the bar it makes you feel like you are out for drinks.
+119	6	0	My steak looked worse than the grizzle and fat John Candy had to finish in the Great Outdoors and the service, while friendly, was incredibly slow even though we were one of only 4 other tables.
+120	6	0	Of course we went there with a large party and had to wait a bit to get seated (even with reservations), but we had all our dishes served at the same time and promptly.
+121	6	0	We went at 1 am, we got food, fast service and Excellent drinks.
+122	6	2	I have been going to this restaurant for years, in the past the service was average and the food inconsistant.
+123	6	0	Service has improved drastically from the old days, you are now seated by a hostess instead of standing behind a nearby table waiting for them to finish.
+124	6	1	Setting aside the interminable wait for food, the cheese omelet opened up on the way from the kitchen to the table so that when it arrived, it looked like a large yellow pancake with a slab of uncooked cheese sitting in the middle.
+125	6	0	If you consider throwing food at your when they remember good service, then go for it.
+126	6	2	While they adhere to a certain traditionality in serving their teas; eg: samovar for the russian, chinese tea sets for the green, the food labours under no such restrictions and there is nothing ordinary on the menu.
+127	6	1	The worst service I have ever had - entered the restaurant and waited at the door for 5 minutes before deciding to push our way past the extremely small bar to find a waitress.
+128	6	1	Get there before 7:30 for dinner or get ready for a really long wait - this place doesn't take reservations.
+129	6	0	Space gets kind of crowded in there--because it's so popular--but it's worth the wait because the food is very good.
+130	6	1	A very pretty setting to have a meal, but unfortunately the service and food don't match the atmosphere.
+131	6	1	that the waiting is horrific but the food is great.
+132	6	1	The service isn't spectacular and neither is the ambience, but on a lunch hour, all you're looking for is a satisfied stomach.
+133	6	1	The problem is that if you want anything to continue the meal, if you need an extra minute to go over the menu, or if, horrors, you want the check, you might be in for a lengthy wait.
+134	6	1	The service can be a bit spotty since they are sometimes busy taking phone orders to attend to the restaurant patrons so make sure you have a lot of time to spare when you go there for dinner.
+135	6	0	I find the attitude of the managers to be appallingly superior, and the food below average, at sky-high prices.
+136	6	1	Delivery wasn't the fastest, but the food was still hot so I won't complain.
+137	6	1	While the food is terrific, you must overlook the often apathetic service, and the sometimes downright rude Manager that seats people.
+138	6	1	I went there for a late dinner last night with a friend and the service was aweful.
+139	6	1	For the price and quality of the food, the service should have been a lot better than it was.
+140	6	1	Great place to get a good fulfilling meal but do not go for ambience or service.
+141	6	2	Those waiting inside to get a free table and waitresses carlessly walking by only served to make matters worse.
+142	6	0	The servers were prompt and attentive, but the food arrived lukewarm (maybe it was served so quickly because it was pre-cooked and had been sitting out for a while) and was not all that flavorful.
+143	6	1	Service was inexcusably, excruciatingly slow- it took more than 30 min to get the first round of drinks, by which point our party was ready to walk out.
+144	6	0	We got there early so there wasn't much of a wait -- otherwise, I usually sit at the bar and have a cocktail.
+145	6	2	Myself along with every other patron were forced to wait in an overcrowded bar while employees carry chairs and such over our heads to prepare for dinner in the next room, shoulder to shoulder we stood there like cattle waiting to be fed.
+146	6	1	The food and decor is above average, but it is clear the restaurant has bad management and service.
+147	6	1	The wait for a table is interminable.
+148	6	1	but we waiting two hours to get it (we had reservations but it was late so we wanted to try to come in earlier).
+149	6	1	Just be sensible, if the wait is 45 minutes or longer--just have sushi there some other time, and eat something else that night.
+150	6	1	We waited FOREVER on Valentine's Day for our table because their hostess had lost our reservation BUT the food was worthy of the long wait anyway.
+151	6	0	Expect to be cramped and you may have to wait a little for your food, but the service is really friendly and helpful.
+152	6	1	The price wouldnt be so bad if it wasnt for the poor service, average food, and uninspired menu selections (choice of tiramisu and strawberries with whipped cream for dessert?!
+153	6	0	the decor isn't quite like Shun Lee but the service will definitely make up for any shortcoming.
+154	6	1	For the cost of the lunch I expected much better service.
+155	6	1	I have been a waiter for many years and I can tell you that if bad service is given you at least apologize to the costumer.
+156	6	1	And I'm saying that dinner has actually taken about an hour more than it should, just because of the slow service.
+157	6	0	Manager couldn't be bothered to come over and acknowledge the mistake.
+158	6	2	Evening service--featuring waiters all in black--is a little slow; plan on a leisurely dinner unless you're headed for the theater.
+159	6	0	I sat at the bar to receive faster service, and boy was i wrong!
+160	6	2	After a short wait at the bar (which was very crowded), we were seated upstairs at a private table.
+161	6	1	Unfortunately it gets very crowded on the weekends, so if you don't mind dining at the bar you can skip the wait for a table.
+162	6	0	Although we were seated quickly, ambiance was cozy, service was decent the overall menu selection and overall food taste and presentation was less to be desired!
+163	6	1	Food is pretty good but the service is horrific.
+164	6	2	00 bottle of wine, we had to endure the waiter's attitude, like he was doing us a solid, if you're into huge Euro crowds and don't care about what you eat and how it is served to you, Baraonda is your kind of place.
+165	6	2	After waiting almost an hour for a table (with resies) our waiter told us that they don't have a sommelier because no steakhouse has a sommelier (patently false), and finished with the notion that he had absolutely no idea about any of the wines on the list.
+166	6	2	When we got there, the wait was just as everyone here has described, Domenico's process was just as described, but the pizza?
+167	6	2	The servers were extremely professional, especially considering the entire room needed to be served at the same time.
+168	6	1	never had a bad pizza, the staff has always been friendly, if not overly solicitous, and the only downside is the occasional wait on line outside.
+169	6	1	We had a horrible night here stemming from intolerable service, no appologies after our food never came out after waiting longer than an hour and a half, and a plate of crusty bread thrown at us when we asked for their signature corn bread.
+170	6	1	We had reservations and when we showed up the manager told us the wait was over 45 mins.
+171	6	1	The waiter had a slight attitude and brought our wine aprroximately 10 minutes into our appetizer.
+172	6	1	We did enjoy the recommended, yet simple $40 sangiovese, atmosphere and loosey-goosey service, but we were disappointed overall.
+173	6	2	Philippe should re-train their wait staff to communicate with one another and better orchestrate the timing of food service.
+174	6	1	The food is definitely the attraction, but the service has been consistently bad on every visit.
+175	6	1	really bad service took half an hour just to get a drink.
+176	6	0	The night I was there, besides extraordinary food and service, the owners; Carmelo Leotta and Pietro Cinquemani were belting out Mario Lanzi tunes on the Steinway piano.
+177	6	0	Food is served simply but quickly with a smile.
+178	6	2	Despite the fact that I had called earlier in the day and was told that the place didn't take reservations and there were several empty tables for two on both floors, we were told that there would be a 30 minute wait.
+179	6	1	I must start by stating plainly that I love Jeollado, but it is loud, the service is bad, but the rolls are great and it is the best deal (CHEAP) in town.
+180	6	1	The food is ok at best, but the service and the uncomfortable accomidations have such a negetive effect, that one can only wonder why they waited so long for so little.
+181	6	1	The service was a bit inadequate-and be warned they bring your food as it is ready- so be sure to order apps then after being served order entrees.
+182	6	2	The food is worth it, but I suggest you order delivery, so that you don't have to read old issues of Robb Report while you wait forever in a small and hot room.
+183	6	2	Take out and delivery is next door and usually will be better if you are looking to get your food faster.
+184	6	1	We ate at the bar to avoid waiting for a table.
+185	6	1	After waiting over a month for weekend reservations, I would of rather gone to IL Baggato.
+186	6	0	Food : A++ Service : A++ Value : A++ No other steakhouse in Manhattan can beat Ruth's Chris.
+187	6	2	A dish of chewy smoked seitan evokes Peking duck, while an entree of wide green-tea noodles is served in a tasty faux Bolognese sauce.
+188	6	1	First, the seating people gave me huge attitude and claimed I had not reserved a table at the grotto - and I quote my reservation You are all set for the grotta this saturday.
+189	6	0	Took my girlfriend here for dinner on a friday night, we were seated promptly and the service continued to be good for the remainder of the evening.
+190	6	1	Ok, so the service can be a little spotty, but despite this Cafe Con Leche has good food, and decent prices.
+191	6	0	The service is pleasent, but they did forget to bring my mother in law's appetizer.
+192	6	0	Trendy decor doesn't make up for the avg food, adequate service and relatively high prices.
+193	6	2	the bread they served as we sat down had a pastry-like crunch on the outside and still warm.
+194	6	0	The menu was still small, but the quality of food that came out of the kitchen was superb, and the service was not bad at all.
+195	6	0	The service was great, the chef even gave me a complimentary dish.
+196	6	0	nice place, good service but the price is a little bit more expensive when compare with the area, location and small dishes.
+197	6	2	The hostess kept me waiting 10 minutes (attempting to read seating chart which I assume was in cyrillic) before determining whether she could seat us.
+198	6	0	Had to constantly ask the waiter to top up water glasses, but generally service was ok.
+199	6	2	As we sat waiting for our menus, we started noticing the frowns on the faces of the people around us, watching as patrons tried to flag down waiters without luck, asking for things like water.
+200	6	0	service was reasonably quick via delivery, but the hunan beef had no spice whatsoever and the chicken chow mein really looked inedible.
+201	6	1	Even if their service was not top notch at all times, at least the wait staff was very accommodating and respectful.
+202	6	1	While you're standing around for a good half hour waiting for two plain burgers, you're being bumped into by people waiting to be seated because of the narrow passageway leading to the dining area.
+203	6	2	The bread was served, one razor thin slice on our bread plate, by the waiter.
+204	6	0	However, unlike a lot of places the service was great: we walked in after not being able to get a reservation and were seated within 10 mins.
+205	6	0	On top of it all, I was with family from out of town and the only reason I took them there was because a friend had mentioned the place and Coffee Shop had a little wait.
+206	6	0	Service was good, the waiter was a little flip, but we can deal with that.
+207	6	1	I got fed up waiting that I went to get the check and paid for it at the counter where my waitor was busy flirting with the cashier.
+208	6	1	Service was at best distracted, at worst disdainful, even though we came early with a reservation and are not food novices.
+209	6	1	The drinks are cute as is concept--unfortunately, the service is not and neither is the wait.
+210	6	1	Seating is usually very prompt but expect a wait at peak times such as Sunday Brunch.
+211	6	0	My date and I were both taken back by the lack of the friendly attitude from the owner of the restaurant.
+212	6	0	The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.
+213	6	0	The decor in the dinin room is a bit bland, but the service is always friendly.
+214	6	1	The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.
+215	6	1	They kept us waiting for more than an hour WITH a reservation and WITHOUT an apology.
+216	6	1	Their service needs some work, but it is safe to say that you will enjoy the food.
+217	6	2	I naively thought dinner was served during the show, but the waiters don't come by once the shows start, so order your wine 30 mins before the show start time.
+218	6	0	We were seated promptly there were a few people waiting in the bar, but had ordered quickly been at the table less than 45 mins.
+219	6	2	The uptight female manager came up to our table and rudely asked us to get up because they had a party waiting to eat.
+220	6	1	Went on a Saturday with out of town tickets and the food was great but the service was awful, even surely.
+221	6	1	They have possibly the worst service in New York I have waited until the waiter has finished his paper, begged for water and waited over an hour for my meal.
+222	6	1	If you don't want to wait 45 minutes for a table or a long time for service then don't go @ 9pm on a Friday or Saturday night.
+223	6	1	The space is cool, but the food and service were awful.
+224	6	0	I loved the food and service here, the only downside was the decor was dissappointing and the prices are a bit high (about $30 for an entree.
+225	6	1	We had a 9:30pm reservation for two which stretched out to an hour wait.
+226	6	1	The service isn't fantastic and the seating is a bit tight but if you aren't looking Four Seasons type quality, then this is the perfect spot to meet some friends for dinner or lunch.
+227	6	0	We were here for lunch and were seated promptly in the bright, comfortable dining room.
+228	6	2	Caravan can be a little slow sometimes, but more than makes up for it in the quality of the food and the care of wait staff.
+229	6	1	The service is a bit slow, but harkens back to my years growing up in Napoli, Italy where things are not rushed and when you sit down for dinner the table is yours all night.
+230	6	0	We sat at the bar so the service wasn't too bad.
+231	6	1	But in my opinion, a great experience doesn't just pertain to food, and an evening of dining is certainly given a bad taste when the service is not up to par.
+232	6	1	Service: Below Average, the staff joked stood around in the dinning room joking around with each other.
+233	6	0	In April, the service was fair but again, the food was at best only warm.
+234	6	1	Yes the wait is dreafully long, the place feels a bit uncomfortable to talk in with your dining partner, but the food is excellent none the less.
+235	6	0	The atmosphere couldn't be better, and the service was outstanding -- at the time there were only two people working the entire bar, and we still got taken care of like it was a five star restaurant.
+236	6	1	The food was great so that made up for the lack of service from the waitress.
+237	6	0	If you want peace quiet, ambience and patient service, go elsewhere.
+238	6	1	Great food -- but some of the worst service in the neighborhood.
+239	6	2	Another hour waiting for our food, we spoke to the manager, he told us he would give us a discount off our bill.
+240	6	1	yes this place has good pizza but HORRIFIC HORRIFIC delivery service.
+241	6	1	Nice decor poor food poor service.
+242	6	1	While the food was good and reasonably priced, the service was horrible.
+243	6	1	My two best friends took me to Cafe Gray for my birthday and by the end of the dinner, they were apologizing for the poor service and so-so food.
+244	6	1	I would definitely recommend getting reservations as the wait can be very long.
+245	6	0	Obviously bz place, greeting was less than welcoming, service was adequate from less than friendly waiters, steak for 2 was anything but spectacular served with sauce that's better suited for seafood than meat.
+246	6	0	It's served cold with carmelized onions atop, with mashed potatoes on the side and it's the best darn thing this side of the Hudson.
+247	6	1	as of late though(maybe change of ownership)the food quality dropped with the menu change and the service got worse.
+248	6	1	The atmosphere is nice, food is really worth it, especially for such prices, but service sucks:  I first ordered 2 different martinis and never got the one I asked for;  they brought the wrong dishes -although it was quick!- and then we had to ask for chopsticks to be able to eat our dishes.
+249	6	1	Faux Models/Waiters hustle around the tight spaced restaurant, while the bar is crowded with waiting patrons and dates enjoying a drink.
+250	6	2	Anyhow, there were a lot of Japanese people seated at the bar, eating chatting up the chefs, surely that's a good sign of authentic sushi.
+251	6	1	Just finished a tasty jerked chicken dinner that was too pricey for the subpar service and good, but not great food.
+252	6	2	The food ranges from okay to delicious and the service varies from great to poor.
+253	6	0	When we mentioned that we had theatre tickets, the waiter made certain that our dishes were served promptly and courteously.
+254	6	1	BTW, the prices are very affordable, which make the mediocer service tolerable.
+255	6	0	Though the service is speedy be prepared to wait at least 20 minutes for the soup dumplings.
+256	6	2	The bartender informed me the place was full, and the wait was 30 minutes.
+257	6	1	if you don't mind slow service and limited selections on the menu occasionally, then you might consider dining there.
+258	6	1	If you hate waiting for a table, then get take-out just around the corner next door.
+259	6	1	Somewhat agree with the previous reviews about service and the long wait but once seated, the food is well worth it.
+260	6	2	Coffee, treats, and the best of eerything.
+261	6	2	a drink or two went by, but as we slowly realized our wait had become an hour from the promised 20 min, the server noted upon our inquiry that they recognized and remembered us and would seat us soon- rolling eye look- matched by a tone protesting the uncouth annoyance.
+262	6	1	However, it was a very long wait (over 45 min) and I confronted the hostess who stated that she could not find me at the bar and she had seated 6 other parties before me.
+263	6	1	Despite reservations, we ended up waiting for 1hr+
+264	6	0	The attention to detail whether it's decor or service or menu made us feel fortunate to be part of the Camino Sur dining experience.
+265	6	2	Our waiter was apparently angry to have to be serving, because it took him 15 minutes to even bring water, let alone take a drink order (it was early on in the day and the restaurant was not even 50% full, so he was NOT busy).
+266	6	2	Only quibbles are so-so wine service, and while Prix-fixe is reasonable at $68, extra charges for additional dishes/tastings can be high.
+267	6	0	I never have to wait a long time to get my food, so it's a great place to go if you're really hungry and/or in a hurry.
+268	6	2	The food came out really quick and the service overall was not bad.
+269	6	0	The service was good and the price was decent but it wasn't enough to overcome the bland tasting food and the bland decor of the restaurant.
+270	6	1	I had reservations for 9:30pm and after waiting more that 50 mins and bunch of lies that you're next.
+271	6	1	Despite almost flawless service, I had my birthday there for a party of 15 and we were given a private area on the top floor, which was so cold, we had to keep our jackets on throughout the entire meal.
+272	6	1	and although the service is a little slow, the lax atmosphere allows you to drink and eat away the afternoon or evening and not even care.
+273	6	1	To complain about waiting for a table, etc.
+274	6	1	I agree with the other poster who wrote about the service: the waiter challenged every single dish we ordered with a special (I've never had a more money hungry waiter) and after waiting 20 minutes for the check we had to call the manager over; who was unapologetic.
+275	6	1	Good atmosphere, the service is so-so and there is a long wait if you don't have reservations.
+276	6	2	The bartender ignored us for 10 minutes before asking what we'd like to drink although we were the only people waiting for a table when we walked in.
+277	6	1	it did fill up pretty quickly for lunch, but nobody seemed to have to wait too long, and i'm guessing they might be less busy for dinner.
+278	6	2	After 10 minutes of waiting, he finally returned to the table and snootily explained to us that the wine he had opened was actually better and more expensive (not yet on the menu, of course), but he would charge us the price of the bottle we had originally ordered.
+279	6	1	Room is impressive, but service is slow and taste was almost like fast food.
+280	6	1	I took a few clients for lunch and the service was lackluster, food was fair at best, and the prices were outrageous - Don't wast your time with this place !
+281	6	0	It's a great place, the terrific service carried out throughout the night as we sat and got some appetizers and then decided to stay for a bottle too!
+282	6	0	The service was warm, but it took forever to get the check.
+283	6	1	This is a don't miss if you are anywhere close to the area, but if you're going for lunch, be there by noon to avoid a wait.
+284	6	0	) Service was good not great, waiters stood around,didn't ask how everything was.
+285	6	2	Still, after all the fuss, the food makes you forget about the wait.
+286	6	1	Luckily, I made reservations for our group or else it would have been a long wait.
+287	6	2	i have been waiting for 15 mn ( no food menu , no cocktail menu , no one even say hi to me ).
+288	6	1	Not the best ambience and the service is sometimes just mediocre, but the quality of the food is incredible.
+289	6	1	I have to say that I've been there only during brunch time but the service even though slow, it was good.
+290	6	0	The service is friendly, if not the most prompt in the world, the food is great, and the prices, while not cheap, won't put your wallet out of commission.
+291	6	0	Service is FAST so if you are dining, order entrees after receiving apps.
+292	6	1	Service was slow and spotty; had to flag the waiter down many a time to get drink and food orders in.
+293	6	2	I had to try the sweet tea, which was served in a plastic cup at room temperture.
+294	6	0	If you don't mind interacting with sour-puss employees, then by all means, enjoy the treats at Sweet Melissa.
+295	6	1	There are times when there is a long wait at lunch so be safe and make a reservation.
+296	6	2	not only were we waiting for half an hour with reservations, once we got seated we waited another 15+ minutes for the waiter to come and take out drink menu.
+297	6	2	They bought the same surly staff, it still took way too long for food, drink, ANY SERVICE and the food is still $ 12.
+298	6	2	yes as I sat at the table waiting just under 1 HOUR for my food, i was quite tempted to step across the road for a quick snack.
+299	6	2	Forget Brunch- there are usually people waiting outside, although the brunches are delish as well!
+300	6	2	The hostess was inefficiently seating people and disappeared for minutes at a time, letting the line grow to 15+ people waiting to put their names on the list.
+301	6	1	The only downer was the fruit fondue desert from the prie fixe menu wasn't as good as it looked (the chocolate was runny), and the wait between our salad and main course was too long.
+302	6	1	The service was unattentive and the only time she came over was to aggressively push drinks on us.
+303	6	0	My advice: go the bathroom at home, and then go to Ginza for EXCELLENT sushi and service.
+304	6	1	While the restaurant/space itself isn't so great (somewhat cramped cheesy interior, and the name implies its a burrito take-out place), the service and food outway its few cons.
+305	6	0	The service was nice, although our food took longer than usual to arrive because it had been brought to the wrong table and accidently eaten.
+306	6	2	Just look at all those people waiting outside to feat in an unadorned space of cramped shared tables?
+307	6	2	While waiting for a table, tried to get a drink from a bartender who seemed more interested in arguing with his waiters.
+308	6	0	I had dinner here with a few friends recently, and while I must admit that the food and service was okay, the prices simply did not match the environment and cuisine.
+309	6	0	We had no problems with our resevations and found the service and the meal well worth a wait, had we run into one.
+310	6	1	After our disappointing meal and terrible service we asked to speak to the manager (who was sitting alone having a glass of wine) when we were told he was too busy to speak to us!
+311	6	1	Well, no secret that a brunch here on Saturday or Sunday will be a long wait - but once you bite into those pancakes, it will have been worth every minute.
+312	6	1	I mean Pho Viet Huong is at a good location, but face it, the broth is cloudy and oily -they're supposed to constantly dump the top layer off of the Pho broth, service is ran with attitude who cares about you, I have plenty of other customers to make money off of.
+313	6	1	This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.
+314	6	1	While the food was good (certainly no Il Mulino) the service was horrendous.
+315	6	0	Food and service were very good but prices were a bit high for the portions.
+316	6	1	and don't be ashamed to ask for more during the hour long wait for your entrees.
+317	6	1	The service was really bad at several points our waiter would just leave for a cigarette for like 10 minutes while we waited for him to get us another drink or even pay the bill.
+318	6	0	I took 8 clients to lunch and was appaled by the overall service.
+319	6	2	12/24/03  Dinner was ok, service was so- so,the worst part was the hostess - we made reservations a month before Christmas Eve for three people, you would think the table would be large enough for all three of us.
+320	6	2	You can't fault them for serving up some pretty good food, even if it's a bit overpriced.
+321	6	1	My friends and I dropped by on a Sunday, and there was absolutely NO SERVICE (the supposed only female bartender even told us there was no one else but her, and given that there were people in there waiting to dine and drink, that was ridicoulas!
+322	6	0	The calamari, the penne and vodka sauce, the friendly service the parking and the open area kitchen to see all the action in the making!
+323	6	0	I've never been able to find a lunch place in the midtown with the same quality and service, until now.
+324	6	0	It was worth the wait , an hour, without a reservation, for an out of this world meal.
+325	6	0	Service was unbelievably on target down to the smallest detail; our waiter invited us to sample a new desert under consideration for their menu and a new line of ice wines.
+326	6	1	A 3 course-meal took 2 1/2 hours, including 20 - 30 minutes waiting to get the check after dessert.
+327	6	1	The food was abundant and good but wasn't worth the unpleasant wait.
+328	6	0	The service has always been outstanding and even when we didn't have a reservation they worked something out, where I agreed to keep our meal to just eating.
+329	6	0	The service was good, but not excellent; however, the waiter was initially huffy with me when my guest was only 5 minutes late, threatening to make me move!
+330	6	0	Warning Service is decent, but it takes forever to get the check.
+331	6	1	Good food, but bad service.
+332	6	2	We had to wait an hour before our food was served, then another hour inbetween courses, all the while whilst the staff were naughtily hiding in an attempt to avoid our 'where's out food?'
+333	6	0	The Kitchen is only separated from its patrons by glass is immaculate and the service is undeniable heartfelt.
+334	6	0	The service was good enough for a crowded place.
+335	6	2	They are negligent in alerting customers when an order is ready - you could end up waiting for half an hour while your food is sitting on their counter getting cold.
+336	6	0	We were the only two people sitting out front and the waiter was unable to provide us with attentive service OR our dinner.
+337	6	0	Aside from that, the service is adequate (visible, and will help you if you ask, but lack initiative), and the food, well, could be a lot worse.
+338	6	1	I highly suggest you make reservations, as wait times can be extremely long.
+339	6	1	I will have to say the food was good and the chance to sample wines not often found in other restaurants was a positive but the abyssmal service left a bad taste.
+340	6	1	And the service is unbearable - I waited for ages to get my drink, got the wrong sushi order, and had my appetizer whisked away prematurely.
+341	6	2	In Short Though it's more of a takeout and delivery operation than a sit-down restaurant, Risotteria does offer eight small tables for those who want to savor their risotto hot off the stove.
+342	6	0	The space was unique (even though looking out the skylight windows on a tenament was a bit odd) and the service, happily, was fine.
+343	6	0	Prompt local delivery, minimal seating and counter space.
+344	6	1	This is one of my first dining experiences in NYC when I first moved here 10 years ago, and although Hudson Corner is consistently good, it has gone downhill over the years in both food quality and service!
+345	6	0	Even as a stranger, the service at the bar was excellent as was the wait staff who continuously checked back to see if I was okay while waiting for my party.
+346	6	0	The service was fine, out appitizers took forever to come out, and then they dumped the rest of the food on us, without giving us a chance to enjoy our appitizers.
+347	6	1	The ambience was nice, but service wasn't so great.
+348	6	0	Service was good except the waitress brought over the check before I asked her.
+349	6	1	Service is not what one would expect from a joint in this price category.
+350	6	1	since it looks like everyone's already familiar with the rude hostess and long wait for a table (even with a reservation), i'll skip that part.
+351	6	1	Service was slow and our drink order took forever (and the place wasn't crowded).
+352	6	1	The food here is consistently good - the service is not - but it seems that they're getting busier than they can handle, good for them, bad for guests.
+353	6	1	The food is on the good side but not so terrific to compensate the bad service, crammed tiny-tables, dirty glasses, overly loud music, which is good for the bar part of the establishment but not when you want to seat down, eat and have a normal conversation at normal volume.
+354	6	1	I sometimes go here when in the area and though the food is always great, the Basil Chicken and Shrimp Tempura roll in particular, the service has much to be desired.
+355	6	1	I though the service could have been better, the staff are not experience enough to know how to make the drinks without reading the instructions.
+356	6	2	I don't understand the other negative reviews of the service because we had amazing waiter.
+357	6	1	It was well past 8 pm when they finally got us the check, and we asked for free rounds of champagne to compensate for the poor service (since the wine dinner had started, and were denied.
+358	6	2	) And don't forget the svc, those waiters stare at you your entire meal, just waiting for you to put your fork down and they snatch the plate away in a second.
+359	6	1	True, the service is hardly on par with the finer restaurants in NYC, but I go for the energy and the tasty tapas-like seafood treats that are perfect with beer or sake.
+360	6	1	The wait for brunch is kinda long (what can you say?
+361	6	2	The Captain was showing his impatience for a crowded Monday night and the dinner I was served was not prepared the way he told me it would be.
+362	6	1	Beautiful rooms filled with beautiful people, but expensive for what it is ($68 prix fixe), limited menu, tiny portions, reeeeeeeally slow service, undercooked potatoes with the cod, less than fascinating desserts.
+363	6	2	If you're tired of the long waits for table at nearby place, then head to Moutarde for a delicious meal that won't keep you waiting.
+364	6	1	-4 waiters bustling around though no table was actually being helped -25 minutes to take our order -15 minutes to get the drinks we order -another 20 minutes to get our food -NO apology from the waiter In between our lunch, a man burst out shouting in anger at the lousy service (he asked for ketchup 20 minutes ago and never got it).
+365	6	1	We didn't have reservations, and showing up at 8:45 we were told it would be about an hour wait.
+366	6	1	but no reservations makes for a very long wait, usually of an hour.
+367	6	2	And the waitstaff has very little knowledge of the food, they served me the wrong dish and no one could identify what it was that they gave me, someone said pork chop, someone said lamb, and then they insisted it should be fine since it was the same price.
+368	6	1	When the food came, it was almost good, but the lack of AC, bad service, and overall apathetic staff, from the HOST, to the MANAGER to the WAITER, ruined the experience.
+369	6	1	Service was a little slow, but going on a Monday night during the Brooklyn Restaurant Week, where 20 bucks each got a friend and I appetizer, entree, and dessert was phenomenal.
+370	6	1	Sure, the wait was a bit long for a table, but the service was good and the food was pretty good too.
+371	6	0	Nonetheless, our waiter gave us prompt service and a smile every time he came over to take an order, bring us drinks, or check up on how we were doing.
+372	6	1	i went on a thurs night and it was a bit loud due to the many businessmen eating their dinner, but the food and service more than outdid the lack of peaceful dining.
+373	6	0	I went to the tasting before Nobu opened and the menu and service has greatly improved since then.
+374	6	2	It would have been nice to find that out on the website but it took us an hour of waiting for Godot before calling and being told the news that no lunch was prepared for us.
+375	6	1	I realize that this place has a huge menu and, therefore, will have some not-so-good things, but it's the rudeness of the service that gets to me.
+376	6	1	Excellent Steaks, the attitude of the Servers could be a little better but the food makes up for everything.
+377	6	0	It's sad that everything about this place was great (even the service and decor) except for the steak.
+378	6	1	the sushi is so-so, the 70s orange-themed atmosphere is 2000ish, and there is no reason for the staff's attitude.
+379	6	1	the service was very slow and his knowledge of the menu wasnt that good.
+380	6	1	Service was bad enough that we decided to head out after the first round of drinks.
+381	6	0	If you live downtown, definitely grab one of their menus, make a phone call and relax in front of the tv while they pound the pavement to get to you (although they do take about 45 minutes on average to get to you)-- the in restaurant service is likewise very very good.
+382	6	1	The 'people watching' and table location (on boardwalk) made up for the rude service.
+383	6	2	If you are looking for service and all the frills $$$ - Il Mulino is the best for both - if you are looking for a fabulous dinner in/out - this restaurant is it!
+384	6	1	I made the mistake of coming here with 5 friends for brunch so the wait was extremely long and then we got stuck at the only table big enough for 6 (downstairs near the bathroom away from all of the other patrons) so that was dissapointing but I will be back soon with 1 or 2 friends.
+385	6	1	Lost reservations, out of liquor, jam-packed, waiting room, out of wine, sent steak out raw, no choices for dessert, no room to breathe, terrible service, etc.
+386	6	0	Although we were seated 35 minutes after our reservation the service from then on was outstanding.
+387	6	2	My meal here was awesome, the appetizers, the bar finger food, the service, the drinks, the entrees of Smoked fish, Lamb salad, Clay pot salmon, Lobster rolls, and the dining room is spectacular.
+388	6	0	The pizza is thet always fresh and just made they hav an outdoor seating area that is partially covered they also have a full service restaurant on the premises they make everything on premises.
+389	6	0	If you had good service there, try to get your waiter's name and request him/her by name the next time.
+390	6	0	If you are a person who wants perfect service, you should probably skip it, you may wait for your server to sing a song before you get your drinks but that is half the fun.
+391	6	0	Casual and kid-friendly, the red-and-gold colored restaurants offer quick drive-thru or dine-in service with a menu of burgers, sandwiches and more.
+392	6	1	Overall, the food makes up for what is missing in the ambience and service.
+393	6	2	When I was there with a friend the waiter who served us was pretty friendly.
+394	6	1	The retaurant is know for the long wait but they do take reservation for group of 5-8 people, so it was just perfect for my friend BD dinner for 3 couples.
+395	6	1	since we're informed its service isslow we had dinner in midtownwent for dessertb-day thing.
+396	6	1	However service was quite slow for a lunch hour.
+397	6	1	(We did make reservations, since we had a group of 8, but had a short wait when arriving a little early.
+398	6	1	We are laidback diners and as we've both waited tables, we tend to be forgiving of irregular service.
+399	6	0	It gets crazy busy like any other bar on the weekends, so don't go there on a busy night if your looking for a quiete dinner party or fine dining service.
+400	6	1	The service may be a little slow (what can you expect in this laid back atmosphere), but a Sunday brunch is a rewarding experience.
+401	6	1	Get in before peak dinner time (7-8 PM) to avoid harried service.
+402	6	0	My date knew the waiters from years of dining here, so we were treated like royalty.
+403	6	1	It had not been made fresh at the bar, but kept in the freezer till we ordered, they also forgot our soup, kept us waiting for the frozen sushi for close to an hour.
+404	6	1	The waitress had an ongoing diatribe with a waiter the whole time she served us-it was ALL BAD!!
+405	6	1	Food was good, but not worth the wait.
+406	6	1	The service was rather slow but our waiter was very pleasant and obliging.
+407	6	1	I don't usually go there over the weekends or during prime dinner hours--but for a weekday dinner it's great, and I've never had any problems with crowds, waiting, or bad service.
+408	6	1	People were leaving because they had been waiting for hours, however we decided to stay and have a complimentary drink at the bar which was absoloutely beautiful along with the view, the only plus.
+409	6	2	Overall,it's a good place to have dinner and hang out if you do not mind waiting for food,weird music and rude manager.
+410	6	2	The chips and salsa are good, but the meal is not worth the wait.
+411	6	1	The wait could be long because of the limited number of seats but it is worth it, especially if you leave your cell phone # with them and go off for a drink at any one fo the excellent bars nearby, like lokie, great lake, etc.
+412	6	1	Aperitif was the Casablanca; it was served carelessly with ice chunks large enough to sink the Titanic.
+413	6	2	The strong suit of this place is the decor, alas we was seated and served by some guy who looked like he was out of a seedy 70's porn movie and everything went downhill after.
+414	6	1	the service was somewhat spotty, but we were rewarded with free drinks and the waiters were all sweet and lovely, genuinely french-speaking but not snooty!
+415	6	1	No extra pickles, no AC, no ice water, slow service, the whole thing was just dissapointing.
+416	6	1	It was not the mistake of the frozen lasagna, it was the icy service of the manager which has spoiled this restaurant for me.
+417	6	1	We had to ask for bread after 45 minutes and even though our waiter was GREAT, he had to ask the stiff manager to comp us a round of drinks for waiting so long.
+418	6	1	The wait time for food can be long, so don't dine here if you're in a hurry.
+419	6	1	If you can't tolerate slow service at a pizza place, then spend more money elsewhere.
+420	6	1	And then he'll forget to bring your drink every time you order one, won't pay attention to your table of 8, will give you unwarranted attitude, and never be friendly or smile.
+421	6	1	complaints were shrugged off and service was slow, causing the dinner to go on for over 2 hours.
+422	6	2	Once seated, there was no waitress to give us our menus.
+423	6	0	I go generally with one friend but on occasion have popped in with more, if a table is not possible, as they are booked solid every night, well, the food and service is just as over-the-top amazing at the bar or in the lounge as it is in the dining room.
+424	6	0	While the decor is a bit bland--a white room with a few fake palm trees and thatched roof--the service is fast and friendly.
+425	6	0	Service during dinner was alright, but one's perception to a restaurant usually starts from the very beginning: the entrance.
+426	6	1	The food, congeniality, and service have all deteriorated overf the past few years and so the wait is not worth it.
+427	6	0	service, one would be overpaying for the experience and for the food.
+428	6	1	When the bill came, both appetizers were charged even though we had one bite of the first and it should not have served competely overcooked.
+429	6	1	The only drawback was slow service, but the food and ambience are so nice that your wait is A) pleasant and B) worth it.
+430	6	2	why go there to deal with staffs' attitude and eat bad food?
+431	6	1	They don't offer recommendations, take a long time with drink orders, don't check back after serving the entree, and plan on waiting a long time for the check.
+432	6	2	Coffee served without sugar/milk and took more than 10 min to catch the waiter to ask for it.
+433	6	1	The service was non-existant, the manager spent all of his time at the bar.
+434	6	1	About a half hour wait with reservations.
+435	6	1	We stumbled onto this diamond in the rough after our dinner plans at Schiller's were thwarted by a 90 minute wait.
+436	6	1	Party of 4 after a Sunday matinee, no reservation, seated promtply, but service was slow.
+437	6	1	The service is disorganised, no one gave us a menu for 15 mins once we were seated, but after that it went smoothly enough but no where near the stella performance of many half as pretensious restaurants.
+438	6	2	The whole fish was excellent--not overcooked and served in a light tomato broth.
+439	6	1	Too bad the food and service aren't nearly as nice as the decor.
+440	6	1	In all cases, service is slow but it's not the waiters fault.
+441	6	1	Horrible service, below average cuisine, asked to leave the table before finishing our wine, and forced to have our port at the bar.
+442	6	2	Each dish is carefully prepared and is a tribute to the ingredients being served.
+443	6	1	My only quibbles are service - which was confused (we waited 10 minutes for menus), and the wine list, which is over-the-top expensive.
+444	6	0	Part of the charm is in the earnest service; part of it is the colorful clientele; but the real charm comes from what emerges from the kitchen.
+445	6	2	the wait staff looks like were doing us a favor giving us service and two loud guys at the bar made my evening with my wife quiet miserable.
+446	6	1	The best tasting pizza by far, a long long wait for service but well worth it.
+447	6	2	My dining experience with friends started off very badly - 40 minute wait WITH a reservation and having to repeatedly ask for bread and water - but ended on a better note.
+448	6	1	We have been waiting for months for a 8pm reservation at this very average restaurant.
+449	6	0	At first I was shocked by the price, but the excellent and friendly service from our waiter Jack was great and the duck salad was the best ever.
+450	6	1	Came here for a b-day and ended up waiting so long even for a reservation.
+451	6	0	i think friends coffee shop makes great food the service is great and they are very poilte i think that they should open more because there the best food store i ever ate from the food is addicting and you cant stop eating because it so delious.
+452	6	1	The ravioli was the better of the two, but the serving was tiny, and the skin a bit rubbery.
+453	6	1	The service was horrible- the 'manager' took my our order - did not write it down- and two of us were given the wrong apps and or entrees.
+454	6	0	On the menu says Free delivery (Minimun order $10) but I was charged a couple of dollars on both opportunities.
+455	6	1	While the recently added outdoor seating was what drew me and my friend to the restaurant, the food, service and overall experience were what drove us out!
+456	6	0	We a menu that rearely changes,e xcept for one or two specials, the quality and care they put in thier food in evident.
+457	6	0	After some good food and spotty service, my friends and I were surprised to get a bill that had a 20% tip included post-tax.
+458	6	2	If you can get service, you might enjoy the surroundings- especially the upstairs lounge.
+459	6	0	I for one do not plan to go back, there are many other places in Manhattan that have just as good food if not better, at the same prices with much better service.
+460	6	0	The decor there is nothing special, though somehow the service manages to deal with the large crowds in an efficient, friendly manner.
+461	6	1	I've since been back for a regular dining night out, it was packed and I should have made a reservation (the wait was a little long).
+462	6	2	one of us still had wine, so the others tried to order dessert drinks, but the owner told us no because there were people waiting and the waiter said if he served us more he would be fired.
+463	6	1	you may have to wait a bit for service but you will not be disappointed with the food.
+464	6	1	I went there about three times, one for dinner on a sunday evening which is a salsa night after dinning, the service was slow and a bit rude, the plates average some shrimp octopus and empanadas.
+465	6	0	I've been here several times for Sunday brunch now - (note: it helps if you're a late riser as I find the wait is always reasonable if you show up after 3pm).
+466	6	0	Sushi is consistently fresh, service pleasant Sushi rice is a bit hard.
+467	6	0	The new server we had was surprisingly well-versed on the menu and gave really solid service.
+468	6	1	the solitary waitress was friendly though i found her service a little slow.
+469	6	1	The bar was so crowded there was no point in ordering a drink, and when we were finally seated we got no service at all for 20 minutes.
+470	6	2	The Scene Service bustles through the energetic, sprawling space with the precision of expert merengue dancers, and everyone else goes along with the flow suggested by the tall, curving ceilings.
+471	6	2	But the place is so great that patrons don't mind waiting outside rather than go to another restaurant which you can find at least 10 in short walking distance.
+472	6	1	After waiting for 90 minutes, the host gave away our table to a couple who arrived after us.
+473	6	1	The desserts were both essentially the same, and the service was on the slow side.
+474	6	1	For Manhattanites like us that are used to pretentious attitudes and expensive tabs, this place is definitely a nice change from the rest of the meatpacking district.
+475	6	1	Tried it again for brunch, when the service was worse.
+476	6	1	Even with our reservation, they had us waiting at the bar for over an hour.
+477	6	1	Perhaps it's early and they will improve but service is VERY slow - took a good 25min for waiter to take our order on both visits and the second time I was one of three tables at a 5:30pm reservation so not like it was busy.
+478	6	0	By the time you get to the table, it'll have been WELL worth the wait.
+479	6	2	Teenie weenie overpriced appetizers were served at an agonizingly slow pace, one at a time 30 minutes between each.
+480	6	1	I had one of the worst service experiences in memory having the prix fix brunch there--waving arms, calling, asking two or three times for everything from coffee to the check.
+481	6	1	The service sucks every time, but the food is usually tasty, even though the menu leans toward the boring and expected of French fare.
+482	6	1	The service was average - the waiter did not check in on our meals and did not even refill the water, but was a bit pushy on desert (we both ordered schnapps).
+483	6	0	Service is wonderful- I've sat there for over 3 hours at dinner and never felt rushed to leave.
+484	6	1	But then there's the sluggish and absentminded service: twice someone tried to serve us something for another table and it took a long time to get our check.
+485	6	2	One of the managers offered us a seat at the bar to wait for a table, there we had the most amazing empanadas and red sangria.
+486	6	1	While the design of the space and the atmosphere is quite enjoyable (with a great view of Union Square), the food has once again proved to be less than favorable and the service mediocre.
+487	6	1	That said, I made sure to pay before we had coffee, so that the server was not waiting on us to pay; and I left a 30% tip, knowing we'd be there for a while.
+488	6	2	If going for lunch, best to go by 12:30, even if getting take-out, the place is tiny and fills up quickly, both with people eating there, and standing waiting for take-out orders.
+489	6	1	Even without this hiccup, the service seemed very amateur--not snooty, as I've read in other reviews--just nowhere near as good as it should be given the price of the meal.
+490	6	1	In my experience, Olympic Flame, a traditional NYC Greek coffee shop, offers good value for one's money in terms of food cost but passable to rude service, depending on who you get.
+491	6	1	Again in a group 6 months ago, the service was even worse this time, practically begging for water and other drinks while we waited an age just to get our orders taken.
+492	6	0	The atmosphere is bland and non-descript and the service is fine.
+493	6	1	FOOD WAS OK,SERVICE NOT SO OK,WAITED FOR THE CHECK WHILE OUR WAITER WAS GOSSIPPING,WAITED FOR CHANGE,WHILE OUR WAITER WAS GOSSIPPING.
+494	6	1	Waiting for a table is par for the course.
+495	6	0	The service is good, but the staff is not too friendly.
+496	6	2	The wait was not very long and the staff was great.
+497	6	1	There is no service at this bar, which means no drinks or food -- ultimately leading to a very frustrating night out, and you end up kicking yourself for not leaving an hour earlier.
+498	6	1	Although the food what adequate, the service was preposterous.
+499	6	1	Although the decor is lovely as usual, service has detiorated.
+500	6	2	If the staff actually got it together and showed some customer service this place would be good.
+501	6	0	So, if you don't care about speedy service, go; but if you aren't in the habit of lighting your cigarette with twenties, avoid the tapas.
+502	6	1	The food is consistantly great, but the wait is often long and the noise is often deafening.
+503	6	2	We were seated fastly enough, and ordering was painless, but I got the wrong appetizer, we both received the same item instead.
+504	6	1	probably not worth the wait on the weekend when pomodoro is a block away but worth getting for delivery if you are in the area or for dinner during the week.
+505	6	2	The margaritas were mediocre, but it did not make up for the muzak they played in the resturant nor the bad food and drink they served.
+506	6	1	The food as always was fantastic, and the pricing was moderate although I was not happy about the 18% gratuity being added for parties over 6, especially after the horrible service we recieved.
+507	6	1	sushi portions were bigger than most places and service was average, far better options available in the area.
+508	6	1	The service was lacking a bit, we waited about 20 mins for a waiter and water to come to us once we were sat and we had to ask for everything twice, even drink orders - I think maybe we just got stuck with a bad waiter though.
+509	6	1	The only downside was the service was slow and our waitress kept forgetting to bring our drinks.
+510	6	1	There is a litte bit of a wait on the food, but it is well worth it!
+511	6	1	We showed up and waited 30 minutes in line 30 minutes to get our drinks -after we asked twice, the service was the worst I've had in nyc.
+512	6	1	It is a small restaurant so without reservations, there can be a long wait.
+513	6	0	But the service, though invariably genial and helpful, can be weirdly haphazard -- waiters disappear mysteriously, only to reemerge just when you've decided their shift must have ended -- possibly an understaffing issue?
+514	6	0	The pro's: Good ambience,service The Con's: For the 4 to 5 star price (200 dollars for 2 people which included 2 drinks each, an appetizer, main course, and a hsared dessert), the food and presentation was just average.
+515	6	1	Service was not snooty and you'll be treated the same whether you order one of the $150+ kaiseki dinners or a single entree.
+516	6	2	Our waiter must have been a 'stand-in' because he did not know the menu, choices or basic service protocol (bread plate on the left).
+517	6	0	We got there before our reservation and the seated us quickly.
+518	6	1	However, the service has SIGNIFICANTLY declined since they expanded into the back room.
+519	6	1	The only complaints (minor) was a 15 minute wait when we had a 10 PM reservation and the tables are pretty close to one another.
+520	6	1	Food is decent but portions are so tiny and the whole meal is served on huge plate which makes it look even more ridiculous.
+521	6	1	Aside from the service being slow, the place was packed w/ a good crowd and music was amazing.
+522	6	1	After making reservations almost a month in advance, I was very disappointed to be seated in a secluded area for dinner next to the sushi bar and KITCHEN!!!!!!!
+523	6	0	He did do the service part well enough -- brought the food, etc.
+524	6	1	it is too bad because the food, ambiance, and drinks were great but they need serious help on the service.
+525	6	2	We tried the Tasting menu', and the manager offered to select the items to be served after taking inputs from us ( Choice of meat, allergies etc.
+526	6	1	I have worked in the restaurant industry for 5 years, and so am understanding of things out of my server's control, and I have never experienced such poor service!
+527	6	1	The service was very rushed and as we were finishing our drinks and paying our bill, the owner asked us to leave so he could seat other people at our table.
+528	6	0	If I went back, I'd have dinner in the bar--better service and even better atmosphere.
+529	6	1	My vegetable Napoleon was good; although i first got the veggie burger because the waitress mis-heard and stood my friend up for another 15 minutes of waiting to have it served.
+530	6	0	Service during either brunch or dinner could be quicker and more attentive at times.
+531	6	0	I have no complaints about the wait or the service but the pizza was not at all something to write home about.
+532	6	1	Service was prompt, although at times the waiters seemed to be spending more time dealing with the overflow from the bar than the diners (ever heard of cocktail waiters).
+533	6	1	Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+534	6	1	That being said, they do have a nice lounge area downstairs where you can just hang out, have a seat, and relax (no more waiting out in the cold or at the crowded bar).
+535	6	1	Service was slow (20 minutes wait time before they came back with our drinks, not including 10 minute wait for them to take our drink order).
+536	6	1	Go there for dinner this time and find it unusually bad in taste and not pleasent service at all.
+537	6	0	my table of four was not totaly neglected, but there was a lag in how promptly we were being served.
+538	6	0	Worth the trip and the wait (and the higher than average price)?
+539	6	1	The journey may be long and the wait may be longer, but there is nothing that could keep me from this pizza.
+540	6	2	My friend ordered the scallops which were served in a light red sauce that was complemented very nicely with atichoke palms.
+541	6	1	Service is not particularly warm, but I've gone back again and again (for dinner) over the years on an almost monthly basis.
+542	6	0	The food and drinks held up to eatery's rep and the service was just as good if not better.
+543	6	1	The food had a somewhat elevated price tag but but fair considering the Nobu origin - The cocktails highly recommended including the spide and lobster roll - we were well plated and did not encounter any arragance from the staff - maybe the other student reviewers are used to cafeteria service.
+544	6	2	After being seated outside by the host, a waitress came over and yelled at us for taking a table that belonged to people waiting at the bar.
+545	6	0	Summary good service, bad food!
+546	6	2	People will literally spend their entire lunch break waiting and for what - an average fastfood burger.
+547	6	2	The Food Brasserie favorites are prepared by the book: Onion soup gratinee bubbles with a thick layer of Gruyere cheese, and grilled shell steak is served medium-rare, with a side of crisp shoestring potatoes.
+548	6	2	Unfortunately, as we were finishing up, the manager hovered around us and asked us to go to the bar to finish our drinks because there were other people waiting.
+549	6	2	This seems to be a big hit and draws a large crowd, so be prepared for a wait.
+550	6	2	95 all-you-can-eat lunch is tooted as a good deal but a the ambiance is dreadful and you can get a terrific meal, also kosher vegetarian, in peace with service just around the corner for $2 more.
+551	6	1	The food is really great but the service is absolutely horrible!
+552	6	2	My friend and I were the ONLY 2 people in the entire place seated for dinner and after sitting there for 15 minutes, I had to walk over to our surly waiter and ask for menus.
+553	6	0	The place is a little over-priced for brunch but it is a nice restaurant so that was expected Food (i had the omelette with cheddar, mushrooms and herbs), service, coffee, atmosphere were all fantastic.
+554	6	1	I went for an early dinner the other night and encountered the worst service i have experienced in a long time.
+555	6	1	If coming to Tea and Anthipathy (yea u heard me) during conventional dining hours, expect a good long wait on the curb till tables open up.
+556	6	0	Bringing a large group on a busy Saturday night ,I was afraid quality of food and service might not be up to par, but we were seated promptly and the service by our waitress was fantastic considering how busy it was.
+557	6	0	We were also seated promptly at the time of our reservation and the service was very quick and professional.
+558	6	1	I recently attended a celebratory dinner here and I just want to warn everyone that the service is the worst I have ever experienced!
+559	6	1	The presentation was clever, and the food tasty however the service that accompanied it was so slow it made us feel neglected.
+560	6	0	While the people here were nice and the service was very good, the food was not very good - it was extremely greasy, the place did not offer alternatives such as egg whites and PAM spray instead of oil, coffee was average Crystal Rock Office Flavored Coffee - not the good coffee.
+561	6	1	Service was a little but flawed, (they brought us beers without the glasses brought the main course out before cleaning off the appetizers) but nothing that would ruin your evening.
+562	6	0	I went there for lunch with co-workers and found the service to be prompt and very friendly.
+563	6	1	When we received the bill, we asked the manager to do something about the drinks, considering how poor the service was and her reply was, Well, you got them!
+564	6	1	I had a party of 9 reservation and was very disappointed at the service.
+565	6	2	Expect a crowd while waiting, but they seat quickly.
+566	6	1	I must admit the times my family (6 or more) have had dinner there the service seemed to forget us after serving the main course.
+567	6	1	We were seated promptly, and after an inordinate wait, somebody took our drink order and disappeared for half an hour.
+568	6	1	Though it might be a wait and the service might leave a little to be desired, anyone that has ever eaten there agrees that the food is worth it.
+569	6	1	Service was atrocious: appetizers came out 3 minutes after we ordered, and 10 minutes before we finally tracked down the bottle of wine we had ordered, the waiter rushed us from start to finish, we had to repeatedly track down someone to pour us more wine since it wasn't at the table, etc, etc.
+570	6	0	My appetizer of endive and bleu cheese salad was a surprisingly large serving which balanced the striped bass entree (served on a bed of vegetables).
+571	6	1	Though the service leaves a lot to be desired, and the waitstaff runs around like chickens without heads, the beer is cold, the sake is hot, and the sushi is out of this world!
+572	6	2	People waiting for tables stand at a drink rail next to large windows which open out over a leafy garden in the summertime.
+573	6	1	beside i have to wait long time with my food, waiter service ok but unfriendly.
+574	6	2	Our waiter said 3 words to us, wisked away our food as we were finishing, and the maitre'd could not take his eyes off our table waiting for us to leave.
+575	6	1	the service was slow took ten mins to get me a glass of water.
+576	6	1	They were rude, didn't know their drinks and were unable to demonstrate any professionalism in their service mentality.
+577	6	1	But the service was absolutely terrible, and we watied 45 minutes for food.
+578	6	1	The food was good but we were dissatisfied with waiting too long for a uncomfortable table.
+579	6	1	Service was horrendous the night we went for dinner.
+580	6	0	The sangria was served quickly and often.
+581	6	1	We were seated promptly for a Saturday lunch, but service was incredibly slow.
+582	6	1	My only complaint is waiting a bit between the appetizer and the main course but it was well worth it.
+583	6	2	The service could be better but the management (Mariano) is quite helpful if there are any problems.
+584	6	1	Also, try to get a seat at the main bar, because I sat at the smaller bar by the entrance and it was getting so crowded with people waiting that it became a bit unpleasant towards to end of the meal.
+585	6	1	Definitely make reservations if you can -- they'll honor them, and you can skip the massive wait!
+586	6	1	Their service can use a little assistance, but their food is great.
+587	6	1	The overpriced ice cream is delicious but the service is atrocious - not only do I have to wait to be admitted into this ice cream joint, but the waiter is a snide, gruff man more suited to be a trucker than an ice cream shop server.
+588	6	1	You have to wait in line most of the time, but the burgers are worth it and the beer is cheap.
+589	6	0	We had a reservation for Monday lunch and were seated promptly, which was a pleasant surprise.
+590	6	0	The menu can give you price shock but the food, service and drinks are worth every stinking penny.
+591	6	0	However, the service was so excellent, we added $10 to the tip!
+592	6	1	I think I'm going to start taking the food and coffee to go b/c everytime I go there (which is quite often) I get more frustrated with the service.
+593	6	2	There was a ten minute wait with a reservation, but the bar kept us entertained.
+594	6	1	Meals not served at once and service was inattentive and forgetful.
+595	6	1	Seated in the upstairs part of the restaurant my party and I were subjected to rude, abrupt service and unmercifully long waits for our food.
+596	6	0	The good service started from the moment we walked in the front door.
+597	6	1	We waited in standing at the entrance for 5 mins to get seats due to just slow service, another 10mins to get menu, and then another 10mins to get water bread.
+598	6	0	When spending upwards of $200 for dinner for two, I expect better service.
+599	6	1	The food is average, however the service is way below average (our waiter was a stuttering fool when it came to the specials and left our drinks empty for the majority of the night) The atmostphere is cheesy as well as the crowd.
+600	6	0	Service at the bar was fine, just as you would expect.
+601	6	0	The bartender has a nasty attitude, and it took a party of two 1 1/2 hours to get seated while party after party of the hosts 'friends' were given seating immediately.
+602	6	1	I am hoping the stale service was a one shot deal because it was deplorable for what we paid for dinner!
+603	6	1	The waitress, host, and bus staff were sitting around at the bar while the patrons were all complaining about the service.
+604	6	0	The service is excellent and always informative without an air.
+605	6	1	The service was horrendous, not only did the waiter take an hour to remember we ordered drinks, we were rushed to eat and get out so they could seat the next party.
+606	6	2	The french fries are soggy, the service is so/so and while it looks like a cute little homestyle cafe you'd find in SF, the food is below average.
+607	6	2	The manager then comes over to the table and asks us to leave - to help him out because there were people waiting!
+608	6	0	The staff treated them like true royalty.
+609	6	2	B/c the dinner focused on good friends and good food, not waiting around for service or being bothered by rude staff to leave.
+610	6	1	I planned a holiday dinner at Kurio and we ended up waiting two hours for the appetizers.
+611	6	0	This was not the same hostess I usually see there who happens to be very sweet and provides excellent service.
+612	6	0	Serving things like Chicken Kiev with a garlic mashed potato egg roll for $$ with the snooty attitude to match!
+613	6	0	Park your trench coat at the coat check and be prepared for fine dining, expert / attentive table service and a delectable cuisine.
+614	6	1	the service is so-so; our waiter told us there was a table for us, then took us back to the entrance , we then waited another fifteen minutes- confusion seems to reign.
+615	6	1	Food presented well and the service once we were seated was great but we had a long wait for our table (about half an hour) even though I had pre-booked.
+616	6	0	I also do not think waiters there are rude- yes there are not friendly and chatty, but do provide great service.
+617	6	2	Their delivery of fresh hot pizza.
+618	6	2	I have never been treated more rudely than I was by the hostess and the manager of Public for brunch last Sunday; the hostess was arrogant, despicable, and mean to our party (reminder: she is a hostess in the service industry).
+619	6	2	Hostess continued to ask us if everything was okay, and then did nothing when we gave her specific actions (how about some water or coffee served in paper cups).
+620	6	1	The service always ruins your food if it's poor.
+621	6	1	Long wait for our meal (approx 30 minutes), unusual slow service, waitresses (especially the preety one with black hair) louder thn clients, do not care much for customers.
+622	6	0	I have gotten warmer and much friendlier welcome and outstanding service at the other Thai restaurants in the Greenpoint area.
+623	6	1	Obviously we did not get right service and nobody said soory for that and other restaurant guests who came after us got quicker dish than us.
+624	6	1	What I don't get is asking a high rolling, forgiving of bad service, drink guzzling table like mine to leave as soon as we finished out last sip of $12 martinis and left a 25% tip.
+625	6	1	the food at pongal is average, the rava masala dosa is much better at madras mahal (a few doors down) and certainly the service at pongal is the worst among the indian restaurants along that block.
+626	6	0	The ambiance and service is great but I wish I could say the same about the food.
+627	6	2	Then we were led downstairs to the main room, and were seated at the huge communal dining room table.
+628	6	0	I have eaten here for nearly three years, with firends with family, the service is great attentive and informed, perfect for Thursdays, Fridays and Saturdays.
+629	6	1	The first time, the food was decent for lunch, but remember mediocre service.
+630	6	0	90 for a porterhouse steak for 2 (ordered medium-rare, delivered well-done, dry and tasteless) and I'm not even full.
+631	6	1	the service was inattentive (didn't bring us wine til our main course was already served and didn't open the bottle in front of us!!!
+632	6	2	decent, if greasy, fishsticks, but served on a mound of soggy fries that could feed about 5-6 people!
+633	6	1	HIGHLY RECOMMENDED, MAKE RESERVATIONS FAR IN ADVANCE TO AVOID LONG WAIT TIMES.
+634	6	0	The service is great - they are very attentive and fast, however, they do make faces and comments when you order alot of the ALL YOU CAN EAT food.
+635	6	2	the manager was nice profecional and service was average but the food was not italian, a diner is better, try po'
+636	6	0	The service was attentive but overdone for the tiny and very ordinary setting and poor food.
+637	6	1	Sure the service isn't the best but the food is tasty and the prices are great.
+638	6	2	Maybe I've just gotten lucky with seating, but I've never had more than a ten minute wait.
+639	6	2	We were put on the wait list, seated in 15 min after a quick drink at the bar and had an incredibly entertaining waiter and dined next to a few regulars who raved.
+640	6	0	I'd recommend getting an appetizer b/c the dinner takes a bit to be cooked, but it was definitely worth the wait.
+641	6	0	He met me for wine tasting/sampling of food the week before and made sure that the service was on their toes.
+642	6	0	We had an hour for lunch, and service was impeccable each time.
+643	6	0	We had reservations and were seated immediately, got a nice table by the window.
+644	6	2	We placed a delivery order - 2 pastas and a caprese and they took and 1 1/2 to get here and the food was inedible when we received it.
+645	6	0	service is quick, not overly friendly, but hey it's a small place and the servers are constantly busy.
+646	6	1	It is never a ridiculous wait no more than 30 minutes, in the meantime you can chat with your friends and start the week-end off right with a signature drink from the bar!
+647	6	1	My date and I were excited to go, and didn't even mind the 25 minute wait (EVEN WITH OUR RESERVATION) to get a table.
+648	6	1	After waiting to get a table for over a half hour even though we had reservations, we went up to the host.
+649	6	2	My wife and I had an 8:30 reservation, we show up a few minutes before and the host mumbles something to us about waiting at the bar and they'll tell us when the table is ready.
+650	6	2	) My date and I were greeted by the host and informed there would be a slight wait.
+651	6	1	Overall, cute place with poor service, and even worse food.
+652	6	0	As for price, there are plenty of Shanghai restaurants in Chinatown that are just as inexpensive with better food and without a doubt much better customer service.
+653	6	2	The wait (despite reservation) was 35 minutes (in an over-crowded bar) no apologies whatsoever.
+654	6	0	By this I mean that the guy selling hotdogs outside of Grand Central has given me better service.
+655	6	0	I went to Mocca with my boyfriend for a few drinks and food, and I was really impressed by the service.
+656	6	1	Unfortunately, service was slow and when our server noticed we had not received our entree he comp'ed us two delightful margaritas - AND charged us only for appetizers , thereby cutting our bill in half.
+657	6	2	The food is so good that there tends to be a little bit of a wait.
+658	6	1	Though if the restaurant got bigger, the service and quality of the food would probably suffer.
+659	6	1	I had a reservation for a Staurday night and after a 1 hour and 45 minute wait, we still were not seated!!
+660	6	1	The food is average and the service is insulting.
+661	6	1	be prepared for a long wait at dinner.
+662	6	2	This restaurant has taken the trend of serving tiny portions on oversized plates to a new level.
+663	6	1	IT'S GREAT COFFEE BUT THE SERVICE IS SERVED WITH BIG TIME ATTITUDE.
+664	6	0	The service is more than attentive, and they also have a $10 corking fee so you can bring your own wine.
+665	6	0	The service was good, if a little slow, and the place was very crowded (which can be comforting, but on a date it may be hard with the constant noise).
+666	6	2	The margaritas took me on an instant vacation, and although there was a bit of a wait for a table, the food was well worth it.
+667	6	1	The food did come out quickly and was good, but not worth the prices or the wait.
+668	6	0	NOTE: Plan ahead, make a reservation and arrive early - parking is tight in the area - valet service is available if all else fails!
+669	6	0	If you want great Italian food, fairly price, good service, in Brooklyn, a couple of subway stops from Union Square,(where you should complain about the prices) go to Al Di La.
+670	6	0	My husband and I sat at the bar, and service was excellent.
+671	6	2	I've ben waiting to try Al Di La for a while, but the menu just never grabbed me.
+672	6	1	the 3rd however, the waiter forgot to put in our order for food and we ended up waiting an hour for them (b/c they were really busy).
+673	6	1	Fun atmosphere, good beer selection, but meals were skimpy portions on big plates and the service was weak - never had the same server/waitperson come back twice.
+674	6	1	No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.
+675	6	1	Food is average, service is awful, and the attitude isn't New York - it's just plain rude - and most of NYC is caring and courteous.
+676	6	0	There was a short wait for a table, which we spent at the bar, then we were seated on their patio.
+677	6	1	At 1:15 we were still waiting for our plates!
+678	6	2	Nevertheless, after waiting for an eternity to be seated, we finally sit down and wait for our menus, wait for our food, and to our surprise the food was minimal relative to the price.
+679	6	2	After waiting 40 minutes for a table and 30+ for our entrees, our waiter was distracted.
+680	6	1	The service was adequate though we did need to keep asking for water and the drinks from the bar took a long time- plus the restaraurant was not crowded.
+681	6	2	: after ordering a bottle of wine (which was originally, inexplicably mistaken for 2 glasses of it), the (2) waitresses in charge of the outdoor space claimed that the bottle was right there in the only cooler used to service about 10 tables.
+682	6	1	The service was very good, although the food was mediocre.
+683	6	1	The wait can be long especially during brunch time but worth it.
+684	6	1	I called ahead and was told that there would be no problem seating a party of two at 5:30, arrived at 5:30, was told there would be a 5 to 10 minute wait.
+685	6	1	I'll give it to Sea; the decor is pretty cool and the food was good, but the service was beyond terrible!
+686	6	1	While the service and setting were average, the food was excellent.
+687	6	2	Within 10 minutes of being seated at our table, the hostess asked us if we could move.
+688	6	1	But despite that our dinner took far too long to be served.
+689	6	0	I was shocked to have gotten no apology from the management, and to top it off were charged for the drinks we had while patiently waiting for food that never arrived.
+690	6	0	I've been there for lunch many times and the service is always cheerful and efficient.
+691	6	0	The food here does a great service to the name (Cantonese that is.
+692	6	1	This is of course after waiting forever for menus and eventually having to ask for them.
+693	6	1	our dinner was marred by painfully slow service.
+694	6	2	After arriving for a pre-theatre reservation to find the kitchen closed due to a mechanical failure, the problem was fixed an hour later (after many drinks at the bar, none of which management offered as a concession to the wait) and we were served a very good dinner in time to make the play.
+695	6	1	If you mind waiting for your pie to be made (the wait canbe over an hour, especially for a square pie), I recommend calling ahead and placing your order for pick-up.
+696	6	0	Service was ok, took a while to order even drinks.
+697	6	0	Nonetheless, we are looking forward to the next time for more pizza and the great service.
+698	6	2	Space is teeny tiny so waiting at the bar meant getting poked and bumped repeatedly, but hostesses were nice and wine selection was ample.
+699	6	2	The Sushi was of the highest caliber, the cut as if a master samurai marks smith was behind the bar, and service, just what you would expect from a fine dining establishment, New York style.
+700	6	1	but the wait for seating can be exasperating.
+701	6	1	To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok.
+702	6	1	you might have made a reservation, but you will end up waiting for about an hour anyway, so hopefully you'll get a seat at the bar and won't have to stand around.
+703	6	0	While being shown to our table by a hostess, we were welcomed by Lidia Bastianich herself and seated at a great table in the dining room -- not too secluded, but not noisy.
+704	6	1	Maybe it was because we went during the restaurant week lunch special, but the service was not impressive at all and the food was okay, but not great.
+705	6	1	Been here a few times and food has always been good but service really suffers when it gets crowded.
+706	6	1	Go in, take a deep breath and expect great food, fairly priced with just about the worst service in North Jersey!
+707	6	1	The service on our visit was absolutely awful - a waiter and two helpers couldn't get our orders right and ignored several pleas for basics such as water and beverage refills and utensils to eat desserts with.
+708	6	1	I recently ate Brunch there and was dismayed and dissapointed by the service.
+709	6	0	We asked for our check (to pay for our drinks and leave), and received the quickest service all evening.
+710	6	1	the busboys were fantastic -- very attentive when it came to replenishing chips, removing dishes, but I have to say the waitress service was not quite as good.
+711	6	0	Wonderful service, not too long a wait for tables, price is right - in a word, go!
+712	6	1	Although the food was great, the service was so bad that I can't see myself ever returning.
+713	6	2	At the end of the meal the waitress asked if we wanted another drink, the after agreeing to have one she stated, actually there's a list of people waiting, can you go next door to the bar.
+714	6	0	I have never had a bad meal or service (on a couple of occasions I waited past my reservation time).
+715	6	1	The food was good, but it's not worth the wait--or the lousy service.
+716	6	1	they continue to expand their garden space, w/out expanding their kitchen and cannot provide even adequate service.
+717	6	1	1) Service is very slow and unattentive (10 minutes for our server to come by with our menus and to take our drink order, another 10 to bring the drinks/take our dinner order, you get the idea.
+718	6	2	Went with my father without a reservation, and the maitre d' was very nice and sat us within 15 minutes of our arrival - we had been told that the wait would be an hour (this may be unusual).
+719	6	1	The atmosphere was wonderful, however the service and food were not.
+720	6	2	Don't know about the rest of the food, but the burgers are one of New York's hidden treats.
+721	6	2	The drinks were really good- albeit a bit weird served out of baby bottles.
+722	6	0	Service was good throughout the dinner but when it came time to get the check, we waited over 20 min.
+723	6	1	One friend had the steak which he didn't care for, but after waiting so long to be seated he was hungry.
+724	6	0	I thought it was great, best service I've ever had in a long time.
+725	6	0	Although Nobu requires a 2-3 month advanced reservations, it's worth the wait!
+726	6	1	the service was horrible then and the food was decent.
+727	6	0	The bar area was fairly crowded but service remained friendly and efficient.
+728	6	1	Yes it's pricey for counter service, sawdust floors and deafening chatter but the pastrami makes it all worth it.
+729	6	1	For the prices, the food is decidedly lackluster, and the service, unless you are a regular, can be quite rude.
+730	6	1	The only saving grace is the sweet tea - but even that isn't worth the wait.
+731	6	2	Oh, and kudos to the hostess who appeared out of thin air with extra napkins just moments after a glass of water was knocked over - she's upping the bar on service here.
+732	6	0	service was attentive at the beginning but the waiter lost us towards the end and we had to flag them down for the check.
+733	6	1	when I came back for brunch a week or so later, I was told that the marscapone version was no longer being served, because there was a new cook.
+734	6	1	Our food took so long to be served that we nearly missed our curtain.
+735	6	0	Went to Gallaghers for the first time on a Saturday night, had no problem getting reservations, great staff-great service.
+736	6	0	Service was fine and the food delivered in reasonable time given the crowd, but for the price I was disappointed.
+737	6	0	The service is smart and though they can be overwhelmed with the crowds, does a good job.
+738	6	0	Even if you're just a middling junior exec, staff service makes you feel like a board member.
+739	6	1	The waitor never gave us the specials menu (which they gave to a another couple who sat next to us 20 minutes later) and the service was very slow even for the basics (bread and water, for which we had to ask a couple of times).
+740	6	1	Tried to get a table during restaurant week but there was an over an hour wait.
+741	6	1	Although the restaurant was far from crowded (maybe three tables), service was abysmally slow, to the point that we wondered if the server was trying to avoid us.
+742	6	2	But the wait staff's attitude will make me rethink about returning.
+743	6	1	45 minutes later our less-than-stellar pizza and their even less-than-stellar gnoccho was dropped at the table; no explanation or apology or attempt to acknowledge the ridiculous wait.
+744	6	1	The service was spotty as a couple of drink orders were forgotten and the waiter didn't really come to check on us.
+745	6	1	calle ocho is definitely high on my list, the food and mojitos are excellent (the sangria is a miss, flor de sol has much better sangria) but the service leaves much to be desired.
+746	6	0	The Food Skip the menu and head for the restaurant's bountiful and ever-changing vegan buffet for an abundance of affordable servings.
+747	6	0	I live about a 1/2 block from Westway and when I want consistantly good food, big portions, great fast service and a step above your average diner food I go there!
+748	6	2	Got the check tossed on table 10 minutes after being served and hostess came by to rush us some more.
+749	6	2	It took us about 30 minutes to get seated, the burgers came without lettuce, they brougt us the wrong drinks, and the flavor of the burgers were below average.
+750	6	0	Even when the chef is not in the house, the food and service are right on target.
+751	6	1	great decor, unfortunately the worst service possible.
+752	6	1	The service was terrible- our waiter was unable to make any recommendations, mumbled the special and failed to check back during the course of our meal.
+753	6	1	The raspberry/marscapone-stuffed pancakes are so divine it's actually worth putting up with the rude and incompetent service.
+754	6	2	You wanna wait a hour for a cramped table to eat mom's macaroni and cheese?
+755	6	0	Got a table during restaurant week for lunch and the service was cordial, if slower than usual.
+756	6	0	The service was professional if somewhat slow, though we didn't mind since it is such a welcoming place to have dinner.
+757	6	0	The food is fantastic, Gourmet comfort food and has gotten progressively better over the past year, as did the service.
+758	6	1	My friend also knew the chef, so we had some other courses not on the menu, but even knowing the chef didn't get us the service I would expect at this type of restaurant.
+759	6	0	Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.
+760	6	2	After an hour of waiting at an overcrowded bar with our coats in our hands and no room to move, I approached the host (who never bothered to give us an update throughout our wait) to ask him how much longer, He was incredibly rude and dismissed me with his hand and walked away from me while I was trying to talk to him!
+761	6	1	The raw bar that we were served was abyssmal, and our dinners of salmon (mine overcooked) and chicken (hers, very bland) weren't much better.
+762	6	1	The service, which was horrendous - they charged us for two appetizers when we asked to split one (when we brought it up, he insisted that the appetizer really did only consist of 2 sliced tomatoes and 1 slice of cheese).
+763	6	0	the place is small but everything else is 'big' in terms of quality variety and smiles of the wait service.
+764	6	0	I have dined at JG many times for dinner and lunch over the past two years and both the food and the service is by far the best compared to others in NYC or else where.
+765	6	0	This is a busy spot from 1130 AM to 130 PM M-F but you never have to wait more than 5 minutes for a table, unless you have a large party, thanks to fast and friendly service provided by the waitstaff and kitchen.
+766	6	1	We probably would have stuck out the wait if we could have gotten a drink at the bar but apparently it was closed or only for show.
+767	6	1	My complaint was the service was not that good but the food made up for it.
+768	6	0	For a 4-star restaurant (not to mention a $400 dinner for two), attentive service is expected.
+769	6	0	Don't look for sushi on the menu although there's tons of sake and it's served properly.
+770	6	0	The food is average, at best (I have been repeatedly underwhelmed by the mediocre fare) and the service is only good if Elaine is within range.
+771	6	0	The restaurant is loud, the tables are wooden and the service is OK.
+772	6	1	Since the service was so poor, we asked if they could offer any concessions - complimentary drinks?
+773	6	1	The appetizers are ok, but the service is slow.
+774	6	2	We could not believe that the owner only laughed and continued serving him drinks.
+775	6	2	My friend and I walked in to an over crowded bar and were warned of a 45 minute wait.
+776	6	2	The food is pretty good, but after 2 or 3 bad experiences at the restaurant (consistently rude, late with RSVP'd seating), I decided I would only order delivery.
+777	6	1	We were told by the hostess to make sure we were on time for our reservation, which we were, but then they kept us waiting for 15 minutes when we got there.
+778	6	1	The pretty waitstaff is always pleasant, but service is inconsistent at best.
+779	6	0	MeetLESS gives you a dance club w/o the dance floor a restaurant w/ horrendous service and limited menu selections (the ONLY steak is a top sirloin?!!!)
+780	6	1	Be warned though, this plaice gets packed at lunch - and the service can be rottenly slow-going.
+781	6	2	After being seated by a very kind, but quite stressed, young lady, we took in the room and menu.
+782	6	0	The service was punctual, having been asked for our drink orders even before opening our menus.
+783	6	1	Regardless of the amount of customers, the wait for food is insanely long.
+784	6	1	Service was a tad spotty, but the food was VERY good and the noise never detracted from the dining experience.
+785	6	0	The service was impeccible, the menu traditional but inventive and presentation for the mostpart excellent but the food itself came up short.
+786	6	0	We went for lunch on Saturday, wait wasn't bad considering that it had only opened recently.
+787	6	1	The food is undeniably good -- but not worth the wait.
+788	6	1	Anyway, I went down on a Wednesday night to see if they had a long wait and the hostess said they had a table to accomodate my party.
+789	6	0	If you would like to charge us 5 dollars for service that would be fine, though comming from a restaurant where we buy a dessert for a bithday I thinks it's a bit cheap.
+790	6	0	Our waiter was well versed with the menu and provided us with great service, he didn't hover over the table as some servers tend to do in high end restaurants.
+791	6	0	also, when i was waiting to be seated the bartender gave great service and mixed a mean cocktail for me.
+792	6	2	Just make sure everyone is in your party is there together or you'll be waiting on the sidewalk or in the cramped bar next door.

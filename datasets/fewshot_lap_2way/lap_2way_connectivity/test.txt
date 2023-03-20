@@ -1,0 +1,66 @@
+0	3	0	It's fast, it's easy easy easy to set up, easy to hook to my wireless network.
+1	3	0	It's even easy to hook up to other wireless networks.
+2	3	0	Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.
+3	3	1	It would not let me connect to my Wifi system where I lived.
+4	3	1	I can barely use any usb devices because they will not stay connected properly.
+5	3	0	But with A WAY Bigger Screen, and IS able to connect to an HDMI.
+6	3	0	I have found also, it is very easy to be able to access wireless internet access; without having to have extra equipment and/or complicated routes to take to be able to do so.
+7	3	0	It works fine with our wireless and they've had not problems.
+8	3	0	It is extremely portable and easily connects to WIFI at the library and elsewhere.
+9	3	1	The WiFi is very weak.
+10	3	0	It is fast booting up , shutting down, and connection with the internet.
+11	3	0	My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.
+12	3	0	Great wifi too.
+13	3	0	Graphics are clean and sharp, internet interfaces are seamless.
+14	3	0	The internet capabilities are also very strong and picks up signals very easily.
+15	3	1	It does not keep internet signals no matter where you bring it.
+16	3	0	It is speedy when connected wirelessly to any network regardless if the connection is weak or not.
+17	3	0	I had my IWORKS, Itunes, Email, MS Office, network and printers set up and completely working perfectly within an hour.
+18	3	1	The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV.
+19	3	1	Its not just slow on the internet, its slow in general.
+20	3	0	Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it's a snap.
+21	3	0	The internet speed is spectacular.
+22	3	0	I would recommend it just because of the internet speed probably because thats the only thing i really care about.
+23	3	1	in 5 months the connect quality got worse and worse.
+24	3	1	Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.
+25	3	1	The Aspire wont even boot past the Acer screen with a Droid (I have tried both Motorola and HTC) plugged into the USB port.
+26	3	1	Needless to say a PC that can't support a cell phone is less than useless!
+27	3	1	I can't even install one of the 3 printers I have in my house so I am unable to print.
+28	3	1	Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.
+29	3	1	After purchasing this thing, I find out that I need a special interface device to connect my camera, and that it cannot be purchased at the store - only on line.
+30	3	1	But as time went on I found it almost impossible to keep the thing on-line through wi-fi.
+31	3	1	It takes a long time to get on the Web and to change Web Sites.
+32	3	1	Below average on the w-fi adapter which I'm still trying to get to the bottom of.
+33	3	1	No ethernet outlet
+34	3	1	but it doesn't have a cd unit, anyway the other thing is that the laptop does not have an ethernet port for cable connecting.
+35	3	1	just wifi....
+36	3	0	External monitor worked easily.
+37	3	1	This laptop does NOT have an RJ-45 Ethernet adapter for wired network connection.
+38	3	1	I can't put a protector to make presentation...
+39	3	0	Internet is fast and reliable, battery life lasts a long time.
+40	3	0	The touch screen response is fast and it picks up bluetooth and wifi FAST.
+41	3	1	Also wish it had a port to plug an internet cord into it because sometimes my wifi router likes to not work.
+42	3	1	Wifi card not working right out of the box.
+43	3	1	However, it does not have a DVD drive, neither does it afford one the opportunity to connect an external DVD drive as the manufacturer did not make any point ofconnection of an external drive.
+44	3	1	The build is perfect, the screen fantastic, but I do have a bit of a problem with the fact that I have to buy adaptors for nearly everything, from vga cables to ethernet cables, so, almost perfect...
+45	3	1	I barely have any files or downloads and its almost impossible to get this thing to load.
+46	3	0	It has everything I wanted-- built in Wi-Fi connectibility, a slot for my SD camera memory card, a DVD burner, big beautiful screen, plenty of USB ports (three 3.0 and one 2.0), and a keyboard with a nice touch.
+47	3	0	I plugged it into my existing printers and it just worked, no fuss no muss.
+48	3	0	It immediately recognized the printer and was ready to go.
+49	3	1	The biggie though is the fact that it disconnects from the internet whenever if feels like it, even when the strength bar is filled.
+50	3	1	Also, when you try to download a large file, like a video, it will start out normally, downloading at around 600kb/sec and over the course of a couple of minutes will slow waaaaaay down to around 20kb/sec, making a download of a couple minutes into several hours making it worthless.
+51	3	1	Too often I would find it not being able to stay connected to the internet.
+52	3	0	Never had any issues, no frustrations just great easy wireless, all in one fun!
+53	3	1	The wireless keyboard (not bluetooth, but RF) did not pair up with the device.
+54	3	1	It still did not pair.
+55	3	1	I even ran it as Administrator -- still no effect.
+56	3	1	I used the Ctrl-Esc keys while turning on, and still nothing.
+57	3	1	I still can't pair it.
+58	3	0	I hooked up a USB mouse and all is well.
+59	3	0	The wireless adapter is strong and the SSD is fast.
+60	3	1	Sometimes It stops receiving wifi signal, so I have to restart it.
+61	3	0	The wifi rumor hasn't happened to me.
+62	3	0	The wifi works great.
+63	3	1	My HP seemed great at first, then the problems started.....wireless adapter would just &quot;disappear&quot; and the system said it didn't have a network card.
+64	3	1	Sometimes it comes back, sometimes not.
+65	3	1	I thought all my problems would finally be solved being that my old computer wouldn't go onto our wireless network and I wouldn't have the same problems because it was updated.

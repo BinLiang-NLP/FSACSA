@@ -1,0 +1,101 @@
+0	0	0	10 plus hours of battery...
+1	0	1	The battery has never worked well.
+2	0	0	I don't use my laptop in a way though that needs a long battery life so it's perfect for me.
+3	0	0	Suffice it to say, my MacBook Pro keeps me going with its long battery life and blazing speed.
+4	0	0	The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.
+5	0	1	After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.
+6	0	0	Has a 5-6 hour battery life.
+7	0	0	Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.
+8	0	0	The battery is really long.
+9	0	0	Good keyboard, long battery life, largest hard drive and windows 7.
+10	0	0	great battery life.
+11	0	0	Crisp screen, great battery life, and plenty of storage.
+12	0	0	It's fast and has excellent battery life.
+13	0	0	I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.
+14	0	1	I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS
+15	0	0	The battery life seems to be very good, and have had no issues with it.
+16	0	0	This is a nicely sized laptop with lots of processing power and long battery life.
+17	0	0	I love its solid build, light wt and excellent battery life (for now).
+18	0	0	I did have to replace the battery once, but that was only a couple months ago and it's been working perfect ever since.
+19	0	1	Battery life needs more life.
+20	0	1	The only downfall is the battery only last 1.5-2.0 hrs when not plugged in.
+21	0	1	I would like at least a 4 hr. battery life.
+22	0	0	lightweight, long battery life, excellent transition from PC;
+23	0	0	I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;
+24	0	0	I've been impressed with the battery life and the performance for such a small amount of memory.
+25	0	1	Needs longer lasting battery, More than 1 to 2 Hrs.
+26	0	1	Aside from the trial software and the short battery life, lack of a webcam, its great.
+27	0	0	The battery life has not decreased since I bought it, so i'm thrilled with that.
+28	0	0	The battery life is amazing, the versitility is outstanding.
+29	0	0	I couldn't believe how long the battery lasted on a single charge.
+30	0	0	It has a lot of memory and a great battery life.
+31	0	0	It is sleek and lightweight and charges quickly when needed.
+32	0	0	Very long-life battery (up to 10-11 hours depending on how you configure power level settings).
+33	0	0	Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.
+34	0	0	I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).
+35	0	1	The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.
+36	0	1	I challenge anyone to show proof that through anywhere near normal use can get more than 2.5 hrs out of it.
+37	0	1	The first full charge of this battery got me only about 2 full hours.
+38	0	1	Enabling the battery timer is useless.
+39	0	1	The "Time remaining" goes from 4 hours plus to less than 2 hours over the span of about 10 minutes.
+40	0	1	It's so bad that I'm thinking I only got half a battery or something.
+41	0	1	I know what 7 hrs of battery looks like.
+42	0	1	If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.
+43	0	0	It is light and the battery last a very long time.
+44	0	1	Another issue I have with it is the battery.
+45	0	1	Maybe three or four months ago it started blinking all of the sudden.
+46	0	1	There is a small red circle next to it with a x in the middle, and when I click on it it says: " Consider replacing your battery" and it does not hold full charge.
+47	0	1	The only bad thing about it is they give you the worst batteries possible.
+48	0	1	They only stay charged a little over an hour.
+49	0	1	Laptops are usually used on the go, so why not give you a better battery?
+50	0	1	The only thing is that the battery won't last more than 1/2 an hour.
+51	0	1	It discharges too quickly.
+52	0	1	The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.
+53	0	0	Screen is awesome, battery life is good.
+54	0	1	The battery life is probably an hour at best.
+55	0	1	Also, the battery does not last very long at all.
+56	0	0	It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.
+57	0	0	very convenient when you travel and the battery life is excellent...
+58	0	0	10 hours of battery life is really something else....
+59	0	1	They gave me a hard time yet again, but their was a malfunction in the battery itself, it didn't die.
+60	0	0	Great battery, speed, display.
+61	0	1	The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.
+62	0	0	It gives me everything I need from a computer and with the long lasting battery, it also gives me mobility.
+63	0	1	Battery could be better but it has robust processor and plenty of RAM so that is a trade off I suppose.
+64	0	0	awesome price for a laptop that lasts more than 8 hours without recharging!
+65	0	0	The battery will get you from LA to NY no problem.
+66	0	0	The battery life is good, even with using high profile software like Sibelius 7 for a good half of the day.
+67	0	0	Battery life is astonishing given the processing power and high resolution display.
+68	0	0	I can easily get 10 hours out of a full charge.
+69	0	1	The battery life is a joke and it's causing other problems.
+70	0	0	This things run smoothly for its price, and the battery life seems to go on forever.
+71	0	1	Battery doesn't last long web browsing (2.5 hours maybe).
+72	0	0	Internet is fast and reliable, battery life lasts a long time.
+73	0	0	The battery is pretty soild.
+74	0	0	It lasts up to 5-6 hours with normal use.
+75	0	0	The battery seems adequate for most uses ~ 4.5 hour use/charge.
+76	0	0	Good battery life as well.
+77	0	0	Its fast, powerful, screen display is top notch and the battery life is excellent for a laptop of this size.
+78	0	0	Battery life is above average, and it charges quickly.
+79	0	0	The PC is works well with a good battery and a power cable, and has a web cam.
+80	0	1	But now I am having battery problems.
+81	0	0	Great battery life.
+82	0	0	Good battery life.
+83	0	0	Battery life is great - though it is new.
+84	0	0	Even the battery life is like WOW!
+85	0	0	It contains a long battery life, incredible specs, and an overall enjoyable performance.
+86	0	0	I'm not sure if it was covered in the description, but it does have a backlit keyboard and I'm getting about an 8 hour battery life on one charge (Except I don't use this for games or videos, which obviously would drain the battery faster).
+87	0	0	Battery Life- My battery life is really good with this laptop and I have had no problems with it thus far.
+88	0	0	I can usually go about 10 hours before I get down to 10% battery life.
+89	0	0	It's also incredibly light, has a battery that can last for days, and looks like a piece of art.
+90	0	0	It's light, fast and has great battery!!
+91	0	0	The battery life has increased from the last version from 4 hours to 7 hours, making it easy for college students to study for extended periods of time without needing a charger.
+92	0	0	o It has an extended battery life.
+93	0	1	Battery doesn't hold up to what it said in the description but I got it refurb'd and I imagine they swapped out the battery to help cover the costs on the reduced price (Just a guess).
+94	0	0	The batter lasts as long as claimed.
+95	0	0	I get about 5 or so hours playing the sims.
+96	0	0	I haven't really officially tested it yet, but it's a long time.
+97	0	0	I hate plugging my laptop in because I don't want to leave it on too long and hurt the battery, but with this laptop I rarely have to charge it.
+98	0	0	What it does have is great reliability on the software side and hardware side, Apple's OSX Mountain Lion, the sleek looks Apple always delivers, reasonable specs, good battery life, nice keyboard, and excellent trackpad.
+99	0	1	Other than that battery issue and the battery life does not last too long, I'm pretty happy with the computer.
+100	0	1	After a couple of years, my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery.

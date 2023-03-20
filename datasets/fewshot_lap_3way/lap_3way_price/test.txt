@@ -1,0 +1,158 @@
+0	3	0	and its really cheap and you wont regret buying it.
+1	3	0	I bought it for really cheap also and it's AMAZING.
+2	3	1	It's more expensive but well worth it in the long run.
+3	3	2	I'm glad I bought this laptop, it was worth the few ($100) extra dollars.
+4	3	0	It is easy to use, good quality and good price.
+5	3	1	High price tag, however.
+6	3	0	Like the price and operation.
+7	3	1	I spent alot of money on this product and its been a nightmare.
+8	3	1	A little pricey but it is well, well worth it.
+9	3	0	Was very much worth the price i paid.
+10	3	0	Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.
+11	3	0	Am very glad I bought it, great netbook, low price.
+12	3	0	Great pick for portability and affordability.
+13	3	0	If you need an affordable, entry-level laptop, this will fit the bill.
+14	3	2	Peformance is good for the price.
+15	3	2	Great Laptop for the price, works well with action pack games.
+16	3	2	A cheaper price should not equal a "cheap" product.
+17	3	0	The price was very good, and the product is top quality.
+18	3	0	True quality at a great price!
+19	3	2	This is a great little computer for the price.
+20	3	0	Price and purpose is awesome!
+21	3	0	It's a great product for a great price!
+22	3	1	I wasn't really sure I wanted to spend that kind of money!
+23	3	0	It Was a great deal after all.
+24	3	0	It's priced very reasonable and works very well right out of the box.
+25	3	0	Money and time well spent!
+26	3	0	The 13" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.
+27	3	0	This is definitely a computer worth the money;
+28	3	0	The best thing about this laptop is the price along with some of the newer features.
+29	3	2	Great, quick laptop for the money.
+30	3	2	Satisfy what I paid for it.
+31	3	0	I bought this laptop because of the performance to price ratio.
+32	3	2	Overall for the money this is a good deal.
+33	3	2	Its a good laptop for its value.
+34	3	2	I'm really impressed with the quality and performance for the price of the computer.
+35	3	1	I really like the Mac 15.4in. Notebook, but its very pricey.
+36	3	1	But, like I said before, the only reason I don't currently have a Mac laptop is because all of their laptops are too pricey.
+37	3	2	Waiting for the i7 was well worth it, great value for the price.
+38	3	0	The price is another driving influence that made me purchase this laptop.
+39	3	0	I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.
+40	3	0	It is well worth the money it cost, Very good investment.
+41	3	2	This is a great value for the money.
+42	3	0	Overall though, for the money spent it's a great deal.
+43	3	2	Excellent product for the money.
+44	3	2	Not super fancy, but not super expensive either.
+45	3	0	I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.
+46	3	0	Good price.
+47	3	0	Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.
+48	3	0	LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!
+49	3	0	WOULD PAY MORE FOR IT IF I HAD TOO!
+50	3	0	was a great deal i will give that.
+51	3	2	For the price and what I get out of it has exceeded my expectations.
+52	3	0	I finally decided on this laptop because it was the right price for what I need it.
+53	3	0	This laptop is a great price and has a sleek look.
+54	3	0	The price and features more than met my needs.
+55	3	0	sounds like a typewriter, but if you can get past that, this is a great laptop for a little money!
+56	3	2	Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!
+57	3	2	Good laptop for the money.
+58	3	2	I am very happy I bought this Mac, well worth the extra money.
+59	3	2	I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!
+60	3	0	All for such a great price.
+61	3	2	The Toshiba Satellite has been more than I expected for the price.
+62	3	1	I spent 2200 dollars on a "top of the line laptop".
+63	3	1	1) Payed $2200 for a "premium" laptop
+64	3	1	i spent eight hundred dollars from a giant paper weight that looks good on a bus.
+65	3	1	I paid about 18000 for this laptop because of all the bells and whistles and it kept crapping out on me.
+66	3	1	My laptop cost approximately $2,300 and DIED after only 2-years, 10-months and 18-days of use.
+67	3	0	Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.
+68	3	1	Mine came at $1,700 w/o a DVD burner (!).
+69	3	0	The only pro to this computer is it was under $600!
+70	3	0	I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar.
+71	3	2	It's super fast and a great value for the price!
+72	3	0	Average performance on almost every benchmark but priced accordingly.
+73	3	2	A good value for the money.
+74	3	2	The laptop itself is very good, it could be better, but not bad at all for it's price point.
+75	3	2	Fantastic for the price - just wish it the keys were illuminated.
+76	3	0	awesome price for a laptop that lasts more than 8 hours without recharging!
+77	3	1	It's not what you pay for.
+78	3	0	great price.
+79	3	0	Otherwise this is a great computer great prices.
+80	3	0	Good product for a good price.
+81	3	0	Great price and computer!
+82	3	0	Pretty premium feel for the low price.
+83	3	0	It's a good starter computer that is extremely light on the wallet.
+84	3	0	Can not believe the price!
+85	3	0	it is a great value for what you get.
+86	3	0	IT IS VERY LIGHT AND THE PICTURE IS NICE  AND THE PRICE WAS AMAZING.
+87	3	2	for the price this is a super product out of the box.
+88	3	0	It wont wow you with its speed but who can complain at $249.
+89	3	0	Does what I need it to do and the price was right!
+90	3	0	Overall, a high quality laptop and a great value considering all this computer has to offer.
+91	3	2	Well worth the extra cost.
+92	3	0	Excellent performance, especially given its price point.
+93	3	0	I appreciate the effort to hit affordable pricing Dell but just not worth it.
+94	3	0	For $250, I highly recommend!!
+95	3	0	GREAT value laptop!
+96	3	0	I can't believe this was just $250
+97	3	2	This things run smoothly for its price, and the battery life seems to go on forever.
+98	3	0	All in all, it's well worth its price tag.
+99	3	2	Great laptop for the price.
+100	3	0	D) was under $300 with shipping.
+101	3	2	It works fine for a PC in this price range.
+102	3	2	Terrific value for the money.
+103	3	0	A good value on a quality product.
+104	3	2	Not bad for the price.
+105	3	0	I needed an inexpensive laptop to do basic office work on that was lightweight and this fits the bill just fine.
+106	3	0	I AM IMPRESSED WITH THIS COMPUTER, INEXPENSIVE BUT QUALITY.
+107	3	0	It is exactly what I expected, and the price is excellent!
+108	3	0	You are getting what you pay for and in my opinion, it is worth more.
+109	3	2	But for the price its good.
+110	3	2	Very good performer for the price.
+111	3	1	7.Expensive.
+112	3	1	Paid close to $2800 out the door.
+113	3	2	It's truly a great laptop for the price.
+114	3	0	For $250, which is as much as my graphics card alone cost, this laptop is an incredible value.
+115	3	0	Very good price.
+116	3	2	I purchased a  Dell Inspiron I3531-1200BK and so far I love it, this model has a true life monitor, which is worth the extra bucks.
+117	3	0	I was surprised  at  the overall quality and the price
+118	3	2	This is a complete waste of money, dont let the price fool you!
+119	3	0	If they can fix this, I think it would be a very nice, cost-effective laptop.
+120	3	2	Although it was slow but I felt it was ok for the price you have bought it.
+121	3	1	Expensive but worth it.
+122	3	1	I could go on and on, but suffice it to say, if you want to spend $400+ on a laptop, don't buy this one!
+123	3	1	It's definitely not worth the money.
+124	3	0	Price makes this the laptop I was looking for.
+125	3	0	The price was good.
+126	3	0	This is a great bargain.
+127	3	0	The computer is as expected, and worth the money.
+128	3	0	The price is great and it does everything I want to do,  Thanks.
+129	3	0	Meh...but cheap.
+130	3	0	Price is great, wish it didn't have Windows 8, but that is an opinion.
+131	3	0	Love the price too!
+132	3	0	Everything at a very great price.
+133	3	0	Excellent value and a must buy for someone looking for a Macbook.
+134	3	0	You can't get any better than this price and it come with an internal disk drive.
+135	3	0	Got this on black friday with a very good discount and couldn't be happier.
+136	3	2	Overall, a solid laptop for its price.
+137	3	2	for the price that i paid i feel that i got good value.
+138	3	0	And with this price, I don't think you can buy anything better.
+139	3	1	It seemed like a great computer and a great deal.
+140	3	1	Even though MacBooks are expensive, you will see that they are well worth the money.
+141	3	1	While the price may seem high, it is worth every penny with its many perks.
+142	3	2	Though, that's pretty much what your paying for -- a well designed device.
+143	3	0	-  With that being said, for the price ($800!), you get a nice fast laptop, but if you ask me, it's missing some things that I feel should be automatically included:
+144	3	0	It's a steal when considering the specs and performance as well.
+145	3	0	By the way...I paid for this particular laptop roughly 2 grand...LOOK AT THE PRICE NOW!
+146	3	1	Only thing I dislike is that everything for Mac is expensive but I guess you pay for quality!
+147	3	0	It is the cheapest product in the line of MacBook's
+148	3	0	Battery doesn't hold up to what it said in the description but I got it refurb'd and I imagine they swapped out the battery to help cover the costs on the reduced price (Just a guess).
+149	3	1	I would run back to computer store and return this expensive toy.
+150	3	1	Those looking for a bargain laptop will shy away from the enormous price tag, and those who want to play the latest games do not ever use Macs.
+151	3	1	This, added with the fact that the speed of the hard drive is very slow for the money, detracts from the computer's value.
+152	3	1	Lowering the price by one hundred dollars would justify the hard drive and screen and make the computer a five-star purchase, but for the price, this is a four star (good) computer.
+153	3	1	You get what you pay for, right?
+154	3	1	Now that they are not virus free ([...]l) I see absolutely no benefit to Apple products as they are slower, more expensive, and do not last as long.
+155	3	0	I gave this product 5 stars because I have been looking for a MacBook Pro for a long time and I found it here for a wonderful price.
+156	3	1	If the price doesn't deter you, you'll find it well worth it in terms of trouble-free operation.
+157	3	2	I purchased my Macbook Pro Retina from my school since I had a student discount, but I would gladly purchase it from Amazon for full price again if I had too.

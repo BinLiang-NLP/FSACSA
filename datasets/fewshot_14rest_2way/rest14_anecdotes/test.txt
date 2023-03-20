@@ -1,0 +1,907 @@
+0	1	1	To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.
+1	1	0	For those that go once and don't enjoy it, all I can say is that they just don't get it.
+2	1	0	I would definitely recommend Mary's and am making it one of my regular neighborhood haunts.
+3	1	0	My Girlfriend and I stumbled onto this hopping place the other night and had a great time!
+4	1	1	We were very disappointed.
+5	1	0	IT IS DEFINITELY SPECIAL AND AFFORDABLE.
+6	1	0	I really liked this place.
+7	1	0	I will be going back very soon.
+8	1	1	Will not be back.
+9	1	0	Faan's got a great concept but a little rough on the delivery.
+10	1	0	Look foward to trying the Ruben upon returning.
+11	1	0	You'll adore it.
+12	1	1	I have been to Roth's twice and both times were very disappointing.
+13	1	0	Worth visiting the 1st Ave spot because it is the original store.
+14	1	0	I highly recommend the Sophia pizza.
+15	1	0	This is a consistently great place to dine for lunch or dinner.
+16	1	0	All the people that I bring there go back on their own and bring THEIR friends!
+17	1	0	After really enjoying ourselves at the bar we sat down at a table and had dinner.
+18	1	1	Not what I wanted to hear.
+19	1	0	Pricey, but worth a try, at least once.
+20	1	1	I've been there a few times, and I usually end up sitting next to some pretty odd people.
+21	1	0	Can't wait to go back.
+22	1	0	If you are a carnivore, come hungry and you will leave more satisfied than you have ever been.
+23	1	0	Great bagels, spreads and a good place to hang out in.
+24	1	0	We happened upon this place purely by accident and were pleased with the results.
+25	1	1	Unfortunately, the food is outstanding, but everything else about this restaurant is the pits.
+26	1	0	Deff recimmend Bukhara they also have opened two new locations guess ill try them out.
+27	1	0	Sapphire is the only Indian restaurant I go to when I'm in NYC.
+28	1	0	I heartily recommend.
+29	1	0	Heartland Brewery is by far one of the best places in NYC to make new friends and catch up with old ones.
+30	1	0	This place, which is only a few months old, is perhaps Queens' biggest secret!
+31	1	0	This place is so much fun.
+32	1	0	I was glad I did.
+33	1	0	I'll be back soon.
+34	1	0	Went inside and I started to get excited.
+35	1	0	However, it is jus too good to not praise it.
+36	1	0	We have been to Montparnasse many times and return often for good reason.
+37	1	1	The strong scents coming from the left and right of me negatively affected my taste buds.
+38	1	0	It's somewhere you can eat and be happy.
+39	1	0	If you wrote a bad review, it's because you don't understand what Rao's is all about.
+40	1	0	but overall i give it a 10
+41	1	0	This was one of the BEST restaurants I've ever been to.
+42	1	1	This restaurant used to be pretty decent.
+43	1	0	Overall A oh ya even though there is waiting it is deff worth it
+44	1	0	VT is what baby pizzas hope to be when they grow up.
+45	1	1	The last time I went we were seated at a table in a corridor next to the kitchen.
+46	1	0	The entire dining experience was wonderful!
+47	1	0	The wine selection (by the glass and bottle) is wonderful and I always recommend that friends make a reservation if they're going to be in town.
+48	1	0	What more can you ask for?
+49	1	1	I've never felt more unwelcome than last month at Jimmy's Bronx Cafe.
+50	1	0	I look forward to eating here again
+51	1	1	My entire family was horrified.
+52	1	0	This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.
+53	1	0	I have NEVER been disappointed in the Red Eye.
+54	1	1	This should have been done in a back room - away from customers.
+55	1	0	Service could be improved but overall this is a place that understands the importance of little things (the heavy, black, antique-seeming teapot, for one) in the restaurant experience.
+56	1	0	Check it out
+57	1	1	Don't go.
+58	1	0	I am completely hooked on this place, it is ridiculous.
+59	1	1	Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.
+60	1	0	Have recommended the place to friends, always gets good response.
+61	1	0	We will return many times for this oasis in mid-town.
+62	1	0	Enjoy!
+63	1	0	This is one of my favorite restaurants and it is not to be missed.
+64	1	1	It could have been handled better.
+65	1	0	Nice Family owned traditional restaurant.
+66	1	0	We were very pleasantly surprised.
+67	1	1	I will never visit this restaurant again.
+68	1	1	Don't go there!
+69	1	1	Good luck getting a table.
+70	1	1	Don't look down your nose at me like that...
+71	1	0	Planet Thai is great!
+72	1	1	Just don't do it.
+73	1	1	Just ignore the trendy wannabes.
+74	1	0	I wish they had one near my office- I would go everyday.
+75	1	0	Finally!
+76	1	0	You will not be disapointed at all.
+77	1	1	Walk-ins are risky too.
+78	1	0	I recently went to this restaurant with some co-workers for lunch and had an amazing time.
+79	1	0	Open late (well as late as I ever got there and I'm a night person)
+80	1	0	Get your food to go, find a bench, and kick back with a plate of dumplings.
+81	1	1	We were still sitting at the bar while we drank the sangria, but facing away from the bar when we turned back around, the $2 was gone the people next to us said the bartender took it.
+82	1	1	Something about them being busy with holiday party's.
+83	1	0	I would highly recommend.
+84	1	0	This place is great.
+85	1	0	With so many poor experiences to be had in the theater district, is truly an excellent find!
+86	1	1	This has got to be one of the most overrated restaurants in Brooklyn.
+87	1	1	Went there last night for 2 year anniversery, and wasn't all that impressed.
+88	1	0	Suan was a recommendation that I am glad we heeded.
+89	1	1	However, it's not worth a special trip.
+90	1	0	Gigino's in Wagner Park is so enjoyable.
+91	1	0	This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.
+92	1	1	If that's a problem, go to McDonald's and destroy your insides.
+93	1	0	I've been here 3 times for lunch and it is one of my favorites in the city.
+94	1	0	Sexy.
+95	1	0	I will have to say, this Bengali Fast Food joint is clearly my favorite.
+96	1	0	overall, a solid restaurant and at less than $40pp (including wine), a solid deal as well.
+97	1	0	Even with John's and Joe's around the corner, this place will make a name for itself.
+98	1	0	Don't judge this place prima facie, you have to try it to believe it, a home away from home for the literate heart.
+99	1	0	I think that it is absolutely brilliant and well runned business operation.
+100	1	1	You order from a menu, so you leave feeling like you missed the full experience.
+101	1	0	One of the more authentic Shanghainese restaurants in the US definitely the best in Manhattan Chinatown.
+102	1	0	We will go back every time we are in the City.
+103	1	0	we love th pink pony.
+104	1	0	If you were there when it first opened, give this restaurant a second chance.
+105	1	0	yourself a favor and have dinner here and see if you dont agree with me.
+106	1	0	Definitely a great spot for a nice occasion or date.
+107	1	0	You can't go wrong with this place.
+108	1	0	Authentic bistro!
+109	1	0	One of the earlier people commenting on the restaurant did not get the that some experimenting is going on with the menu in a positive way.
+110	1	0	It's convenient.
+111	1	0	Thanks Bloom's for a lovely trip.
+112	1	1	When we stumbled on Leon, we thought that we had found quite the gem BUT, we were certainly wrong.
+113	1	1	Instead of wasting your time here: SUPPORT RESTAURANTS THAT CARE ABOUT FOOD.
+114	1	0	Go here.
+115	1	0	If you are in the area try The Bagel Shoppe on 74th street which is 3 blocks away on 2nd Ave.
+116	1	0	Rosario's is without a doubt one of the greatest pizzerias in existence.
+117	1	0	What a great place.
+118	1	1	Don't eat here unless you're starving for thai food and you work next door.
+119	1	0	This tiny Williamsburg spot is always pleasantly surprising.
+120	1	1	You could get a much better dining experience for the same amount of money in a lot of other French Bistros.
+121	1	0	Surprisingly nothing could be further from the truth.
+122	1	0	It's better than being on the roof of Sutton Place with 19 year old interns jabbing you in the ribs all night.
+123	1	0	Its a great place for a casual date or to entertain clients for lunch.
+124	1	0	Fantastic place.
+125	1	0	Definitely not a restaurant to skip!
+126	1	0	Threw my fiance's surprise 30th birthday dinner here couldn't be happier.
+127	1	0	I've lived in NY for 5 years and this place has it all.
+128	1	0	It hits the spot every time
+129	1	1	Don't be fooled by crowds of people.
+130	1	1	This is my fourth try over a two year period, and I'm done.
+131	1	0	It's simply the best meal in NYC.
+132	1	1	Probably would not go again...
+133	1	0	Tuk Tuk is my second favorite neighborhood Thai place (the first being Joya).
+134	1	0	Also good for client lunch meetings, esp.
+135	1	1	IT WAS HORRIBLE.
+136	1	0	The New York Times has reviewed this place three times already, you know it's going to be good.
+137	1	1	I came to this restaurant expecting to be surprised but left bored and overcharged.
+138	1	0	by dinner time, they turn it around and mount a huge comeback!!
+139	1	0	I plan to come here again and look forward to trying their assortment of bruschetta, panini's.....
+140	1	1	Maybe it was just an unintentional mistake but I've experienced the same with other restaurants so I don't appreciate such practice.
+141	1	0	I'm going back.
+142	1	0	wow! how have i missed this one ,tried Long Tan last week for the first time and now know what the NY TIMES and many more in the neighborhood already knew.
+143	1	0	Go there on an empty stomach and leave feeling like a baby Veal Calf(ok bad joke), but you will see.
+144	1	0	Me and my girls will definitely go back.
+145	1	0	Have been several times and it never dissapoints.
+146	1	0	Would recommend this place as a good date spot if you don't want to drop a ton of cash.
+147	1	1	This place was not ALL THAT!
+148	1	0	My friend from Milan and myself were pleasantly surprised when we arrived and everyone spoke italian.
+149	1	0	I have been to Mary's many times and I like it.
+150	1	1	Searching to get out from the cold, freezing weather, we went into what we thought was a deli.
+151	1	0	HIGHLY RECOMMENDED!!!!!
+152	1	0	This is the best thing in Soho.
+153	1	0	Went here last night and had a pleasant experience.
+154	1	0	We parked on the block of Nina's the place looked nice, with people obviously enjoying their pizzas.
+155	1	1	While the $20 entree range is not overly expensive, in New York City, there is definitely better food in that range, and so Sapphire, despite it's lovely atmosphere, will most likely not be a restaurant to which I will return.
+156	1	1	It's definately not a place to go if you want to impress someone.
+157	1	0	Wonderful at holiday time.
+158	1	0	The place is a lot of fun.
+159	1	0	This is a great Thai restaurant with a very friendly staff.
+160	1	0	Have eaten at Ginger House several times, and it's always good.
+161	1	0	As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place.
+162	1	0	To give you an idea of how good we thought it was, we ended up going to Ping's three weekends in a row!!!
+163	1	0	This was a repeat visit and we'll definitely be back again.
+164	1	0	Good for casual dinner with jeans and sneakers.
+165	1	0	Love YUKA.
+166	1	0	Go, go, hurry, before everyone finds out about it.
+167	1	0	I am bringing my whole family back next time.
+168	1	0	A guaranteeed delight!
+169	1	0	Overall I would recommend it and go back again.
+170	1	1	Anyway, this is the last time I cross the williamsburg.
+171	1	0	Don't leave without trying One Night in Tokyo.
+172	1	1	Save yourself the time and trouble and skip this one!
+173	1	0	This is my favorite Italian restaurant in all of New York City.
+174	1	0	A great choice at any cost and a great deal.
+175	1	0	Definately check it out!!!
+176	1	0	We will be back.
+177	1	0	It seems like this is a place the locals like and the people working here liked it too.
+178	1	0	I was a little leary about Mary's at first - it's small, crowded and you usually have to wait on line - but I'm glad I finally tried it.
+179	1	0	We were not dissappointed in the least bit by this little gem.
+180	1	0	I got enough reasons to keep coming back!!!
+181	1	0	You cannot go wrong with this place.
+182	1	0	It is the type of place to run into old friends and have a late, raucus dinner.
+183	1	0	Go inside and you won't want to leave.
+184	1	0	I loving bringing friends here - and I do so every chance I get.
+185	1	0	Every time in New York I make it a point to visit Restaurant Saul on Smith Street.
+186	1	0	My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
+187	1	0	I would go back tho.
+188	1	0	A pleasant surprise.
+189	1	0	Definitely a neighborhood favorite.
+190	1	0	OU MUST TRY THIS RESTAURANT.
+191	1	1	We left, never to return.
+192	1	1	No apologies during restaurant week.
+193	1	0	They also do a great job for restaurant week.
+194	1	0	We always go there on the weekends and leave extremely full and satisfied.
+195	1	1	i dont how this place is still running.
+196	1	1	Very excited to hear that short-term Chef Jason Narone has moved on, he truly was a low point of their Sterling track record.
+197	1	0	Excellent experience.
+198	1	0	Well worth the trip, close to City Hall and downtown subway stops.
+199	1	0	What more could you want?
+200	1	0	If you are the type of person who likes being scared and entertained, this is a great place to go and eat.
+201	1	0	All in all, I don't see how you can go wrong.
+202	1	0	I'm told that it is open 24hrs which is good.
+203	1	0	What a great place!
+204	1	1	Was surprisingly disappointed.
+205	1	0	Katz's has been a NYC original for over 100 years.
+206	1	0	Great find!!!
+207	1	0	If only they delivered, they'd make a mint!
+208	1	1	I was really disappointed ant wanted to tell everyone not to go eat or even take out food from there.
+209	1	0	In any event, this is a place I'll be sure to stop by again when I'm in this part of town.
+210	1	1	I definitely wouldn't go back.
+211	1	0	brick oven gallery is My pick for best pizza restaurant anywhere.
+212	1	0	A hearty two thumbs up!
+213	1	0	All pretty good.
+214	1	0	You can also special order any kind of dumpling,etc.
+215	1	0	you guys rock.
+216	1	1	Chance is a joke.
+217	1	0	I was pretty much full after our fondue appetizer.
+218	1	1	Tends to turn people away.
+219	1	0	I was turned on to this restaurant by a fellow foodie friend of mine, and have been going back regularly ever since.
+220	1	0	I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!
+221	1	1	If you live outside the neighborhood, don't bother!
+222	1	1	Been going here since it opened have seen the quality value decrease considerably.
+223	1	0	I never had anything I didn't like here.
+224	1	0	All in all, this midtown gem instantly became one of my favorite sushi restaurants in the city.
+225	1	1	I've been to Joya twice and I will never go again.
+226	1	1	So rushing us out was absolutely unnecessary!
+227	1	0	Great for large groups and celebrations - our SUPER HAPPY waiter was the entertainment of the evening.
+228	1	0	It is by far my favorite restaurant in Brooklyn.
+229	1	0	Love Pizza 33..
+230	1	0	I'm from England, and Haru's was the best I had in NYC.
+231	1	0	Less = More in their case.
+232	1	1	Ruby Foo's is a tourist trap.
+233	1	1	I've been here a couple of times and have not been impressed.
+234	1	0	I've been many time and have never been disappointed.
+235	1	0	My boyfriend and I recently had an early dinner at Artisanal and was satisfied with our experience.
+236	1	0	I absolutely Loved this place.
+237	1	0	I wish I lived there as I would eat at this place as often as possible!
+238	1	1	If you're in town, it's worth searching for another place.
+239	1	0	I have tried the various slice joints around the village but this is by far the best one.
+240	1	1	This restaurant is not worth the time, effort, or money to say the least.
+241	1	0	Keep up the good work guys!
+242	1	0	Hurley's is terrific!
+243	1	0	The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!
+244	1	0	My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary, and to our surprise it was fantastic.
+245	1	0	On a hot day it was fabulous to stop in and enjoy lunch.
+246	1	1	Wouldn't recomend it for dinner!
+247	1	0	Your friends will thank you for introducing them to this gem!
+248	1	0	I absolutely love this place!!!
+249	1	1	I am surprised to say the least and find such practice not worth the effort.
+250	1	1	No thanks!!!
+251	1	0	I would definently recommend this restaurant.
+252	1	0	I lOVE THIS PLACE!
+253	1	1	A big disappointment, all around.
+254	1	0	This is my first time writing a review for a restaurant because the food and service was excellent.
+255	1	1	Definitely Highly NOT recommended.
+256	1	0	go to any corned indian restaurant, and the little india strip along east 6 st rules supreme!
+257	1	0	Have frequented 'ino for several years and the food remains excellent.
+258	1	0	I pray it stays open forever.
+259	1	1	I have eaten at many pizza places around NYC and this is hands down the worst.
+260	1	0	Fantastic!
+261	1	0	HIGHLY RECOMMENDED for a first date.
+262	1	0	But people from Sichuan will die for it)  - Chongqing Hot Pot, chongqing was the biggest city of Sichuan, now became an independent province.
+263	1	0	I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.
+264	1	1	Anyone who ever dined at a thai restaurant is in for a huge disappointment.
+265	1	1	I was so sad to read the bad reviews this place got!
+266	1	0	Molto bene!
+267	1	0	They are amazing!
+268	1	1	Avoid this place!
+269	1	0	A must try!
+270	1	1	As much as I like the food there, I can't bring myself to go back.
+271	1	0	It is so easy to get a reservation at a top place in NYC with a week's notice.
+272	1	1	Based on a visit a month ago, I returned the week before Christmas and was hugely disappointed.
+273	1	0	I love Ess-a-bagel, but I live on the west side, so I often go to Murray's for convenience.
+274	1	0	We will definitely go back.
+275	1	0	I live in the neighborhood and my friends meet me down here not only for the bar scene but also the promise of The Pizza Place at 3am.
+276	1	0	And evaluated on those terms Pastis is simply wonderful.
+277	1	0	The production is a symphony, alot of fun to experience.The food sublime for the most part.
+278	1	1	I hate this.
+279	1	0	That place was awesome,,,  sally !
+280	1	0	Finally a reliable Chinese restaurant!
+281	1	0	However, it just so happens that there's an even more amazing place just down the street.
+282	1	0	I recommend ordering in on a weeknight.
+283	1	0	While it's not Nobu, it sure is a great deal and you definitely will leave feeling satisfied and full.
+284	1	1	So my husband made up an excuse so we can leave.
+285	1	1	I don't know who they think they are but they have no respect for the residents of the neighborhood ever since they opened their cabaret next door and blasts loud music till three in the morning every weekend during the summer.
+286	1	0	Eating at Ottimo is like eating in Chef Salvatore Esposito's home.
+287	1	0	Katz's deli is a great NY experience.
+288	1	0	Check it out.
+289	1	0	i would go again if i didn't have to pay.
+290	1	0	Alain Ducasse is the best of everything, I mean everything was excelent.I
+291	1	0	GO HERE.
+292	1	0	It has been my first choice ever since I discovered it .
+293	1	0	I loved it and will be back soon.
+294	1	0	JUST AWSOME.
+295	1	0	I will definetely go back again and again, that's for sure!!!
+296	1	0	This is one of our all-time favorite.
+297	1	1	this place is amazingly bad.
+298	1	0	Compared to other shabu restaurants around town, this places wins hands-down.
+299	1	1	I've been to several places for Dim Sum and this has got to be the WORST.
+300	1	0	I love this place.
+301	1	1	Dinner took almost 4 hours without any lag time.
+302	1	1	Made my dining experience uncomfortable.
+303	1	0	Will go back but only sate those homesick stomach cravings!
+304	1	0	Good French restaurant in an area devoid of decent restaurants unless you're into eating 4 pound pastrami sandwiches at Katz' Deli, or Mexican food which is supplied by capable restaurants.
+305	1	1	I was very disappointed with this restaurant.
+306	1	0	I'm glad I was introduced to this place and this is a rare gem in NY.
+307	1	1	Will never be back.
+308	1	0	I highly recommend it.
+309	1	0	My six year old loved it.
+310	1	0	I brought some buddies from CA and they loved it.
+311	1	1	If you are a vegetarian, this really isn't a good place to go.
+312	1	0	This quaint and romantic trattoria is at the top of my Manhattan restaurant list.
+313	1	0	I've been there three times and have always had wonderful experiences.
+314	1	1	This place must have cost the owners afortune to build.
+315	1	0	Go with a group of friends and you will have a great time.
+316	1	0	It's one of our favorite places to eat in NY.
+317	1	0	I'm from sichuan, this is the restaurant I recommend going.
+318	1	0	This lovely French-Asian fusion restaurant stands out amongst other great restaurants on Smith Street.
+319	1	0	But this place is a well-oiled machine so they know what they're doing.
+320	1	0	But I'd go back
+321	1	0	That said, I thought Scalini Fedeli was one of the best dining experiences I've EVER had.
+322	1	0	Everything about this restaurant was special.
+323	1	0	There are many Thai places in the city but so far Toons is #1.
+324	1	1	I don't think I would go again.
+325	1	1	I wish they would change back to what it was before.
+326	1	1	NO PIZZA 33 for me!
+327	1	1	Needless to say, I'm never going back and you should be wary too.
+328	1	0	An excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.
+329	1	0	Mermaid Inn is an overall good restaurant with really good seafood.
+330	1	0	This is definitely a place that provides the best experience, though, to both A-listers and people walking in off the street.
+331	1	1	first it took us a long time to find the place.
+332	1	0	We have tried every Thai restaurant between Atlantic Avenue and 4th Streets, and Joya is the best.
+333	1	0	I am a die hard peep lover.
+334	1	1	SEA has become so popular that they've let it go to their heads.
+335	1	0	Chennai Garden is my favorite Indian restaurant in the city.
+336	1	0	Oh yeah ever on the west side try there sister resturant Arties Cafe.
+337	1	0	(Besides that there should be more restaurants like it around the city).
+338	1	0	My roommate and I LOVE this place.
+339	1	1	Not worth it.
+340	1	1	Its also a bit of a hassle to get to without a car (I happen to live in Inwood).
+341	1	1	Don't waste your time, or money!!
+342	1	1	They don't concern much of customer's health, just want to make money.
+343	1	1	We just ate at Kai and were disapointed.
+344	1	0	This was a great surprise.
+345	1	0	It was wonderful.
+346	1	1	I just don't understand all the hype...
+347	1	1	I don't get it either.
+348	1	0	One of my favorite places in Manhattan.
+349	1	0	I would highly recommand requesting a table by the window.
+350	1	1	I for one will never patronize them again.
+351	1	0	I stumbled upon this great pizzeria as I explored my new neighborhood.
+352	1	0	So, again, give it a try.
+353	1	1	Stay far away from this place.
+354	1	0	We will come back!!!
+355	1	0	We'd go back again
+356	1	0	i'm surprised about some of the bad reviews posted here - i've been to tamarind about 5 or 6 times and always come away extremely satisfied and looking forward to returning.
+357	1	0	I've been to at Cafe Spice probably 5-8 times, it is probably still the best Indian restaurant around Union Square.
+358	1	0	Would recommend - perfect for those looking for a place close to grand central.
+359	1	1	Please save yourself the frustration.
+360	1	0	I was pleasantly suprised.
+361	1	1	Look elsewhere.
+362	1	1	I seriously doubt I will ever dine at Jimmy's Bronx, or for that matter, Jimmy's Uptown, again.
+363	1	0	Everyone I bring here always loves it.
+364	1	0	Worth a visit.
+365	1	1	A real dissapointment.
+366	1	0	On a recent Sunday afternoon, a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT.
+367	1	0	I will be going back and heartily recommend it!
+368	1	0	Would definitely visit again.
+369	1	0	Definitely worth the trip to Battery Park City!
+370	1	0	I went to pams with my girlfriend, and i love it.
+371	1	1	We had a most unpleasant experience at this restaurant.
+372	1	0	I love this place!
+373	1	1	it is not consistent.
+374	1	1	However, I was there for a work dinner not long ago when my colleague from London noticed a very large waterbug on the ceiling.
+375	1	0	I recommend it!
+376	1	0	I have taken practically every guest that has come to visit me in NY and hooked a few New Yorkers onto Peep as well.
+377	1	0	Even though I made the reservation at 3pm for the same night through Dinnerbroker, we were seated at a table with one of the best view!
+378	1	1	When we were finally seated our waitress came by twice-1 for our order and 2-for our check.
+379	1	0	Yeah, it's that good.
+380	1	0	I was in love with Pongsri on 48th, but compared to Suan it is slow in service and overpriced.
+381	1	0	My friends and I experienced amazing cheese and a delicious, new summer menu at Artisanal last night.
+382	1	0	I am so coming back here again, as much as I can.
+383	1	0	I have been going back again and again.
+384	1	0	Overall, excellent restaurant!
+385	1	1	When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.
+386	1	0	I ate here for the first time and absolutely loved it!
+387	1	0	This is by far my favorite place in the neighborhood.
+388	1	1	But too far east!
+389	1	0	Satisfying.
+390	1	0	Highly Highly Highly recommended!
+391	1	0	This place is greatly welcome in the desolate little strip between the Prospect Expressway and Greenwood Cemetery - a wasteland we like to call The Sliv.
+392	1	1	now if they could only get a toaster.
+393	1	0	You will find yourself returning quite often.
+394	1	1	Go only if you are already in the neighborhood and don't want to bother going farther for a better place.
+395	1	0	You cannot go wrong at the Red Eye Grill.
+396	1	1	It appears to be the owner's first venture and it shows.
+397	1	1	The worst excuse for Japanese food I've ever encountered.
+398	1	1	A million better places to go in the city.
+399	1	0	I love it.
+400	1	0	If you want something really different than try Jekyll and Hyde.
+401	1	1	We had reservations at 9pm, but was not seated until 10:15pm.
+402	1	1	Three strikes and this restaurant is out.
+403	1	0	We would return to this place again!
+404	1	0	We were worried we would have trouble getting in, but somehow managed to have a short wait.
+405	1	0	happy to be a regular at this place and would warmly recommend it to anyone.
+406	1	0	I've been eating at Taj Mahal for over twenty years and have found them to be the most excellent of the Indian eateries on this block of Indian restaurants.
+407	1	0	I highly recommend to anyone to give this place a try.
+408	1	0	I highly recommend visiting this restaurant and having dinner and drinks!
+409	1	1	Last memorial day, I tried to make reservations but was told they were closed that weekend (interesting, but...).
+410	1	1	It just wasn't Thai.
+411	1	0	I have enjoyed everything I have ever gotten and the fish is so fresh and always prepared in a great way.
+412	1	0	I love to visit Murrays for my bagel fix.
+413	1	0	Recommended.
+414	1	0	Go girls!!!
+415	1	0	I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.
+416	1	0	This is probably one of my new favorite places.
+417	1	1	For being number 1, this place has alot of work to do in order to truly earn its so called reputation.
+418	1	0	This restaurant is such a great place.
+419	1	0	I've been several times and am totally smitten.
+420	1	1	Terrible experience.
+421	1	0	I love the place.
+422	1	1	this one is definintely my least favorite.
+423	1	0	Everytime my husband and I go there, we are never disappointed.
+424	1	0	We were not disappointed.
+425	1	1	We arrived for dinner expecting to be impressed by a place that has an impressive past - but, that's just it -- the PAST!
+426	1	0	Never fails to please.
+427	1	0	Will absolutely visit again.
+428	1	0	I would highly recommend this place to anyone who is looking for a fine Indian dining experience that is definitely a value for your dollar.
+429	1	0	I consider the best Grand Sichuan restaurant in NYC.
+430	1	0	we spent 50 $$ definetly will come back with my friends!!!
+431	1	1	Would NEVER go back there.
+432	1	1	Your money could easily be better spent elsewhere (Anywhere).
+433	1	0	Seriously, this place kicks ass.
+434	1	0	I loved it and would HIGHLY RECOMMEND.
+435	1	0	THE BEST PLACE TO BRING KIDS OR ANY FRIENDS WHO WANT TO DO SOMETHING DIFFERENT.
+436	1	1	However, I do not understand the extraordinary hype about this restaurant.
+437	1	0	I will be returning.
+438	1	0	Nice place though.
+439	1	0	Warning: You may find it difficult to dine at other Japanese restaurants after a visit to Mizu!
+440	1	0	Shockingly easy to throw a group dinner here: simple contract, deposit only to hold the date the entire 2nd fl mezz for our grp of 20.
+441	1	1	But WARNING: to all those that use this site be weary, be very weary of recommendations.
+442	1	0	We had a great time at the Jekyll and hyde Pub last night.
+443	1	0	Try it side by side and there's no comparison.
+444	1	0	Buon appetito!
+445	1	0	If we were to move from the upper east side, we would genuinely miss this restaurant.
+446	1	0	I would highly recommend it.
+447	1	0	It's great to go for a quick lunch either alone or with a friend.
+448	1	0	LLOOVVE THIS PLACE.
+449	1	0	Finally, after all the raving I went to check it out with one of my enthusiastic friends this last Saturday night and let me tell you its all its cracked up to be.
+450	1	0	I love this place more and more everytime i go.
+451	1	0	I go and eat out at many different restaurants and this is one place you have go and try.
+452	1	0	Saul is the best restaurant on Smith Street and in Brooklyn.
+453	1	0	Good for dates or with friends.
+454	1	0	We had a good time.
+455	1	1	Horrible.
+456	1	0	Its worth the wait though.
+457	1	0	What an amazing meal and experience!
+458	1	0	and never strayed.
+459	1	1	This place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.
+460	1	0	Big thumbs up!
+461	1	0	I loved it.
+462	1	0	Tuk Tuk is one of the rare choices for me to go in Brooklyn.
+463	1	0	This quiet dark asian bistro is well worth the trip.
+464	1	0	I would highly recommend this place!
+465	1	0	Thank You Emilio.
+466	1	0	First of all Dal Bukhara Rocks.
+467	1	0	Off the beaten path, this jewel of a restaurant shines just one block away from the plethora of 6th street Indian restaurants.
+468	1	0	I would defiantly come back here again as one of my top choices.
+469	1	0	Worth the trip from Manhattan.
+470	1	0	I loved everythig about it-especially the shows and actors.
+471	1	1	The food was just OK, I would never go back.
+472	1	0	I can't wait for the nex time.
+473	1	0	Great neighborhood joint.
+474	1	0	I take all my NYC guests to VT's.
+475	1	1	Even with the prix fixe pricing, this restaurant is not worth it.
+476	1	0	Good to find a restaurant where the owners have some imagination and they have actually pulled it off, like in this case.
+477	1	0	However, their popularity has yet to slow down, and I still find myself drawn to their ambiance and delectable reputation.
+478	1	0	I have been in many restaurants all over the city and Roth's Steakhouse has quickly become one of my favorites.
+479	1	0	I LOVED THE SHOWS.
+480	1	0	My wife and I ate here earlier this week and have not stopped ranting and raving about the food.
+481	1	0	Give it a try and enjoy.
+482	1	1	The only thing I could get attention from was one of at least two cats running around that kept batting at my table.
+483	1	0	if your into thai..you cannot miss this great restaurant.
+484	1	0	Going to Ballato's is like coming home and eating in my own kitchen, an absolute delight!
+485	1	0	I think this is one of the more underrated places in the city.
+486	1	0	for out-of-towners who will get a big thrill out of the location!
+487	1	0	Everyone that has ever come here with me has become a convert and returned regularly with their own friends.
+488	1	0	I go at least 3 times a month and have never been disappointed.
+489	1	0	I have had so many dinners here and it's always been perfect - on a date with my husband, with my mom, with girlfriends and larger groups.
+490	1	1	I actually gave Patroon another chance before writing this, but the second visit was even worse.
+491	1	0	Unbelievable.
+492	1	0	A little pricey but it really hits the spot on a Sunday morning!
+493	1	0	As soon as I wake up on a saturday or sunday it is the first thing on my mind is when and how I will be getting to fried dumpling.
+494	1	0	The staff isn't the friendliest or most competent, and I am stickler for service, but everything else about this place makes up for it.
+495	1	0	My wife and I will usually only order one primi and one secondi and split them, as they tend to offer large portions.
+496	1	1	This restaurant was way overhyped.
+497	1	1	I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.
+498	1	0	Now at the top of our list, Del Frisco's Steakhouse.
+499	1	0	I cannot imagine you not rushing out to eat there.
+500	1	1	This was the worst dining experience I've ever had.
+501	1	0	I thought I had died and gone to heaven.
+502	1	1	Every waitress and customer who passed by me bumped into my chair.
+503	1	0	I have been going there since it opened and I can't get enough.
+504	1	0	In fact, you can't miss it.
+505	1	0	I recently tried Suan and I thought that it was great.
+506	1	1	I don't get it, what's so special about Prune ?
+507	1	0	I'd definitely recommend this little place.
+508	1	0	Again, if you are in this neighborhood - by all means, come here.
+509	1	0	Do yourself a favor and walk the extra avenue from joe's to eat here.
+510	1	0	I have eaten at Shabu Tatsu at least 5 times and I always want to go back for more!
+511	1	1	Get it together.
+512	1	0	The eggplant parmesan is also great, and my friend who grew up in Manhattan claims that no one serves a better baked ziti with meatsauce.
+513	1	0	In such a crappy part of town to find a good value for lunch, this place is great.
+514	1	1	In fact, while leaving the place we saw two people looking at the menu, and I couldn't help telling them that the food was horrible.
+515	1	1	If you want Americanized Chinese food with your usual watery, generic white sauce, this is your place.
+516	1	0	A word to the wise - the Hoboken health inspector clued me to his findings that this is THE cleanest restaurant in town.
+517	1	0	I must give it Yon out of Yon stars!
+518	1	1	The only possible drawback to this last point is that as of the date of this posting, the additional menu items are only written in Chinese.
+519	1	0	Enjoy!!!
+520	1	0	Kudos to Po!
+521	1	1	Never again!
+522	1	1	For Park avenue I expected so much more.
+523	1	1	So rude.
+524	1	1	There are much better places in NY with better prices.
+525	1	0	Everything is delicious, though, my gf and I come here once a week sometimes- you will get addicted!
+526	1	0	Still, try it once, since if you end up loving the food, it could be one of your best dining experiences.
+527	1	0	Overall, the ingredients and technique are there and I am encouraged enough to return at lunch or dinner to see whether the boldness of the flavour palette improves.
+528	1	0	I thanked my friend who recommended me this restaurant and will certainly recommend it to others.
+529	1	0	I plan on stopping by next week as well.
+530	1	0	As a retired hipster, I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city.
+531	1	0	We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food.
+532	1	0	Highly recommended to all!
+533	1	0	highly recommended.
+534	1	1	Unless you are eating in the Pizzeria side of this place, and are not in a rush, this place is a bad idea.
+535	1	0	It will be on my to do list the next visit to NYC.
+536	1	0	I was pleasantly surprised to find this gem in Hoboken.
+537	1	1	If I wanted to deal with a crappy scene and annoying customers I'd go out in Manhattan.
+538	1	0	This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!
+539	1	0	This is a fun restaurant to go to.
+540	1	0	Bravissimo !!
+541	1	0	Once they ran out of Gnochi and made it for me from scratch!
+542	1	0	We would like to thank Marcelo and Grace for a wonderful dining experience!!!
+543	1	0	Found service above average, but that could be because we were 13 of us.
+544	1	0	When I arrived at Orsay I was thrown back, in a veyr good sense.
+545	1	0	It's to die for!
+546	1	1	Overall a disappointing experience for that price category.
+547	1	0	You will be satisfied.
+548	1	0	Another great place to take out-of-towners!
+549	1	1	We were less than impressed.
+550	1	1	A Thai restaurant out of rice during dinner?
+551	1	1	but still my date was bad
+552	1	0	Would definitely go back again.
+553	1	0	I have been to Rao's probably 15 times the past 3 years and it keeps getting better.
+554	1	0	Overall a worthwhile experience.
+555	1	0	THE MOST FUN RESTAURANT I HAVE EVER BEEN TOO!
+556	1	0	I had a great experience.
+557	1	0	I recommend this place to everyone who asks me where to go for a good meal.
+558	1	0	Having been a long time Ess-a-Bagel fan, I was surpised to find myself return time and time again to Murray's.
+559	1	0	Go for it!
+560	1	0	Highly recommended.
+561	1	0	You can certainly find restaurants that offer a superior fine dining experience, but for superb food at reasonable prices, La Villa can't be beat.
+562	1	0	I would recommend Roxy's for that, but not for their food.
+563	1	0	Overall I was impressed and will return, it's a great QPR (Quality to Price Ratio).
+564	1	0	Our son loves pizza and we have a certified Neapolitan pizzaria in our home city (Seattle), we liked this nearly as much - and the differences were more about personal preference than any reflection on either restaurant.
+565	1	0	Suan is a great place that I often take my friends (classmates) too.
+566	1	1	Not a great place for family or general dining.
+567	1	1	I was wrong.
+568	1	1	No plans to return anytime soon.
+569	1	0	I would highly recommend this place to anyone looking for a casual atmosphere that whisks you away to the left bank of the river Seine.
+570	1	1	I just do not understand what the fuss is all about.
+571	1	0	We liked it so much, that we will always make it a point to dine here when we visit New York.
+572	1	1	For an untrendy rip-off- eat here.
+573	1	0	I can't wait to go back.
+574	1	1	I HATE HATE HATE this place.
+575	1	0	We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.
+576	1	0	Wonderful!
+577	1	0	Go hungry and enjoy.
+578	1	0	This place is worth an one-hour drive.
+579	1	0	All I can say is WOW!
+580	1	0	So all I'm trying to say is this restaurant is by far the best thai food restaurant I've ever been to.
+581	1	1	We actually left hungry and went across the street to Wo Hop at 15 Mott street for some good chinese food.
+582	1	1	The catch is that you are charged extra for ANYTHING that you leave on your plate so don't be a greedy pig!
+583	1	1	wont come back again for sure!
+584	1	1	After being told that our party of three would be seated in 10 minutes and watching other parties (multiples of 2 and higher) seated for 40 minutes, the three of us were squished into a small 2-person table.
+585	1	0	Bon appettite!!
+586	1	0	La Rosa waltzes in, and I think they are doing it the best.
+587	1	0	A great addition to Smith Street: finally, a place that's not pretentious and filled with women wearing Ugg boots.
+588	1	1	We spent $200 in this place and left hungry and very disappointed.
+589	1	0	It is simply amazing.
+590	1	1	I liked this place the first time but doubt I will ever return.
+591	1	1	Skip this restaurant, it's a big disappointment.
+592	1	0	This restaurant is a wonderful place to go many times and it is reasonably priced.
+593	1	0	Bravo, Blue Hill!
+594	1	0	Conveniently located too, being right on Bedford ave.
+595	1	1	This place is to be avoided.
+596	1	1	My sister says it reminds her of a restaurant run by high-school students who don't know what they are doing.
+597	1	0	I will definetly be going back.
+598	1	0	I'm saving up for my next visit.
+599	1	1	Amma is nothing special.
+600	1	0	Worth it for a special occasion, or any time!
+601	1	0	I recommend to anyone who wants to dress up and impress the lady.
+602	1	0	Definitely a once a year treat that I look forward to around the holidays!
+603	1	0	A defitely must visit.
+604	1	0	great experience overall.
+605	1	1	I was here a few weeks back and we had the worst customer service experience at a restaurant ever.
+606	1	0	Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!
+607	1	1	Took my mom for Mother's Day, and the maitre d' was pretty rude.
+608	1	0	20 minutes for our reservation but it gave us time to have a few cocktails and enjoy our surroundings and each other.
+609	1	0	I live in the neightborhood and am a regular.
+610	1	0	IT IS WHAT MODERN CUISINE IS ALL ABOUT.
+611	1	0	In any event, even though its a bit on the pricey side, we still love this restaurant and will definitely go back.
+612	1	0	I definitely will go back.
+613	1	0	I've never been disappointed.
+614	1	0	My boyfriend and I have been to The Minnow four times now and we have consistently been impressed.
+615	1	0	I found this restaurant to be one that truly values its patrons.
+616	1	0	For some reason the place was empty when we got in and remained so for the entire evening, I don't understand why but we had a blast and will definately go back the next time we are in the area.
+617	1	0	Beautiful experience.
+618	1	0	If you can handle that, it's a great place for a business dinner, fun with friends or simply a table for 2.
+619	1	0	When my husband and go there, we spend $60.00 (have LOBSTER TAILS UMMMMM need I say more) I can't say any more, it a place you'll never forget If you never go, you'll miss A Meal of your life time
+620	1	1	The neighborhood was nice though so check out another restaurant instead.
+621	1	0	If you are in search of the most authentic NYC deli experience look no further than the famous and historic Katz's Deli down on the Lower East Side.
+622	1	0	Joe's Pizza used to have the best slice until this pizzeria opened up.
+623	1	0	I have never had anything like it!
+624	1	1	It was so bad I actually refused to pay for my food.
+625	1	0	I recommend this spot to anyone who enjoys  fine cuisine at reasonable prices.
+626	1	0	This is, by far, my favorite restaurant in NYC and I only wish it were more affordable so I could go more often!
+627	1	0	THE FRANKENSTEIN SHOW WAS THE BEST.
+628	1	1	As a fan of Thai, I have tried quite a few different restaurants in NYC and this one was definitely the worst.
+629	1	0	Stumbled upon this gem of a pizza place and I will be going back frequently.
+630	1	0	Kudos Haru
+631	1	0	I plan on eating here more often.
+632	1	0	I came here for my friend's birthday and keep coming back ever since.
+633	1	1	I would never wait for a table to eat, it just is not THAT great.
+634	1	0	I had a grat time at Jekyll and Hyde!
+635	1	1	and we were thouroughly disapointed.
+636	1	0	This is a great place to take out-of-towners, and perfect for watching the sunset.
+637	1	0	Our teenage kids love it, too.
+638	1	0	You guys are awesome!
+639	1	0	I loved this place!!
+640	1	1	Avoid at all costs.
+641	1	0	I would highly recommend this place to everyone for any occasion!
+642	1	0	I recommend that you try this hidden spot which will surely blowup very soon
+643	1	1	I went there for lunch and it was not as good as I expected from the reviews I read.
+644	1	1	I would not recommend this place to anyone.
+645	1	1	Perhaps it was an off night, but it was suprisingly average for a 9.3 rating.
+646	1	0	Have been dozens of times and never failed to enjoy the experience.
+647	1	0	I highly recommend the restaurant based on our experience last night.
+648	1	0	All in all a wonderful experience, can't wait to come back.
+649	1	0	I would go back.
+650	1	0	Definitely will be back!
+651	1	0	This is the kind of place you'd like to take all your friends to and still keep a secret.
+652	1	1	Everything that happened was not even up to mediocre.
+653	1	0	I've been frequenting The Tasting Room since it first arrived in the East Village and I've never been disappointed.
+654	1	0	Heartland Brewery is a great way to start or finish your day.
+655	1	0	This is the perfect date spot for Williamsburg couples.
+656	1	0	Another welcome addition to the neighborhood.
+657	1	1	Not only would I not recommend Jimmy's restaurants to friends, I would strongly suggest they go anywhere but.
+658	1	1	Haru on Park S is simply disgusting.
+659	1	0	As a long-time patron of Mamoun's, I always figured that I had found the best late night food spot in the city.
+660	1	0	Go there to relax and feel like your somewhere else.
+661	1	0	It was a very nice surprise.
+662	1	0	I am French and I really felt like home!!!
+663	1	0	I have been to Casimir over 5 times and I have always had a great time there.
+664	1	0	I love going there!
+665	1	0	I cannot recommend OG more highly if I tried - check it out for yourself.
+666	1	0	It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.
+667	1	1	Save your money and don't waste your calories, go to Margharita's on Washington Street instead, they have amazing food and the BEST service.
+668	1	0	But trust me it is so worth it.
+669	1	0	THe perfect spot.
+670	1	1	DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.
+671	1	0	I took my girlfriend there for her birthday last night and we had a relaxing, really good meal.
+672	1	0	I'm happy to have Nosh in the neighborhood and the food is very comforting.
+673	1	0	I would highly recommend Nina's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures.
+674	1	0	There's something smooth about sipping sake upper east side style.
+675	1	0	This place has got to be the best japanese restaurant in the new york area.
+676	1	0	Going to Volare is like going to your favorite aunt's house for dinner, assuming that your aunt is a great Italian cook.
+677	1	0	I loved it and would go again.
+678	1	0	SO SO SO SO SO good!
+679	1	0	Out of the hundreds of Italian restaurants in Queens, this is among the best.
+680	1	0	Very good value
+681	1	0	Everything a NY pizza joint should be.
+682	1	1	moral stay away.
+683	1	0	When I saw that their website had a link to da Ciro in Napoli, I knew there was going to be good pizza!
+684	1	0	They're terrific!!
+685	1	0	They outshine HH.
+686	1	1	We were sorry to check them off our list as we had enjoyed and recommended the place in the past.
+687	1	1	If you're not familiar with the cuisine, you may encounter problems ordering here and be sure to bring plenty of cash with you as they don't accept credit cards.
+688	1	1	Problem is nothing at Prune is particularly memorable.
+689	1	0	keep up the good work.
+690	1	0	great eats, good times.
+691	1	0	Make sure you try this place as often as you can.
+692	1	0	Another plus is most of the entrees are approx.
+693	1	0	I will go back to Suan soon!
+694	1	0	Loved it!
+695	1	0	We were pleasantly surprised.
+696	1	1	We ate at this Thai place following the reviews but very unhappy with the foods.
+697	1	1	I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!
+698	1	0	Village is one of those places that scores on all fronts.
+699	1	0	It is the best hidden spot there and I rave about it to everyone.
+700	1	0	I had been a regular due to the consistently good food and ease of getting a table.
+701	1	0	Can't wait wait for my next visit.
+702	1	0	If you live in Upper Manhattan, Siam Square is THE place for Thia food.
+703	1	1	Stay away from this place.
+704	1	0	Brava La Pizza Fresca!
+705	1	0	Check it out, it won't hurt your stomach or your wallet.
+706	1	1	If just to drop in, quickly stuff yourself and jet out -- to keep their turn-over.
+707	1	0	Bleecker St Pizza is the best!
+708	1	1	I DO NOT RECOMMEND THE HEARTLAND BREWERY.
+709	1	0	Faan is sooo good.
+710	1	0	No you're going to go back because the food was good.
+711	1	1	Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.
+712	1	1	I will not be coming here at 3am again.
+713	1	0	I went to Ruby Foos for my birthday and enjoyed our experience there.
+714	1	0	Nice find.
+715	1	0	Amazing!
+716	1	0	There is nothing more pleasant than that.
+717	1	0	I would recommend this place to anyone and would without a doubt come again.
+718	1	0	What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.
+719	1	0	Mizu is the Japenese find in Grammercy.
+720	1	0	For sure i will keep coming back because i feel really this restaurant deserves.
+721	1	0	One of my favorite restaurants in the neighborhood.
+722	1	0	I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood.
+723	1	0	This is a true gem of the village.
+724	1	0	However, I think Jeckll and Hydes t is one of those places that is fun to do once.
+725	1	0	A wonderful place!
+726	1	0	Please take my advice, go and try this place.
+727	1	0	for my birthday and we had an excellent time.
+728	1	1	please don't fool us.
+729	1	0	And when I visit her I make it a point to eat at 'Ino at least once daily if not once for the whole trip.
+730	1	1	If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.
+731	1	0	I grew up on these bagels.
+732	1	0	You can't go wrong here.
+733	1	0	After dealing with subpar pizza all over the Kensington neighborhood - I've found little toninos.
+734	1	1	I thought this place was totally overrated.
+735	1	0	You won't find that anywhere in Manhattan.
+736	1	0	How do you rate home?
+737	1	1	Better than the bagel shop on the corner, but not worth going out of your way for, in my opinion.
+738	1	0	But that is highly forgivable.
+739	1	0	I trust the people at Go Sushi, it never disappoints.
+740	1	0	From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.
+741	1	0	We enjoyed ourselves thoroughly and will be going back for the desserts ....
+742	1	0	I am surprised at the lower reviews because it is definitely better than other places I have tried with higher ratings.
+743	1	0	Maybe the secret was that we went on a Sunday night and everything was great.
+744	1	0	WE WERE PLEASANTLY SURPRISED WITH OUR CHOICE.
+745	1	0	have always had a great time here.
+746	1	0	You will be very happy with the experience.
+747	1	0	I absolutely suggest this place.
+748	1	0	Overall, this is a great new restaurant that has been consistently good every time I have been.
+749	1	0	We love it, and took buses and cabs to get there.
+750	1	0	If you' re in New York, you do not want to miss this place.
+751	1	0	I've been coming here on and off for the past five years and I have to say that La Lanterna has never, ever dissapointed me.
+752	1	0	My husband and I moved to Nolita 6 years ago and for as long as we have lived here, Peasant has been our favorite!
+753	1	0	The whole experience was satisfying.
+754	1	0	However, it was worth the visit.
+755	1	0	If you're in the 'hood, definitely stop in.
+756	1	0	This is definitely one of the places that I have continued to come back to over the years.
+757	1	0	this restaurant is absolutely beautiful.
+758	1	0	I have no idea why this restaurant is so often overlooked.
+759	1	0	From the moment you walk in, you feel like you're in the perfect place.
+760	1	0	I find that most Kosher restaurants are average to good, but this has been the best I've eaten so far.
+761	1	1	Not terrible, but not the restaurant in the reviews of 2002.
+762	1	1	As we waited I watched 3 seperate groups of diners discuss how dissapointed they also were.
+763	1	0	An excellent choice in midtown.
+764	1	0	My boyfriend and I went here last night and LOVED it!
+765	1	0	Everything about this place was wonderful.
+766	1	0	You won't be dissapointed.
+767	1	0	Culinaria is a welcome addition to the Garment district- far better than any restaurant in the area.
+768	1	1	Do yourself a favor and avoid this place at ALL COST!
+769	1	0	since the first time I came here I've been hooked.
+770	1	0	People in the neighborhood seem to love it, too.
+771	1	1	in conclusion, THIS PLACE SUCKS!!!
+772	1	0	Nick Stef's is one of the only places worthy of going in the area, so if you happen to be by Madison Square Garden or Herald's Square check it out!
+773	1	1	Have to tell you: Not at all impressed.
+774	1	0	How have I never been to Agave before?
+775	1	0	A nice find in the neighborhood.
+776	1	0	Bay Terrace mall is nothing (ok, almost nothing) without it!
+777	1	0	My husband and I had a blast.
+778	1	1	personally i say save your money.
+779	1	0	Believe me, they live up to the name.
+780	1	0	They are by far the BEST past in New York.
+781	1	0	It's the kind of place I like to support!
+782	1	0	just walk by the window and see all the unbiased positive reviews in all the major nyc publications.
+783	1	1	Would not recommend anyone to go.
+784	1	0	We loved it and will go back!
+785	1	0	I came again weeks later with my boyfriend and again had a very nice experience.
+786	1	0	We'll definitly be back again!
+787	1	0	This is the best Italian restaurant in the city.
+788	1	1	Horrible experience - stay away!
+789	1	0	If this restaurant was in Manhattan, I would definitely go more often.
+790	1	0	One of my Fav spots in the city.
+791	1	1	Over priced, overrated....stay away!
+792	1	1	Do not go to this restaurant.
+793	1	0	All I can say is they are fantastic.
+794	1	1	I can't imagine how much worse it would have been if we'd gone at a prime time!
+795	1	0	I have dined at Mammino several times now and each time it gets bettter.
+796	1	0	Definitely something to come down and check out.
+797	1	0	I went there with a few friends and will return.
+798	1	0	I highly recommend this restaurant!!
+799	1	0	You will find everything about Trio to your liking!
+800	1	1	This place was the worst.
+801	1	0	This is a nice sushi restaurant in Brooklyn that's located on 86 street, right underneath the train station.
+802	1	0	Having moved I truly miss this place.
+803	1	0	SUM IT: local investment bankers like it, try for yourself at least once.
+804	1	0	I started going to dosa hut more after that.
+805	1	1	We were wondering why they were there to make our dining experience miserable?
+806	1	0	Siam Square is fairly new to the neighborhood and I think in time will gain the recognition it deserves.
+807	1	0	My first experience at Siam Square was very pleasant.
+808	1	0	I have gone back to Siam Square many times since and everytime I am very satisfied overall.
+809	1	0	We had our Christmas party at Dos Caminos and it was wonderful.
+810	1	0	My personal favorite is Nick and Joe's.
+811	1	1	Unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport.
+812	1	0	I would definitely come back to this restaurant.
+813	1	1	The place just isn't ready for prime time.
+814	1	0	Quartino is my favoriate resturant in NYC.
+815	1	0	And you never get the feeling that you need to leave.
+816	1	0	great neighbhorhood spot.
+817	1	0	Bobb V's is a great place to take your Friends and Family!
+818	1	0	Here's the thing, you're in the best city in the world for restaurants.
+819	1	0	This is a real gem of a place.
+820	1	0	I think this a a wonderful place.
+821	1	0	This place doesn't get the publicity that Sylvias Soul Food restaurant does, but it should.
+822	1	1	Just because P Diddy had a party at Butter doesn't mean we should be automatically impressed.
+823	1	0	Like I said, Nick and Joe's may not be everyone's favorite, but it's mine.
+824	1	0	DON'T KNOW WHAT THE OTHERS ON THE BLOCK WERE LIKE BUT WE WERE PLEASED WITH OUR CHOICE.
+825	1	0	It's cute and simple and I loved it.
+826	1	0	My wife and I recently visited the bistro for dinner and had a wonderful experience.
+827	1	0	THE SERVICE IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT
+828	1	0	There are many french bistros in the midtown area, and I wholheartedly recommend this one.
+829	1	0	This diamond in the ruff is definitely worth my 10-minute walk from the 6 train.
+830	1	0	Being a vegan myself, I've made a point of trying all the vegan restaurants in Manhattan--and Zen Palate is easily my favorite.
+831	1	0	Don Pedro's is one of my favorite restaurants.
+832	1	0	Cantinetta is a real treasure in a see of mediocre Italian restaurants.
+833	1	0	Really nice restaurant to go with a group or on a date.
+834	1	1	You will not be missing anything.
+835	1	1	I often find myself with time to kill in Times Square, which is a shame since I don't love this area.
+836	1	1	This place is average... at best.
+837	1	0	Whatever the reason it is definitely the place to be.
+838	1	0	I've come here for casual lunches as well as for a friend's birthday and I always enjoy myself.
+839	1	0	Feels like family when we go there.
+840	1	0	What a pleasant surprise!
+841	1	1	The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.
+842	1	0	No doubt the next time we want to go out for a special occasion or are entertaining guests from out of town, Spirit and Bateaux will be our destination.
+843	1	1	i would recommend Jewel Bako if you want to feel like you were kicked in the groin and had to pay for it too.
+844	1	1	The ambiance was pretty cool, but not worth the hassle.
+845	1	0	El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's.
+846	1	1	The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+847	1	0	You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+848	1	0	I'm almost tempted to give this place a bad review so I can keep the crowds away...been going there on and off for a year now and it's really my fave hang out in the city.
+849	1	1	The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+850	1	1	Don't waste your time or your money.
+851	1	0	it was a very warm experience.
+852	1	0	I went to Common Stock for brunch and I was so impressed.
+853	1	0	I just have nothing to say about this place that is negative except that it's not a cheap night out...but it's SO worth it.
+854	1	0	It's nice to find a place that is open 24 hours (especially in downtown Brooklyn).
+855	1	0	It was such a fantastic dining experience, that I returned again the same week.
+856	1	1	Cool atmosphere but such a let down.
+857	1	1	Finally let into the store 5 at a time, to buy expensive slices from a harried staff.
+858	1	1	We ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.
+859	1	0	Everything about this place is adorable - even the bathroom!
+860	1	1	THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.
+861	1	1	Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.
+862	1	0	Ask for the round corner table next to the large window.
+863	1	1	Service was awful - mostly because staff were overwhelmed on a Saturday night.
+864	1	0	To the owners; good job guys, this place is a keeper!
+865	1	0	perfect for a quick meal.
+866	1	1	My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.
+867	1	0	Good for a quick sushi lunch.
+868	1	0	I would definitely go back -- if only for some of those exotic martinis on the blackboard.
+869	1	0	then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.
+870	1	0	With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.
+871	1	0	Give it a try, menu is typical French but varied.
+872	1	1	Actually, everyone who worked there seemed to be annoyed.
+873	1	0	Best Chinese on the Upper East, prompt delivery, good value.
+874	1	0	It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.
+875	1	0	Was her Monday for lunch - was working on a film in the area - and found this rare jewel.
+876	1	0	You feel like you made it to New York when you eat here.
+877	1	0	SUM IT: don't read the '10's' reviews, try it to judge for yourself so you won't have as hi expectations, then you'll be sure to enjoy it.
+878	1	0	I have been in NYC for over 10 years and could not find this delicacy east of the Hudson .
+879	1	0	Great restaurant, and even greater food!
+880	1	0	We were there March 7 and found Maison very nice.
+881	1	1	This is a typical example of an establishment in which its owners do not know anything about the restaurant business!
+882	1	1	I would not recommend MEET at all, it is a rip off all the way from the time to step in!
+883	1	0	Really Lovely dining experience in the midst of buzzing midtown area.
+884	1	1	Maybe it's that most of Dumont's patrons are younger and have lower expectations, but I cannot recommend Dumont.
+885	1	0	I've been to Sotto Voce several time, and I have to say this one place that hits the nail right on the head ever time!
+886	1	0	This is the best unknown restaurant in and around New York.
+887	1	1	It took a bigger bite from my wallet than my appetite - I would not reccomend this to anyone that I would want to talk to me again!!
+888	1	0	It's a great find in Astoria.
+889	1	1	It's always quiet because it's awful.
+890	1	0	I have to say the place was awesome.
+891	1	0	The restaurant could use a little paint, but all in all a great sushi place!
+892	1	0	The decoration was feeling like we was on the Cairo, actually the street is part of that adventure.
+893	1	0	My friends and I go once a week (minimum, we live in the area) and everytime can't resist walking out ready to burst.
+894	1	0	Not only is this the best Thai restaurant I have been to, but it also ranks as one of my favorite places to dine.
+895	1	0	Don't be put off by another reviewers extremely negative review.
+896	1	0	Had dinner here on a Friday and the food was great.
+897	1	0	We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.
+898	1	0	Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.
+899	1	0	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+900	1	0	Now we moved out of the state and every visit to NYC includes a stop here.
+901	1	1	I don't remember what we had; nothing was memorable.
+902	1	1	We were seated next to a couple whose kitchen was being renovated and we agreed since we're all foodies who eat out a lot - that this wasn't a place we'd return to.
+903	1	0	I'm looking forward to going back soon and eventually trying most everything on the menu!
+904	1	0	I just had my first visit to this place and can't wait to go back and slowly work my way through the menu.
+905	1	1	I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.
+906	1	0	I always find myself sitting next to someone in the theatre industry- interesting to hear ideas hashed out while having a quick bite to eat.
